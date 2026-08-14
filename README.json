@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-13T20:32:46Z",
+            "last_commit": "2026-08-14T11:52:21Z",
             "owner": "topepo",
             "repo": "caret",
             "stars": 1670
@@ -213,7 +213,7 @@
             "last_commit": "2026-08-13T22:04:45Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 66974
+            "stars": 66983
           }
         },
         {
@@ -275,7 +275,7 @@
             "last_commit": "2026-08-13T22:04:45Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 66974
+            "stars": 66983
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2026-07-24T22:21:57Z",
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34666
+            "stars": 34665
           }
         },
         {
@@ -1015,10 +1015,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T19:06:46Z",
+            "last_commit": "2026-08-14T20:13:13Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38530
+            "stars": 38531
           }
         },
         {
@@ -1271,7 +1271,7 @@
             "last_commit": "2026-03-02T04:42:20Z",
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9365
+            "stars": 9362
           }
         },
         {
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T22:23:15.707Z",
+    "last_updated": "2026-08-14T21:57:07.642Z",
     "original_repository": "ZhiningLiu1998/awesome-imbalanced-learning",
     "original_repository_sha": "2d45e1e3f18f4e6ded55c815af5f982c22466220",
     "enhanced_repository": "enhansome/enhansome-imbalanced-learning",
