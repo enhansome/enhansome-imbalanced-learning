@@ -49,10 +49,10 @@
                   "repo_info": {
                     "archived": false,
                     "language": "Python",
-                    "last_commit": "2026-08-05T15:13:06Z",
+                    "last_commit": "2026-08-17T08:39:59Z",
                     "owner": "joblib",
                     "repo": "joblib",
-                    "stars": 4383
+                    "stars": 4384
                   }
                 }
               ]
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-16T21:00:34Z",
+            "last_commit": "2026-08-17T21:11:13Z",
             "owner": "topepo",
             "repo": "caret",
             "stars": 1670
@@ -210,10 +210,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T05:03:27Z",
+            "last_commit": "2026-08-17T12:13:05Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 66964
+            "stars": 66965
           }
         },
         {
@@ -272,10 +272,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T05:03:27Z",
+            "last_commit": "2026-08-17T12:13:05Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 66964
+            "stars": 66965
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2026-07-24T22:21:57Z",
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34667
+            "stars": 34668
           }
         },
         {
@@ -1018,7 +1018,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38549
+            "stars": 38567
           }
         },
         {
@@ -1271,7 +1271,7 @@
             "last_commit": "2026-03-02T04:42:20Z",
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9364
+            "stars": 9365
           }
         },
         {
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:54:29.094Z",
+    "last_updated": "2026-08-17T21:57:50.658Z",
     "original_repository": "ZhiningLiu1998/awesome-imbalanced-learning",
     "original_repository_sha": "2d45e1e3f18f4e6ded55c815af5f982c22466220",
     "enhanced_repository": "enhansome/enhansome-imbalanced-learning",
