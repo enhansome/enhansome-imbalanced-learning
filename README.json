@@ -28,7 +28,7 @@
             "last_commit": "2024-01-03T21:08:01Z",
             "owner": "analyticalmindsltd",
             "repo": "smote_variants",
-            "stars": 689
+            "stars": 690
           }
         },
         {
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-17T21:11:13Z",
+            "last_commit": "2026-08-18T21:13:40Z",
             "owner": "topepo",
             "repo": "caret",
             "stars": 1670
@@ -98,7 +98,7 @@
             "last_commit": "2024-01-03T21:08:01Z",
             "owner": "analyticalmindsltd",
             "repo": "smote_variants",
-            "stars": 689
+            "stars": 690
           }
         }
       ],
@@ -210,10 +210,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T12:13:05Z",
+            "last_commit": "2026-08-18T13:49:34Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 66965
+            "stars": 66971
           }
         },
         {
@@ -272,10 +272,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T12:13:05Z",
+            "last_commit": "2026-08-18T13:49:34Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 66965
+            "stars": 66971
           }
         },
         {
@@ -467,7 +467,7 @@
             "last_commit": "2024-01-03T21:08:01Z",
             "owner": "analyticalmindsltd",
             "repo": "smote_variants",
-            "stars": 689
+            "stars": 690
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2026-07-24T22:21:57Z",
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34668
+            "stars": 34671
           }
         },
         {
@@ -1018,7 +1018,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38567
+            "stars": 38577
           }
         },
         {
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:57:50.658Z",
+    "last_updated": "2026-08-18T21:56:10.578Z",
     "original_repository": "ZhiningLiu1998/awesome-imbalanced-learning",
     "original_repository_sha": "2d45e1e3f18f4e6ded55c815af5f982c22466220",
     "enhanced_repository": "enhansome/enhansome-imbalanced-learning",
