@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23011147,
             "language": "Python",
             "last_commit": "2026-06-29T16:33:16Z",
             "owner": "scikit-learn-contrib",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151773885,
             "language": "Jupyter Notebook",
             "last_commit": "2024-01-03T21:08:01Z",
             "owner": "analyticalmindsltd",
@@ -48,11 +50,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 654608,
                     "language": "Python",
-                    "last_commit": "2026-08-17T08:39:59Z",
+                    "last_commit": "2026-08-19T09:02:07Z",
                     "owner": "joblib",
                     "repo": "joblib",
-                    "stars": 4384
+                    "stars": 4385
                   }
                 }
               ]
@@ -60,6 +63,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 346345336,
             "language": "Python",
             "last_commit": "2026-03-05T04:36:51Z",
             "owner": "ZhiningLiu1998",
@@ -71,7 +75,7 @@
       "title": "1.1 Python"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -80,6 +84,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19862061,
             "language": "R",
             "last_commit": "2026-08-18T21:13:40Z",
             "owner": "topepo",
@@ -94,6 +99,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151773885,
             "language": "Jupyter Notebook",
             "last_commit": "2024-01-03T21:08:01Z",
             "owner": "analyticalmindsltd",
@@ -105,1196 +111,1308 @@
       "title": "1.2 R"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "2.2 Ensemble Learning"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Self-paced Ensemble (ICDE 2020, 20+ citations) [Paper][Code][Slides][Zhihu/知乎][PyPI]",
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Self-paced Ensemble (ICDE 2020, 20+ citations) [Paper][Code][Slides][Zhihu/知乎][PyPI]",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 206526243,
+                    "language": "Python",
+                    "last_commit": "2024-02-05T22:10:40Z",
+                    "owner": "ZhiningLiu1998",
+                    "repo": "self-paced-ensemble",
+                    "stars": 261
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler (NeurIPS 2020) [Paper][Code][Video][Zhihu/知乎]",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 269029186,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-06-17T23:00:16Z",
+                    "owner": "ZhiningLiu1998",
+                    "repo": "mesa",
+                    "stars": 111
+                  }
+                },
+                {
+                  "node_type": "group",
+                  "title": "Exploratory Undersampling for Class-Imbalance Learning (IEEE Trans. on SMC, 2008, 1300+ citations) [Paper]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "EasyEnsemble [Code",
+                      "description": "]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 346345336,
+                        "language": "Python",
+                        "last_commit": "2026-03-05T04:36:51Z",
+                        "owner": "ZhiningLiu1998",
+                        "repo": "imbalanced-ensemble",
+                        "stars": 430
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "BalanceCascade [Code",
+                      "description": "]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 346345336,
+                        "language": "Python",
+                        "last_commit": "2026-03-05T04:36:51Z",
+                        "owner": "ZhiningLiu1998",
+                        "repo": "imbalanced-ensemble",
+                        "stars": 430
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "The Effects of Ensembling on Long-Tailed Data (Neurips 2023 Heavy Tails Workshop) [Paper]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Logit vs. Probability Ensembles [Code",
+                      "description": "]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 638987112,
+                        "language": "Python",
+                        "last_commit": "2024-04-26T23:16:25Z",
+                        "owner": "ekellbuch",
+                        "repo": "longtail_ensembles",
+                        "stars": 1
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2.2.1 General ensemble"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AdaBoost (1995, 18700+ citations) [Paper][Code] - Adaptive Boosting with C4.5",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 843222,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T11:52:09Z",
+                    "owner": "scikit-learn",
+                    "repo": "scikit-learn",
+                    "stars": 66972
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SMOTEBoost (2003, 1100+ citations) [Paper][Code] - Synthetic Minority Over-sampling TEchnique Boosting",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 346345336,
+                    "language": "Python",
+                    "last_commit": "2026-03-05T04:36:51Z",
+                    "owner": "ZhiningLiu1998",
+                    "repo": "imbalanced-ensemble",
+                    "stars": 430
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RUSBoost (2009, 850+ citations) [Paper] [Code] - Random Under-Sampling Boosting",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 346345336,
+                    "language": "Python",
+                    "last_commit": "2026-03-05T04:36:51Z",
+                    "owner": "ZhiningLiu1998",
+                    "repo": "imbalanced-ensemble",
+                    "stars": 430
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RAMOBoost (2010, 140+ citations) [Paper] [Code] - Ranked Minority Over-sampling in Boosting",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 66499180,
+                    "language": "Python",
+                    "last_commit": "2022-01-29T07:47:23Z",
+                    "owner": "dialnd",
+                    "repo": "imbalanced-algorithms",
+                    "stars": 241
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2.2.2 Boosting-based"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Bagging (1996, 20000+ citations) [Paper][Code] - Bagging predictor",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 843222,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T11:52:09Z",
+                    "owner": "scikit-learn",
+                    "repo": "scikit-learn",
+                    "stars": 66972
+                  }
+                },
+                {
+                  "node_type": "group",
+                  "title": "Diversity Analysis on Imbalanced Data Sets by Using Ensemble Models (2009, 400+ citations) [Paper]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "UnderBagging [Code",
+                      "description": "]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 346345336,
+                        "language": "Python",
+                        "last_commit": "2026-03-05T04:36:51Z",
+                        "owner": "ZhiningLiu1998",
+                        "repo": "imbalanced-ensemble",
+                        "stars": 430
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "OverBagging [Code",
+                      "description": "]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 346345336,
+                        "language": "Python",
+                        "last_commit": "2026-03-05T04:36:51Z",
+                        "owner": "ZhiningLiu1998",
+                        "repo": "imbalanced-ensemble",
+                        "stars": 430
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "SMOTEBagging [Code",
+                      "description": "]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 346345336,
+                        "language": "Python",
+                        "last_commit": "2026-03-05T04:36:51Z",
+                        "owner": "ZhiningLiu1998",
+                        "repo": "imbalanced-ensemble",
+                        "stars": 430
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2.2.3 Bagging-based"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AdaCost (ICML 1999, 800+ citations) [Paper][Code] - Misclassification Cost-sensitive boosting",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 346345336,
+                    "language": "Python",
+                    "last_commit": "2026-03-05T04:36:51Z",
+                    "owner": "ZhiningLiu1998",
+                    "repo": "imbalanced-ensemble",
+                    "stars": 430
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AdaUBoost (NIPS 1999, 100+ citations) [Paper][Code] - AdaBoost with Unequal loss functions",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 346345336,
+                    "language": "Python",
+                    "last_commit": "2026-03-05T04:36:51Z",
+                    "owner": "ZhiningLiu1998",
+                    "repo": "imbalanced-ensemble",
+                    "stars": 430
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AsymBoost (NIPS 2001, 700+ citations) [Paper][Code] - Asymmetric AdaBoost and detector cascade",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 346345336,
+                    "language": "Python",
+                    "last_commit": "2026-03-05T04:36:51Z",
+                    "owner": "ZhiningLiu1998",
+                    "repo": "imbalanced-ensemble",
+                    "stars": 430
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2.2.4 Cost-sensitive ensemble"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-05T22:10:40Z",
-            "owner": "ZhiningLiu1998",
-            "repo": "self-paced-ensemble",
-            "stars": 261
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler (NeurIPS 2020) [Paper][Code][Video][Zhihu/知乎]",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-06-17T23:00:16Z",
-            "owner": "ZhiningLiu1998",
-            "repo": "mesa",
-            "stars": 111
-          }
-        },
-        {
           "node_type": "group",
-          "title": "Exploratory Undersampling for Class-Imbalance Learning (IEEE Trans. on SMC, 2008, 1300+ citations) [Paper]",
+          "title": "2.2 Ensemble Learning"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ROS [Code] - Random Over-sampling",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23011147,
+                    "language": "Python",
+                    "last_commit": "2026-06-29T16:33:16Z",
+                    "owner": "scikit-learn-contrib",
+                    "repo": "imbalanced-learn",
+                    "stars": 7118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SMOTE (2002, 9800+ citations) [Paper][Code] - Synthetic Minority Over-sampling TEchnique",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23011147,
+                    "language": "Python",
+                    "last_commit": "2026-06-29T16:33:16Z",
+                    "owner": "scikit-learn-contrib",
+                    "repo": "imbalanced-learn",
+                    "stars": 7118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Borderline-SMOTE (2005, 1400+ citations) [Paper][Code] - Borderline-Synthetic Minority Over-sampling TEchnique",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23011147,
+                    "language": "Python",
+                    "last_commit": "2026-06-29T16:33:16Z",
+                    "owner": "scikit-learn-contrib",
+                    "repo": "imbalanced-learn",
+                    "stars": 7118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ADASYN (2008, 1100+ citations) [Paper][Code] - ADAptive SYNthetic Sampling",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23011147,
+                    "language": "Python",
+                    "last_commit": "2026-06-29T16:33:16Z",
+                    "owner": "scikit-learn-contrib",
+                    "repo": "imbalanced-learn",
+                    "stars": 7118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SVM-SMOTE (2009, 120+ citations) [Paper][Code] - SMOTE based on Support Vectors of SVM",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23011147,
+                    "language": "Python",
+                    "last_commit": "2026-06-29T16:33:16Z",
+                    "owner": "scikit-learn-contrib",
+                    "repo": "imbalanced-learn",
+                    "stars": 7118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MDO (2015, 150+ citations) [Paper][Code] - Mahalanobis Distance-based Over-sampling for Multi-Class imbalanced problems.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 151773885,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-01-03T21:08:01Z",
+                    "owner": "analyticalmindsltd",
+                    "repo": "smote_variants",
+                    "stars": 690
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SPIDER (2008, 150+ citations) [Paper][Code(Java)] - Selective Preprocessing of Imbalanced Data",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42706960,
+                    "language": "Java",
+                    "last_commit": "2018-03-05T17:45:40Z",
+                    "owner": "SCI2SUGR",
+                    "repo": "KEEL",
+                    "stars": 133
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Safe-Level-SMOTE (2009, 370+ citations) [Paper][Code(Java)] - Safe Level Synthetic Minority Over-sampling TEchnique",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42706960,
+                    "language": "Java",
+                    "last_commit": "2018-03-05T17:45:40Z",
+                    "owner": "SCI2SUGR",
+                    "repo": "KEEL",
+                    "stars": 133
+                  }
+                }
+              ],
+              "description": "NOTE: See more over-sampling methods at smote-variants.",
+              "node_type": "group",
+              "title": "2.3.1 Over-sampling"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RUS [Code] - Random Under-sampling",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23011147,
+                    "language": "Python",
+                    "last_commit": "2026-06-29T16:33:16Z",
+                    "owner": "scikit-learn-contrib",
+                    "repo": "imbalanced-learn",
+                    "stars": 7118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CNN (1968, 2100+ citations) [Paper][Code] - Condensed Nearest Neighbor",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23011147,
+                    "language": "Python",
+                    "last_commit": "2026-06-29T16:33:16Z",
+                    "owner": "scikit-learn-contrib",
+                    "repo": "imbalanced-learn",
+                    "stars": 7118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ENN (1972, 1500+ citations) [Paper] [Code] - Edited Condensed Nearest Neighbor",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23011147,
+                    "language": "Python",
+                    "last_commit": "2026-06-29T16:33:16Z",
+                    "owner": "scikit-learn-contrib",
+                    "repo": "imbalanced-learn",
+                    "stars": 7118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TomekLink (1976, 870+ citations) [Paper][Code] - Tomek's modification of Condensed Nearest Neighbor",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23011147,
+                    "language": "Python",
+                    "last_commit": "2026-06-29T16:33:16Z",
+                    "owner": "scikit-learn-contrib",
+                    "repo": "imbalanced-learn",
+                    "stars": 7118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NCR (2001, 500+ citations) [Paper][Code] - Neighborhood Cleaning Rule",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23011147,
+                    "language": "Python",
+                    "last_commit": "2026-06-29T16:33:16Z",
+                    "owner": "scikit-learn-contrib",
+                    "repo": "imbalanced-learn",
+                    "stars": 7118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NearMiss-1 & 2 & 3 (2003, 420+ citations) [Paper][Code] - Several kNN approaches to unbalanced data distributions.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23011147,
+                    "language": "Python",
+                    "last_commit": "2026-06-29T16:33:16Z",
+                    "owner": "scikit-learn-contrib",
+                    "repo": "imbalanced-learn",
+                    "stars": 7118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OSS (2007, 2100+ citations) [Paper][Code] - One Side Selection",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23011147,
+                    "language": "Python",
+                    "last_commit": "2026-06-29T16:33:16Z",
+                    "owner": "scikit-learn-contrib",
+                    "repo": "imbalanced-learn",
+                    "stars": 7118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "IHT (2014, 130+ citations) [Paper][Code] - Instance Hardness Threshold",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23011147,
+                    "language": "Python",
+                    "last_commit": "2026-06-29T16:33:16Z",
+                    "owner": "scikit-learn-contrib",
+                    "repo": "imbalanced-learn",
+                    "stars": 7118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CNN with TomekLink (2004, 2000+ citations) [Paper][Code(Java)] - Condensed Nearest Neighbor + TomekLink",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42706960,
+                    "language": "Java",
+                    "last_commit": "2018-03-05T17:45:40Z",
+                    "owner": "SCI2SUGR",
+                    "repo": "KEEL",
+                    "stars": 133
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2.3.2 Under-sampling"
+            }
+          ],
           "description": null,
+          "node_type": "group",
+          "title": "2.3 Data resampling"
+        },
+        {
           "children": [
             {
               "node_type": "item",
-              "title": "EasyEnsemble [Code",
-              "description": "]",
+              "title": "CSC4.5 (2002, 420+ citations) [Paper][Code(Java)] - An instance-weighting method to induce cost-sensitive trees",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Python",
-                "last_commit": "2026-03-05T04:36:51Z",
-                "owner": "ZhiningLiu1998",
-                "repo": "imbalanced-ensemble",
-                "stars": 430
+                "id": 42706960,
+                "language": "Java",
+                "last_commit": "2018-03-05T17:45:40Z",
+                "owner": "SCI2SUGR",
+                "repo": "KEEL",
+                "stars": 133
               }
             },
             {
               "node_type": "item",
-              "title": "BalanceCascade [Code",
-              "description": "]",
+              "title": "CSSVM (2008, 710+ citations) [Paper][Code(Java)] - Cost-sensitive SVMs for highly imbalanced classification",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Python",
-                "last_commit": "2026-03-05T04:36:51Z",
-                "owner": "ZhiningLiu1998",
-                "repo": "imbalanced-ensemble",
-                "stars": 430
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "The Effects of Ensembling on Long-Tailed Data (Neurips 2023 Heavy Tails Workshop) [Paper]",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Logit vs. Probability Ensembles [Code",
-              "description": "]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-04-26T23:16:25Z",
-                "owner": "ekellbuch",
-                "repo": "longtail_ensembles",
-                "stars": 1
-              }
-            }
-          ]
-        }
-      ],
-      "title": "2.2.1 General ensemble"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AdaBoost (1995, 18700+ citations) [Paper][Code] - Adaptive Boosting with C4.5",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T13:49:34Z",
-            "owner": "scikit-learn",
-            "repo": "scikit-learn",
-            "stars": 66971
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SMOTEBoost (2003, 1100+ citations) [Paper][Code] - Synthetic Minority Over-sampling TEchnique Boosting",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-05T04:36:51Z",
-            "owner": "ZhiningLiu1998",
-            "repo": "imbalanced-ensemble",
-            "stars": 430
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RUSBoost (2009, 850+ citations) [Paper] [Code] - Random Under-Sampling Boosting",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-05T04:36:51Z",
-            "owner": "ZhiningLiu1998",
-            "repo": "imbalanced-ensemble",
-            "stars": 430
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RAMOBoost (2010, 140+ citations) [Paper] [Code] - Ranked Minority Over-sampling in Boosting",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-01-29T07:47:23Z",
-            "owner": "dialnd",
-            "repo": "imbalanced-algorithms",
-            "stars": 241
-          }
-        }
-      ],
-      "title": "2.2.2 Boosting-based"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bagging (1996, 20000+ citations) [Paper][Code] - Bagging predictor",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T13:49:34Z",
-            "owner": "scikit-learn",
-            "repo": "scikit-learn",
-            "stars": 66971
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Diversity Analysis on Imbalanced Data Sets by Using Ensemble Models (2009, 400+ citations) [Paper]",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "UnderBagging [Code",
-              "description": "]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-03-05T04:36:51Z",
-                "owner": "ZhiningLiu1998",
-                "repo": "imbalanced-ensemble",
-                "stars": 430
+                "id": 42706960,
+                "language": "Java",
+                "last_commit": "2018-03-05T17:45:40Z",
+                "owner": "SCI2SUGR",
+                "repo": "KEEL",
+                "stars": 133
               }
             },
             {
               "node_type": "item",
-              "title": "OverBagging [Code",
-              "description": "]",
+              "title": "CSNN (2005, 950+ citations) [Paper][Code(Java)] - Training cost-sensitive neural networks with methods addressing the class imbalance problem.",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Python",
-                "last_commit": "2026-03-05T04:36:51Z",
-                "owner": "ZhiningLiu1998",
-                "repo": "imbalanced-ensemble",
-                "stars": 430
+                "id": 42706960,
+                "language": "Java",
+                "last_commit": "2018-03-05T17:45:40Z",
+                "owner": "SCI2SUGR",
+                "repo": "KEEL",
+                "stars": 133
               }
             },
             {
               "node_type": "item",
-              "title": "SMOTEBagging [Code",
-              "description": "]",
+              "title": "Bayesian weighted-likelihood (2026) [Paper][Preprint][Code(R/Python/Julia)] - Cost-sensitive Bayesian GLMs with a weighted likelihood (also known as power-prior, generalized Bayes, Gibbs posterior).",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Python",
-                "last_commit": "2026-03-05T04:36:51Z",
-                "owner": "ZhiningLiu1998",
-                "repo": "imbalanced-ensemble",
-                "stars": 430
+                "id": 970992639,
+                "language": "R",
+                "last_commit": "2025-12-26T10:49:48Z",
+                "owner": "stanlazic",
+                "repo": "weighted_likelihoods",
+                "stars": 0
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2.4 Cost-sensitive Learning"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks (WSDM 2021) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 320016514,
+                    "language": "Python",
+                    "last_commit": "2023-09-14T20:46:18Z",
+                    "owner": "TianxiangZhao",
+                    "repo": "GraphSmote",
+                    "stars": 181
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification (ICLR 2022) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 469728630,
+                    "language": "Python",
+                    "last_commit": "2023-10-25T11:06:57Z",
+                    "owner": "JoonHyung-Park",
+                    "repo": "GraphENS",
+                    "stars": 86
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification (ICML 2022) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 521877189,
+                    "language": "Python",
+                    "last_commit": "2023-10-19T10:46:12Z",
+                    "owner": "Jaeyun-Song",
+                    "repo": "TAM",
+                    "stars": 71
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Topology-Imbalance Learning for Semi-Supervised Node Classification (NeurIPS 2021) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 413028441,
+                    "language": "Python",
+                    "last_commit": "2021-10-11T05:59:28Z",
+                    "owner": "victorchen96",
+                    "repo": "ReNode",
+                    "stars": 57
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LTE4G: Long-Tail Experts for Graph Neural Networks (CIKM 2022) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 527436241,
+                    "language": "Python",
+                    "last_commit": "2022-09-08T09:18:32Z",
+                    "owner": "SukwonYun",
+                    "repo": "LTE4G",
+                    "stars": 41
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Semi-Supervised Graph Imbalanced Regression (KDD 2023) [Paper",
+                  "description": "] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 652487371,
+                    "language": "Python",
+                    "last_commit": "2025-06-21T14:39:34Z",
+                    "owner": "liugangcode",
+                    "repo": "SGIR",
+                    "stars": 22
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2.5.2 Graph Data Mining"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Focal loss for dense object detection (ICCV 2017, 2600+ citations) [Paper",
+                  "description": "][Code (detectron2)][Code (unofficial)] - A uniform loss function that focuses training on a sparse set of hard examples to prevents the vast number of easy negatives from overwhelming the detector during training.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 206660580,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T05:38:53Z",
+                    "owner": "facebookresearch",
+                    "repo": "detectron2",
+                    "stars": 34674
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss (NIPS 2019, 10+ citations) [Paper",
+                  "description": "][Code] - A theoretically-principled label-distribution-aware margin (LDAM) loss motivated by minimizing a margin-based generalization bound.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 192134464,
+                    "language": "Python",
+                    "last_commit": "2021-12-25T04:26:04Z",
+                    "owner": "kaidic",
+                    "repo": "LDAM-DRW",
+                    "stars": 701
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Gradient harmonized single-stage detector (AAAI 2019, 40+ citations) [Paper",
+                  "description": "][Code] - Compared to Focal Loss, which only down-weights \"easy\" negative examples, GHM also down-weights \"very hard\" examples as they are likely to be outliers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 155964832,
+                    "language": "Python",
+                    "last_commit": "2019-07-15T13:35:04Z",
+                    "owner": "libuyu",
+                    "repo": "GHM_Detection",
+                    "stars": 618
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Class-Balanced Loss Based on Effective Number of Samples (CVPR 2019, 70+ citations) [Paper",
+                  "description": "][Code] - a simple and generic class-reweighting mechanism based on Effective Number of Samples.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 162182943,
+                    "language": "Python",
+                    "last_commit": "2021-08-29T01:51:44Z",
+                    "owner": "richardaecn",
+                    "repo": "class-balanced-loss",
+                    "stars": 615
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Deep imbalanced attribute classification using visual attention aggregation (ECCV 2018, 30+ citation) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147426181,
+                    "language": "Python",
+                    "last_commit": "2018-09-04T22:38:31Z",
+                    "owner": "cvcode18",
+                    "repo": "imbalanced_learning",
+                    "stars": 103
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Influence-Balanced Loss for Imbalanced Visual Classification (ICCV 2021) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 414057108,
+                    "language": "Python",
+                    "last_commit": "2022-03-22T07:09:53Z",
+                    "owner": "pseulki",
+                    "repo": "IB-Loss",
+                    "stars": 100
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Label-Imbalanced and Group-Sensitive Classification under Overparameterization (NeurIPS 2021) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 419125882,
+                    "language": "Python",
+                    "last_commit": "2021-11-03T00:25:52Z",
+                    "owner": "orparask",
+                    "repo": "VS-Loss",
+                    "stars": 17
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2.5.4 Loss function engineering"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Meta-weight-net: Learning an explicit mapping for sample weighting (NIPS 2019) [Paper",
+                  "description": "][Code] - Explicitly learn a weight function (with an MLP as the function approximator) to reweight the samples in gradient updates of DNN.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 207342722,
+                    "language": "Python",
+                    "last_commit": "2021-12-14T03:17:23Z",
+                    "owner": "xjtushujun",
+                    "repo": "meta-weight-net",
+                    "stars": 296
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning to reweight examples for robust deep learning (ICML 2018, 150+ citations) [Paper",
+                  "description": "][Code] - Implicitly learn a weight function to reweight the samples in gradient updates of DNN.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 168585690,
+                    "language": "Python",
+                    "last_commit": "2019-03-22T15:47:23Z",
+                    "owner": "uber-research",
+                    "repo": "learning-to-reweight-examples",
+                    "stars": 270
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler (NeurIPS 2020) [Paper",
+                  "description": "][Code][Video]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 269029186,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-06-17T23:00:16Z",
+                    "owner": "ZhiningLiu1998",
+                    "repo": "mesa",
+                    "stars": 111
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning Data Manipulation for Augmentation and Weighting (NIPS 2019) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 217189507,
+                    "language": "Python",
+                    "last_commit": "2020-09-05T23:17:25Z",
+                    "owner": "tanyuqian",
+                    "repo": "learning-data-manipulation",
+                    "stars": 110
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks (ICLR 2020) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 240695990,
+                    "language": "Python",
+                    "last_commit": "2020-11-23T07:08:56Z",
+                    "owner": "haebeom-lee",
+                    "repo": "l2b",
+                    "stars": 101
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2.5.5 Meta-learning"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Decoupling Representation and Classifier for Long-tailed Recognition (ICLR 2020) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 225755929,
+                    "language": "Python",
+                    "last_commit": "2021-10-12T21:33:25Z",
+                    "owner": "facebookresearch",
+                    "repo": "classifier-balancing",
+                    "stars": 981
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tailoring Self-Supervision for Supervised Learning (ECCV 2022) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 510294462,
+                    "language": "Python",
+                    "last_commit": "2023-07-28T16:10:44Z",
+                    "owner": "wjun0830",
+                    "repo": "Localizable-Rotation",
+                    "stars": 30
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2.5.6 Representation Learning"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Long-tail learning via logit adjustment (ICLR 2021) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 151619717,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-16T18:45:46Z",
+                    "owner": "google-research",
+                    "repo": "google-research",
+                    "stars": 38579
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Posterior Re-calibration for Imbalanced Datasets (NeurIPS 2020) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 274266247,
+                    "language": "Python",
+                    "last_commit": "2020-11-22T17:09:28Z",
+                    "owner": "GT-RIPL",
+                    "repo": "UNO-IC",
+                    "stars": 30
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2.5.7 Posterior Recalibration"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Rethinking the Value of Labels for Improving Class-Imbalanced Learning (NeurIPS 2020) [Paper",
+                  "description": "][Code][Video]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 292877948,
+                    "language": "Python",
+                    "last_commit": "2021-04-03T04:38:04Z",
+                    "owner": "YyzHarry",
+                    "repo": "imbalanced-semi-self",
+                    "stars": 756
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Distribution Aligning Refinery of Pseudo-label for Imbalanced Semi-supervised Learning (NeurIPS 2020) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 275046930,
+                    "language": "Python",
+                    "last_commit": "2022-07-15T08:11:39Z",
+                    "owner": "bbuing9",
+                    "repo": "DARP",
+                    "stars": 73
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DASO: Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning (CVPR 2022) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 375605672,
+                    "language": "Python",
+                    "last_commit": "2022-06-08T10:20:31Z",
+                    "owner": "ytaek-oh",
+                    "repo": "daso",
+                    "stars": 72
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ABC: Auxiliary Balanced Classifier for Class-imbalanced Semi-supervised Learning (NeurIPS 2021) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 413398856,
+                    "language": "Python",
+                    "last_commit": "2024-11-20T02:39:45Z",
+                    "owner": "LeeHyuck",
+                    "repo": "ABC",
+                    "stars": 37
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2.5.8 Semi/Self-supervised Learning"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Delving into Deep Imbalanced Regression (ICML 2021) [Paper",
+                  "description": "][Code][Video]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 340089798,
+                    "language": "Python",
+                    "last_commit": "2022-03-22T15:06:27Z",
+                    "owner": "YyzHarry",
+                    "repo": "imbalanced-regression",
+                    "stars": 920
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Balanced MSE for Imbalanced Visual Regression (CVPR 2022) [Paper",
+                  "description": "] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 472591824,
+                    "language": "Python",
+                    "last_commit": "2022-07-28T13:51:32Z",
+                    "owner": "jiawei-ren",
+                    "repo": "BalancedMSE",
+                    "stars": 394
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RankSim: Ranking Similarity Regularization for Deep Imbalanced Regression (ICML 2022) [Paper",
+                  "description": "] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 496405283,
+                    "language": "Python",
+                    "last_commit": "2022-10-28T21:40:03Z",
+                    "owner": "BorealisAI",
+                    "repo": "ranksim-imbalanced-regression",
+                    "stars": 54
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Density-based weighting for imbalanced regression (Machine Learning [J], 2021) [Paper",
+                  "description": "][Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 380918428,
+                    "language": "Python",
+                    "last_commit": "2021-07-08T09:52:20Z",
+                    "owner": "SteiMi",
+                    "repo": "density-based-weighting-for-imbalanced-regression",
+                    "stars": 33
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Semi-Supervised Graph Imbalanced Regression (KDD 2023) [Paper",
+                  "description": "] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 652487371,
+                    "language": "Python",
+                    "last_commit": "2025-06-21T14:39:34Z",
+                    "owner": "liugangcode",
+                    "repo": "SGIR",
+                    "stars": 22
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2.5.13 Imbalanced Regression"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2.5 Deep Learning"
         }
       ],
-      "title": "2.2.3 Bagging-based"
+      "title": "2. Research Papers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "AdaCost (ICML 1999, 800+ citations) [Paper][Code] - Misclassification Cost-sensitive boosting",
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "imbalanced-dataset-sampler",
+                  "description": "A (PyTorch) imbalanced dataset sampler for oversampling low frequent classes and undersampling high frequent ones.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 135230102,
+                    "language": "Python",
+                    "last_commit": "2026-07-06T20:24:50Z",
+                    "owner": "ufoym",
+                    "repo": "imbalanced-dataset-sampler",
+                    "stars": 2326
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "imbalanced-algorithms",
+                  "description": "Python-based implementations of algorithms for learning on imbalanced data.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 66499180,
+                    "language": "Python",
+                    "last_commit": "2022-01-29T07:47:23Z",
+                    "owner": "dialnd",
+                    "repo": "imbalanced-algorithms",
+                    "stars": 241
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Advanced Machine Learning with scikit-learn: Imbalanced classification and text data",
+                  "description": "Different approaches to feature selection, and resampling methods for imbalanced data.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147727117,
+                    "language": "HTML",
+                    "last_commit": "2020-04-17T17:57:22Z",
+                    "owner": "amueller",
+                    "repo": "ml-workshop-4-of-4",
+                    "stars": 166
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Multi-class-with-imbalanced-dataset-classification",
+                  "description": "Perform multi-class classification on imbalanced 20-news-group dataset.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 162833038,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2019-06-11T16:46:05Z",
+                    "owner": "javaidnabi31",
+                    "repo": "Multi-class-with-imbalanced-dataset-classification",
+                    "stars": 85
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "class_imbalance",
+                  "description": "Jupyter Notebook presentation for class imbalance in binary classification.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 52632806,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2018-08-11T14:31:29Z",
+                    "owner": "wangz10",
+                    "repo": "class_imbalance",
+                    "stars": 48
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "3.2.1 Algorithms & Utilities & Jupyter Notebooks"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Anomaly Detection Learning Resources",
+                  "description": "by yzhao062 - Anomaly detection related books, papers, videos, and toolboxes.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 133717148,
+                    "language": "Python",
+                    "last_commit": "2026-03-02T04:42:20Z",
+                    "owner": "yzhao062",
+                    "repo": "anomaly-detection-resources",
+                    "stars": 9365
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Paper-list-on-Imbalanced-Time-series-Classification-with-Deep-Learning",
+                  "description": "Imbalanced Time-series Classification",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 109234644,
+                    "language": null,
+                    "last_commit": "2017-11-03T09:07:48Z",
+                    "owner": "danielgy",
+                    "repo": "Paper-list-on-Imbalanced-Time-series-Classification-with-Deep-Learning",
+                    "stars": 192
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "3.2.2 Paper list"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-05T04:36:51Z",
-            "owner": "ZhiningLiu1998",
-            "repo": "imbalanced-ensemble",
-            "stars": 430
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AdaUBoost (NIPS 1999, 100+ citations) [Paper][Code] - AdaBoost with Unequal loss functions",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-05T04:36:51Z",
-            "owner": "ZhiningLiu1998",
-            "repo": "imbalanced-ensemble",
-            "stars": 430
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AsymBoost (NIPS 2001, 700+ citations) [Paper][Code] - Asymmetric AdaBoost and detector cascade",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-05T04:36:51Z",
-            "owner": "ZhiningLiu1998",
-            "repo": "imbalanced-ensemble",
-            "stars": 430
-          }
+          "node_type": "group",
+          "title": "3.2 Github Repositories"
         }
       ],
-      "title": "2.2.4 Cost-sensitive ensemble"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "2.3 Data resampling"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ROS [Code] - Random Over-sampling",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-29T16:33:16Z",
-            "owner": "scikit-learn-contrib",
-            "repo": "imbalanced-learn",
-            "stars": 7118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SMOTE (2002, 9800+ citations) [Paper][Code] - Synthetic Minority Over-sampling TEchnique",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-29T16:33:16Z",
-            "owner": "scikit-learn-contrib",
-            "repo": "imbalanced-learn",
-            "stars": 7118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Borderline-SMOTE (2005, 1400+ citations) [Paper][Code] - Borderline-Synthetic Minority Over-sampling TEchnique",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-29T16:33:16Z",
-            "owner": "scikit-learn-contrib",
-            "repo": "imbalanced-learn",
-            "stars": 7118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ADASYN (2008, 1100+ citations) [Paper][Code] - ADAptive SYNthetic Sampling",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-29T16:33:16Z",
-            "owner": "scikit-learn-contrib",
-            "repo": "imbalanced-learn",
-            "stars": 7118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SVM-SMOTE (2009, 120+ citations) [Paper][Code] - SMOTE based on Support Vectors of SVM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-29T16:33:16Z",
-            "owner": "scikit-learn-contrib",
-            "repo": "imbalanced-learn",
-            "stars": 7118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MDO (2015, 150+ citations) [Paper][Code] - Mahalanobis Distance-based Over-sampling for Multi-Class imbalanced problems.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-01-03T21:08:01Z",
-            "owner": "analyticalmindsltd",
-            "repo": "smote_variants",
-            "stars": 690
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SPIDER (2008, 150+ citations) [Paper][Code(Java)] - Selective Preprocessing of Imbalanced Data",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-03-05T17:45:40Z",
-            "owner": "SCI2SUGR",
-            "repo": "KEEL",
-            "stars": 133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Safe-Level-SMOTE (2009, 370+ citations) [Paper][Code(Java)] - Safe Level Synthetic Minority Over-sampling TEchnique",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-03-05T17:45:40Z",
-            "owner": "SCI2SUGR",
-            "repo": "KEEL",
-            "stars": 133
-          }
-        }
-      ],
-      "title": "2.3.1 Over-sampling"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RUS [Code] - Random Under-sampling",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-29T16:33:16Z",
-            "owner": "scikit-learn-contrib",
-            "repo": "imbalanced-learn",
-            "stars": 7118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CNN (1968, 2100+ citations) [Paper][Code] - Condensed Nearest Neighbor",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-29T16:33:16Z",
-            "owner": "scikit-learn-contrib",
-            "repo": "imbalanced-learn",
-            "stars": 7118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ENN (1972, 1500+ citations) [Paper] [Code] - Edited Condensed Nearest Neighbor",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-29T16:33:16Z",
-            "owner": "scikit-learn-contrib",
-            "repo": "imbalanced-learn",
-            "stars": 7118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TomekLink (1976, 870+ citations) [Paper][Code] - Tomek's modification of Condensed Nearest Neighbor",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-29T16:33:16Z",
-            "owner": "scikit-learn-contrib",
-            "repo": "imbalanced-learn",
-            "stars": 7118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NCR (2001, 500+ citations) [Paper][Code] - Neighborhood Cleaning Rule",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-29T16:33:16Z",
-            "owner": "scikit-learn-contrib",
-            "repo": "imbalanced-learn",
-            "stars": 7118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NearMiss-1 & 2 & 3 (2003, 420+ citations) [Paper][Code] - Several kNN approaches to unbalanced data distributions.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-29T16:33:16Z",
-            "owner": "scikit-learn-contrib",
-            "repo": "imbalanced-learn",
-            "stars": 7118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OSS (2007, 2100+ citations) [Paper][Code] - One Side Selection",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-29T16:33:16Z",
-            "owner": "scikit-learn-contrib",
-            "repo": "imbalanced-learn",
-            "stars": 7118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IHT (2014, 130+ citations) [Paper][Code] - Instance Hardness Threshold",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-29T16:33:16Z",
-            "owner": "scikit-learn-contrib",
-            "repo": "imbalanced-learn",
-            "stars": 7118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CNN with TomekLink (2004, 2000+ citations) [Paper][Code(Java)] - Condensed Nearest Neighbor + TomekLink",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-03-05T17:45:40Z",
-            "owner": "SCI2SUGR",
-            "repo": "KEEL",
-            "stars": 133
-          }
-        }
-      ],
-      "title": "2.3.2 Under-sampling"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CSC4.5 (2002, 420+ citations) [Paper][Code(Java)] - An instance-weighting method to induce cost-sensitive trees",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-03-05T17:45:40Z",
-            "owner": "SCI2SUGR",
-            "repo": "KEEL",
-            "stars": 133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CSSVM (2008, 710+ citations) [Paper][Code(Java)] - Cost-sensitive SVMs for highly imbalanced classification",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-03-05T17:45:40Z",
-            "owner": "SCI2SUGR",
-            "repo": "KEEL",
-            "stars": 133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CSNN (2005, 950+ citations) [Paper][Code(Java)] - Training cost-sensitive neural networks with methods addressing the class imbalance problem.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-03-05T17:45:40Z",
-            "owner": "SCI2SUGR",
-            "repo": "KEEL",
-            "stars": 133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bayesian weighted-likelihood (2026) [Paper][Preprint][Code(R/Python/Julia)] - Cost-sensitive Bayesian GLMs with a weighted likelihood (also known as power-prior, generalized Bayes, Gibbs posterior).",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2025-12-26T10:49:48Z",
-            "owner": "stanlazic",
-            "repo": "weighted_likelihoods",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "2.4 Cost-sensitive Learning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "2.5 Deep Learning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks (WSDM 2021) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-14T20:46:18Z",
-            "owner": "TianxiangZhao",
-            "repo": "GraphSmote",
-            "stars": 181
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification (ICLR 2022) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-25T11:06:57Z",
-            "owner": "JoonHyung-Park",
-            "repo": "GraphENS",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification (ICML 2022) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-19T10:46:12Z",
-            "owner": "Jaeyun-Song",
-            "repo": "TAM",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Topology-Imbalance Learning for Semi-Supervised Node Classification (NeurIPS 2021) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-10-11T05:59:28Z",
-            "owner": "victorchen96",
-            "repo": "ReNode",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LTE4G: Long-Tail Experts for Graph Neural Networks (CIKM 2022) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-08T09:18:32Z",
-            "owner": "SukwonYun",
-            "repo": "LTE4G",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Semi-Supervised Graph Imbalanced Regression (KDD 2023) [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-21T14:39:34Z",
-            "owner": "liugangcode",
-            "repo": "SGIR",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "2.5.2 Graph Data Mining"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Focal loss for dense object detection (ICCV 2017, 2600+ citations) [Paper",
-          "description": "][Code (detectron2)][Code (unofficial)] - A uniform loss function that focuses training on a sparse set of hard examples to prevents the vast number of easy negatives from overwhelming the detector during training.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-24T22:21:57Z",
-            "owner": "facebookresearch",
-            "repo": "detectron2",
-            "stars": 34671
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss (NIPS 2019, 10+ citations) [Paper",
-          "description": "][Code] - A theoretically-principled label-distribution-aware margin (LDAM) loss motivated by minimizing a margin-based generalization bound.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-12-25T04:26:04Z",
-            "owner": "kaidic",
-            "repo": "LDAM-DRW",
-            "stars": 701
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gradient harmonized single-stage detector (AAAI 2019, 40+ citations) [Paper",
-          "description": "][Code] - Compared to Focal Loss, which only down-weights \"easy\" negative examples, GHM also down-weights \"very hard\" examples as they are likely to be outliers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-07-15T13:35:04Z",
-            "owner": "libuyu",
-            "repo": "GHM_Detection",
-            "stars": 618
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Class-Balanced Loss Based on Effective Number of Samples (CVPR 2019, 70+ citations) [Paper",
-          "description": "][Code] - a simple and generic class-reweighting mechanism based on Effective Number of Samples.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-29T01:51:44Z",
-            "owner": "richardaecn",
-            "repo": "class-balanced-loss",
-            "stars": 616
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deep imbalanced attribute classification using visual attention aggregation (ECCV 2018, 30+ citation) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-09-04T22:38:31Z",
-            "owner": "cvcode18",
-            "repo": "imbalanced_learning",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Influence-Balanced Loss for Imbalanced Visual Classification (ICCV 2021) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-22T07:09:53Z",
-            "owner": "pseulki",
-            "repo": "IB-Loss",
-            "stars": 100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Label-Imbalanced and Group-Sensitive Classification under Overparameterization (NeurIPS 2021) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-11-03T00:25:52Z",
-            "owner": "orparask",
-            "repo": "VS-Loss",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "2.5.4 Loss function engineering"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Meta-weight-net: Learning an explicit mapping for sample weighting (NIPS 2019) [Paper",
-          "description": "][Code] - Explicitly learn a weight function (with an MLP as the function approximator) to reweight the samples in gradient updates of DNN.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-12-14T03:17:23Z",
-            "owner": "xjtushujun",
-            "repo": "meta-weight-net",
-            "stars": 296
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning to reweight examples for robust deep learning (ICML 2018, 150+ citations) [Paper",
-          "description": "][Code] - Implicitly learn a weight function to reweight the samples in gradient updates of DNN.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-03-22T15:47:23Z",
-            "owner": "uber-research",
-            "repo": "learning-to-reweight-examples",
-            "stars": 270
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler (NeurIPS 2020) [Paper",
-          "description": "][Code][Video]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-06-17T23:00:16Z",
-            "owner": "ZhiningLiu1998",
-            "repo": "mesa",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning Data Manipulation for Augmentation and Weighting (NIPS 2019) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-09-05T23:17:25Z",
-            "owner": "tanyuqian",
-            "repo": "learning-data-manipulation",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks (ICLR 2020) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-11-23T07:08:56Z",
-            "owner": "haebeom-lee",
-            "repo": "l2b",
-            "stars": 101
-          }
-        }
-      ],
-      "title": "2.5.5 Meta-learning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Decoupling Representation and Classifier for Long-tailed Recognition (ICLR 2020) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2021-10-12T21:33:25Z",
-            "owner": "facebookresearch",
-            "repo": "classifier-balancing",
-            "stars": 981
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tailoring Self-Supervision for Supervised Learning (ECCV 2022) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-28T16:10:44Z",
-            "owner": "wjun0830",
-            "repo": "Localizable-Rotation",
-            "stars": 30
-          }
-        }
-      ],
-      "title": "2.5.6 Representation Learning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Long-tail learning via logit adjustment (ICLR 2021) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-16T18:45:46Z",
-            "owner": "google-research",
-            "repo": "google-research",
-            "stars": 38577
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Posterior Re-calibration for Imbalanced Datasets (NeurIPS 2020) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-11-22T17:09:28Z",
-            "owner": "GT-RIPL",
-            "repo": "UNO-IC",
-            "stars": 30
-          }
-        }
-      ],
-      "title": "2.5.7 Posterior Recalibration"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Rethinking the Value of Labels for Improving Class-Imbalanced Learning (NeurIPS 2020) [Paper",
-          "description": "][Code][Video]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-04-03T04:38:04Z",
-            "owner": "YyzHarry",
-            "repo": "imbalanced-semi-self",
-            "stars": 756
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Distribution Aligning Refinery of Pseudo-label for Imbalanced Semi-supervised Learning (NeurIPS 2020) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-07-15T08:11:39Z",
-            "owner": "bbuing9",
-            "repo": "DARP",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DASO: Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning (CVPR 2022) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-06-08T10:20:31Z",
-            "owner": "ytaek-oh",
-            "repo": "daso",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ABC: Auxiliary Balanced Classifier for Class-imbalanced Semi-supervised Learning (NeurIPS 2021) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-20T02:39:45Z",
-            "owner": "LeeHyuck",
-            "repo": "ABC",
-            "stars": 37
-          }
-        }
-      ],
-      "title": "2.5.8 Semi/Self-supervised Learning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Delving into Deep Imbalanced Regression (ICML 2021) [Paper",
-          "description": "][Code][Video]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-22T15:06:27Z",
-            "owner": "YyzHarry",
-            "repo": "imbalanced-regression",
-            "stars": 920
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Balanced MSE for Imbalanced Visual Regression (CVPR 2022) [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-07-28T13:51:32Z",
-            "owner": "jiawei-ren",
-            "repo": "BalancedMSE",
-            "stars": 394
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RankSim: Ranking Similarity Regularization for Deep Imbalanced Regression (ICML 2022) [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-10-28T21:40:03Z",
-            "owner": "BorealisAI",
-            "repo": "ranksim-imbalanced-regression",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Density-based weighting for imbalanced regression (Machine Learning [J], 2021) [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-07-08T09:52:20Z",
-            "owner": "SteiMi",
-            "repo": "density-based-weighting-for-imbalanced-regression",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Semi-Supervised Graph Imbalanced Regression (KDD 2023) [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-21T14:39:34Z",
-            "owner": "liugangcode",
-            "repo": "SGIR",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "2.5.13 Imbalanced Regression"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.2 Github Repositories"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "imbalanced-dataset-sampler",
-          "description": "A (PyTorch) imbalanced dataset sampler for oversampling low frequent classes and undersampling high frequent ones.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-06T20:24:50Z",
-            "owner": "ufoym",
-            "repo": "imbalanced-dataset-sampler",
-            "stars": 2326
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "imbalanced-algorithms",
-          "description": "Python-based implementations of algorithms for learning on imbalanced data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-01-29T07:47:23Z",
-            "owner": "dialnd",
-            "repo": "imbalanced-algorithms",
-            "stars": 241
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Advanced Machine Learning with scikit-learn: Imbalanced classification and text data",
-          "description": "Different approaches to feature selection, and resampling methods for imbalanced data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2020-04-17T17:57:22Z",
-            "owner": "amueller",
-            "repo": "ml-workshop-4-of-4",
-            "stars": 166
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Multi-class-with-imbalanced-dataset-classification",
-          "description": "Perform multi-class classification on imbalanced 20-news-group dataset.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2019-06-11T16:46:05Z",
-            "owner": "javaidnabi31",
-            "repo": "Multi-class-with-imbalanced-dataset-classification",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "class_imbalance",
-          "description": "Jupyter Notebook presentation for class imbalance in binary classification.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2018-08-11T14:31:29Z",
-            "owner": "wangz10",
-            "repo": "class_imbalance",
-            "stars": 48
-          }
-        }
-      ],
-      "title": "3.2.1 Algorithms & Utilities & Jupyter Notebooks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Anomaly Detection Learning Resources",
-          "description": "by yzhao062 - Anomaly detection related books, papers, videos, and toolboxes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-02T04:42:20Z",
-            "owner": "yzhao062",
-            "repo": "anomaly-detection-resources",
-            "stars": 9365
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Paper-list-on-Imbalanced-Time-series-Classification-with-Deep-Learning",
-          "description": "Imbalanced Time-series Classification",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-11-03T09:07:48Z",
-            "owner": "danielgy",
-            "repo": "Paper-list-on-Imbalanced-Time-series-Classification-with-Deep-Learning",
-            "stars": 192
-          }
-        }
-      ],
-      "title": "3.2.2 Paper list"
+      "title": "3. Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:56:10.578Z",
+    "last_updated": "2026-08-19T12:36:09.954Z",
     "original_repository": "ZhiningLiu1998/awesome-imbalanced-learning",
+    "original_repository_id": 245181851,
     "original_repository_sha": "2d45e1e3f18f4e6ded55c815af5f982c22466220",
     "enhanced_repository": "enhansome/enhansome-imbalanced-learning",
     "enhanced_repository_description": null,
