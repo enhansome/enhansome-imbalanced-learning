@@ -86,7 +86,7 @@
             "archived": false,
             "id": 19862061,
             "language": "R",
-            "last_commit": "2026-08-18T21:13:40Z",
+            "last_commit": "2026-08-19T20:04:22Z",
             "owner": "topepo",
             "repo": "caret",
             "stars": 1670
@@ -222,7 +222,7 @@
                     "archived": false,
                     "id": 843222,
                     "language": "Python",
-                    "last_commit": "2026-08-19T11:52:09Z",
+                    "last_commit": "2026-08-19T20:05:53Z",
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
                     "stars": 66972
@@ -289,7 +289,7 @@
                     "archived": false,
                     "id": 843222,
                     "language": "Python",
-                    "last_commit": "2026-08-19T11:52:09Z",
+                    "last_commit": "2026-08-19T20:05:53Z",
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
                     "stars": 66972
@@ -865,7 +865,7 @@
                     "last_commit": "2026-08-19T05:38:53Z",
                     "owner": "facebookresearch",
                     "repo": "detectron2",
-                    "stars": 34674
+                    "stars": 34676
                   }
                 },
                 {
@@ -1093,10 +1093,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-16T18:45:46Z",
+                    "last_commit": "2026-08-19T20:48:11Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38579
+                    "stars": 38580
                   }
                 },
                 {
@@ -1200,7 +1200,7 @@
                     "last_commit": "2022-03-22T15:06:27Z",
                     "owner": "YyzHarry",
                     "repo": "imbalanced-regression",
-                    "stars": 920
+                    "stars": 919
                   }
                 },
                 {
@@ -1410,7 +1410,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:36:09.954Z",
+    "last_updated": "2026-08-19T21:58:21.130Z",
     "original_repository": "ZhiningLiu1998/awesome-imbalanced-learning",
     "original_repository_id": 245181851,
     "original_repository_sha": "2d45e1e3f18f4e6ded55c815af5f982c22466220",

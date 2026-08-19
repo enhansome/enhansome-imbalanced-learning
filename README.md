@@ -34,7 +34,7 @@
 
 **Class-imbalance (also known as the long-tail problem)** is the fact that the classes are not represented equally in a classification problem, which is quite common in practice. For instance, fraud detection, prediction of rare adverse drug reactions and prediction gene families. Failure to account for the class imbalance often causes inaccurate and decreased predictive performance of many classification algorithms. **Imbalanced learning aims to tackle the class imbalance problem to learn an unbiased model from imbalanced data.**
 
-**Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,070 | 🐛 26 | 🌐 Python | 📅 2026-08-11. In this repository:**
+**Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,076 | 🐛 26 | 🌐 Python | 📅 2026-08-11. In this repository:**
 
 * **Frameworks** and **libraries** are grouped by *programming language*.
 * **Research papers** are grouped by *research field*.
@@ -144,7 +144,7 @@
   > **NOTE:** written in python, easy to use.
 
   * `imbalanced-ensemble` is a Python toolbox for quick implementing and deploying ***ensemble learning algorithms*** on class-imbalanced data. It is featured for:
-    * (iii) Optimized performance with parallelization when possible using [joblib](https://github.com/joblib/joblib) ⭐ 4,385 | 🐛 434 | 🌐 Python | 📅 2026-08-19.
+    * (iii) Optimized performance with parallelization when possible using [joblib](https://github.com/joblib/joblib) ⭐ 4,385 | 🐛 435 | 🌐 Python | 📅 2026-08-19.
     * (i) Unified, easy-to-use APIs, detailed [documentation](https://imbalanced-ensemble.readthedocs.io/) and [examples](https://imbalanced-ensemble.readthedocs.io/en/latest/auto_examples/index.html#).
     * (ii) Capable for multi-class imbalanced learning out-of-box.
     * (iv) Powerful, customizable, interactive training logging and visualizer.
@@ -153,7 +153,7 @@
 
 ### 1.2 R
 
-* [**caret**](https://cran.r-project.org/web/packages/caret/index.html) \[[**Documentation**](http://topepo.github.io/caret/index.html)]\[[**Github**](https://github.com/topepo/caret) ⭐ 1,670 | 🐛 245 | 🌐 R | 📅 2026-08-18] - Contains the implementation of Random under/over-sampling.
+* [**caret**](https://cran.r-project.org/web/packages/caret/index.html) \[[**Documentation**](http://topepo.github.io/caret/index.html)]\[[**Github**](https://github.com/topepo/caret) ⭐ 1,670 | 🐛 246 | 🌐 R | 📅 2026-08-19] - Contains the implementation of Random under/over-sampling.
 * [**smote\_variants**](https://smote-variants.readthedocs.io/en/latest/) \[[**Documentation**](https://smote-variants.readthedocs.io/en/latest/)]\[[**Github**](https://github.com/analyticalmindsltd/smote_variants) ⭐ 690 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2024-01-03] - A collection of 85 minority ***over-sampling*** techniques for imbalanced learning with multi-class oversampling and model selection features (All writen in Python, also support R and Julia).
 * [**ROSE**](https://cran.r-project.org/web/packages/ROSE/index.html) \[[**Documentation**](https://www.rdocumentation.org/packages/ROSE/versions/0.0-3)] - Contains the implementation of [ROSE](https://journal.r-project.org/archive/2014-1/menardi-lunardon-torelli.pdf) (Random Over-Sampling Examples).
 * [**DMwR**](https://cran.r-project.org/web/packages/DMwR/index.html) \[[**Documentation**](https://www.rdocumentation.org/packages/DMwR/versions/0.4.1)] - Contains the implementation of [SMOTE](https://arxiv.org/pdf/1106.1813.pdf) (Synthetic Minority Over-sampling TEchnique).
@@ -219,7 +219,7 @@
 
 <!-- - **Boosting-based** -->
 
-* **AdaBoost (1995, 18700+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1997-JCSS-Schapire-A%20Decision-Theoretic%20Generalization%20of%20On-Line%20Learning%20\(AdaBoost\).pdf)]\[[**Code**](https://github.com/scikit-learn/scikit-learn/blob/95d4f0841/sklearn/ensemble/_weight_boosting.py#L285) ⭐ 66,972 | 🐛 2,125 | 🌐 Python | 📅 2026-08-19]** - Adaptive Boosting with C4.5
+* **AdaBoost (1995, 18700+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1997-JCSS-Schapire-A%20Decision-Theoretic%20Generalization%20of%20On-Line%20Learning%20\(AdaBoost\).pdf)]\[[**Code**](https://github.com/scikit-learn/scikit-learn/blob/95d4f0841/sklearn/ensemble/_weight_boosting.py#L285) ⭐ 66,972 | 🐛 2,126 | 🌐 Python | 📅 2026-08-19]** - Adaptive Boosting with C4.5
 * **SMOTEBoost (2003, 1100+ citations) [\[**Paper**\]](https://sci2s.ugr.es/keel/pdf/algorithm/congreso/2003-PKDD-SMOTEBoost-ChawlaLazarevicHallBowyer.pdf)\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/over_sampling/smote_bagging.py) ⭐ 430 | 🐛 4 | 🌐 Python | 📅 2026-03-05]** - Synthetic Minority Over-sampling TEchnique Boosting
 * **RUSBoost (2009, 850+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/2010-IEEE%20TSMCpartA-RUSBoost%20A%20Hybrid%20Approach%20to%20Alleviating%20Class%20Imbalance.pdf)] \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/rus_boost.py) ⭐ 430 | 🐛 4 | 🌐 Python | 📅 2026-03-05]** - Random Under-Sampling Boosting
 * **RAMOBoost (2010, 140+ citations) \[[**Paper**](https://www.ele.uri.edu/faculty/he/PDFfiles/ramoboost.pdf)] \[[**Code**](https://github.com/dialnd/imbalanced-algorithms/blob/master/ramo.py#L133) ⭐ 241 | 🐛 1 | 🌐 Python | 📅 2022-01-29]** - Ranked Minority Over-sampling in Boosting
@@ -232,7 +232,7 @@
 
 <!-- - **Bagging-based** -->
 
-* **Bagging (1996, 20000+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1996-ML-Breiman-Bagging%20Predictors.pdf)]\[[**Code**](https://github.com/scikit-learn/scikit-learn/blob/95d4f0841/sklearn/ensemble/_bagging.py#L433) ⭐ 66,972 | 🐛 2,125 | 🌐 Python | 📅 2026-08-19]** - Bagging predictor
+* **Bagging (1996, 20000+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1996-ML-Breiman-Bagging%20Predictors.pdf)]\[[**Code**](https://github.com/scikit-learn/scikit-learn/blob/95d4f0841/sklearn/ensemble/_bagging.py#L433) ⭐ 66,972 | 🐛 2,126 | 🌐 Python | 📅 2026-08-19]** - Bagging predictor
 * **Diversity Analysis on Imbalanced Data Sets by Using Ensemble Models (2009, 400+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/congreso/2009-IEEE%20CIDM-WangYao.pdf)]**
 
   * **UnderBagging** \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/under_bagging.py) ⭐ 430 | 🐛 4 | 🌐 Python | 📅 2026-03-05]
@@ -333,7 +333,7 @@
 
 <!-- - **Loss function engineering** -->
 
-* Focal loss for dense object detection (ICCV 2017, 2600+ citations) \[[**Paper**](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)]\[[**Code (detectron2)**](https://github.com/facebookresearch/detectron2) ⭐ 34,674 | 🐛 587 | 🌐 Python | 📅 2026-08-19]\[[**Code (unofficial)**](https://github.com/clcarwin/focal_loss_pytorch) ⭐ 991 | 🐛 14 | 🌐 Python | 📅 2019-10-16] - A uniform loss function that focuses training on a sparse set of hard examples to prevents the vast number of easy negatives from overwhelming the detector during training.
+* Focal loss for dense object detection (ICCV 2017, 2600+ citations) \[[**Paper**](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)]\[[**Code (detectron2)**](https://github.com/facebookresearch/detectron2) ⭐ 34,676 | 🐛 587 | 🌐 Python | 📅 2026-08-19]\[[**Code (unofficial)**](https://github.com/clcarwin/focal_loss_pytorch) ⭐ 991 | 🐛 14 | 🌐 Python | 📅 2019-10-16] - A uniform loss function that focuses training on a sparse set of hard examples to prevents the vast number of easy negatives from overwhelming the detector during training.
 
   > **NOTE:** elegant solution, high influence.
 * Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss (NIPS 2019, 10+ citations) \[[**Paper**](https://papers.nips.cc/paper/8435-learning-imbalanced-datasets-with-label-distribution-aware-margin-loss.pdf)]\[[**Code**](https://github.com/kaidic/LDAM-DRW) ⭐ 701 | 🐛 12 | 🌐 Python | 📅 2021-12-25]  - A theoretically-principled label-distribution-aware margin (LDAM) loss motivated by minimizing a margin-based generalization bound.
@@ -377,7 +377,7 @@
 
 <!-- - **Posterior Recalibration** -->
 
-* Long-tail learning via logit adjustment (ICLR 2021) \[[**Paper**](https://arxiv.org/pdf/2007.07314v1.pdf)]\[[**Code**](https://github.com/google-research/google-research/tree/master/logit_adjustment) ⭐ 38,579 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16]
+* Long-tail learning via logit adjustment (ICLR 2021) \[[**Paper**](https://arxiv.org/pdf/2007.07314v1.pdf)]\[[**Code**](https://github.com/google-research/google-research/tree/master/logit_adjustment) ⭐ 38,580 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-19]
 * Posterior Re-calibration for Imbalanced Datasets (NeurIPS 2020) \[[**Paper**](https://arxiv.org/pdf/2010.11820.pdf)]\[[**Code**](https://github.com/GT-RIPL/UNO-IC) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2020-11-22]
 
 #### 2.5.8 *Semi/Self-supervised Learning*
@@ -423,7 +423,7 @@
 
 <!-- - **Imbalanced Regression** -->
 
-* Delving into Deep Imbalanced Regression (ICML 2021) \[[**Paper**](https://arxiv.org/pdf/2102.09554.pdf)]\[[**Code**](https://github.com/YyzHarry/imbalanced-regression) ⭐ 920 | 🐛 3 | 🌐 Python | 📅 2022-03-22]\[[**Video**](https://www.youtube.com/watch?v=grJGixofQRU)]
+* Delving into Deep Imbalanced Regression (ICML 2021) \[[**Paper**](https://arxiv.org/pdf/2102.09554.pdf)]\[[**Code**](https://github.com/YyzHarry/imbalanced-regression) ⭐ 919 | 🐛 3 | 🌐 Python | 📅 2022-03-22]\[[**Video**](https://www.youtube.com/watch?v=grJGixofQRU)]
 * Balanced MSE for Imbalanced Visual Regression (CVPR 2022) \[[**Paper**](https://arxiv.org/abs/2203.16427)] \[[**Code**](https://github.com/jiawei-ren/BalancedMSE) ⭐ 394 | 🐛 5 | 🌐 Python | 📅 2022-07-28]
 * RankSim: Ranking Similarity Regularization for Deep Imbalanced Regression (ICML 2022) \[[**Paper**](https://arxiv.org/abs/2205.15236)] \[[**Code**](https://github.com/BorealisAI/ranksim-imbalanced-regression) ⭐ 54 | 🐛 3 | 🌐 Python | 📅 2022-10-28]
 * Density-based weighting for imbalanced regression (Machine Learning \[J], 2021) \[[**Paper**](https://link.springer.com/article/10.1007/s10994-021-06023-5)]\[[**Code**](https://github.com/SteiMi/density-based-weighting-for-imbalanced-regression) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2021-07-08]
