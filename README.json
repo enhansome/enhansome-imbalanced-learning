@@ -15,7 +15,7 @@
             "last_commit": "2026-06-29T16:33:16Z",
             "owner": "scikit-learn-contrib",
             "repo": "imbalanced-learn",
-            "stars": 7119
+            "stars": 7120
           }
         },
         {
@@ -86,10 +86,10 @@
             "archived": false,
             "id": 19862061,
             "language": "R",
-            "last_commit": "2026-08-20T21:54:37Z",
+            "last_commit": "2026-08-21T18:23:26Z",
             "owner": "topepo",
             "repo": "caret",
-            "stars": 1670
+            "stars": 1671
           }
         },
         {
@@ -222,10 +222,10 @@
                     "archived": false,
                     "id": 843222,
                     "language": "Python",
-                    "last_commit": "2026-08-20T14:56:33Z",
+                    "last_commit": "2026-08-21T08:56:47Z",
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 66985
+                    "stars": 67005
                   }
                 },
                 {
@@ -289,10 +289,10 @@
                     "archived": false,
                     "id": 843222,
                     "language": "Python",
-                    "last_commit": "2026-08-20T14:56:33Z",
+                    "last_commit": "2026-08-21T08:56:47Z",
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 66985
+                    "stars": 67005
                   }
                 },
                 {
@@ -425,7 +425,7 @@
                     "last_commit": "2026-06-29T16:33:16Z",
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7119
+                    "stars": 7120
                   }
                 },
                 {
@@ -440,7 +440,7 @@
                     "last_commit": "2026-06-29T16:33:16Z",
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7119
+                    "stars": 7120
                   }
                 },
                 {
@@ -455,7 +455,7 @@
                     "last_commit": "2026-06-29T16:33:16Z",
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7119
+                    "stars": 7120
                   }
                 },
                 {
@@ -470,7 +470,7 @@
                     "last_commit": "2026-06-29T16:33:16Z",
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7119
+                    "stars": 7120
                   }
                 },
                 {
@@ -485,7 +485,7 @@
                     "last_commit": "2026-06-29T16:33:16Z",
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7119
+                    "stars": 7120
                   }
                 },
                 {
@@ -552,7 +552,7 @@
                     "last_commit": "2026-06-29T16:33:16Z",
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7119
+                    "stars": 7120
                   }
                 },
                 {
@@ -567,7 +567,7 @@
                     "last_commit": "2026-06-29T16:33:16Z",
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7119
+                    "stars": 7120
                   }
                 },
                 {
@@ -582,7 +582,7 @@
                     "last_commit": "2026-06-29T16:33:16Z",
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7119
+                    "stars": 7120
                   }
                 },
                 {
@@ -597,7 +597,7 @@
                     "last_commit": "2026-06-29T16:33:16Z",
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7119
+                    "stars": 7120
                   }
                 },
                 {
@@ -612,7 +612,7 @@
                     "last_commit": "2026-06-29T16:33:16Z",
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7119
+                    "stars": 7120
                   }
                 },
                 {
@@ -627,7 +627,7 @@
                     "last_commit": "2026-06-29T16:33:16Z",
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7119
+                    "stars": 7120
                   }
                 },
                 {
@@ -642,7 +642,7 @@
                     "last_commit": "2026-06-29T16:33:16Z",
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7119
+                    "stars": 7120
                   }
                 },
                 {
@@ -657,7 +657,7 @@
                     "last_commit": "2026-06-29T16:33:16Z",
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7119
+                    "stars": 7120
                   }
                 },
                 {
@@ -865,7 +865,7 @@
                     "last_commit": "2026-08-19T05:38:53Z",
                     "owner": "facebookresearch",
                     "repo": "detectron2",
-                    "stars": 34677
+                    "stars": 34684
                   }
                 },
                 {
@@ -1093,10 +1093,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-19T20:48:11Z",
+                    "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38590
+                    "stars": 38593
                   }
                 },
                 {
@@ -1377,7 +1377,7 @@
                     "last_commit": "2026-03-02T04:42:20Z",
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9363
+                    "stars": 9365
                   }
                 },
                 {
@@ -1410,7 +1410,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:59:25.472Z",
+    "last_updated": "2026-08-21T21:57:37.848Z",
     "original_repository": "ZhiningLiu1998/awesome-imbalanced-learning",
     "original_repository_id": 245181851,
     "original_repository_sha": "2d45e1e3f18f4e6ded55c815af5f982c22466220",
