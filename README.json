@@ -86,7 +86,7 @@
             "archived": false,
             "id": 19862061,
             "language": "R",
-            "last_commit": "2026-08-24T13:48:29Z",
+            "last_commit": "2026-08-24T15:30:15Z",
             "owner": "topepo",
             "repo": "caret",
             "stars": 1670
@@ -285,10 +285,10 @@
                     "archived": false,
                     "id": 843222,
                     "language": "Python",
-                    "last_commit": "2026-08-24T12:19:11Z",
+                    "last_commit": "2026-08-24T15:38:18Z",
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67048
+                    "stars": 67056
                   }
                 },
                 {
@@ -352,10 +352,10 @@
                     "archived": false,
                     "id": 843222,
                     "language": "Python",
-                    "last_commit": "2026-08-24T12:19:11Z",
+                    "last_commit": "2026-08-24T15:38:18Z",
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67048
+                    "stars": 67056
                   }
                 },
                 {
@@ -1203,7 +1203,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38611
+                    "stars": 38613
                   }
                 },
                 {
@@ -1572,7 +1572,7 @@
                     "last_commit": "2026-03-02T04:42:20Z",
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9368
+                    "stars": 9369
                   }
                 },
                 {
@@ -1627,7 +1627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:09:24.248Z",
+    "last_updated": "2026-08-24T21:58:56.737Z",
     "original_repository": "ZhiningLiu1998/awesome-imbalanced-learning",
     "original_repository_id": 245181851,
     "original_repository_sha": "2d45e1e3f18f4e6ded55c815af5f982c22466220",
