@@ -89,7 +89,7 @@
             "last_commit": "2026-08-24T15:30:15Z",
             "owner": "topepo",
             "repo": "caret",
-            "stars": 1670
+            "stars": 1669
           }
         },
         {
@@ -288,7 +288,7 @@
                     "last_commit": "2026-08-24T15:38:18Z",
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67056
+                    "stars": 67058
                   }
                 },
                 {
@@ -355,7 +355,7 @@
                     "last_commit": "2026-08-24T15:38:18Z",
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67056
+                    "stars": 67058
                   }
                 },
                 {
@@ -1203,7 +1203,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38613
+                    "stars": 38614
                   }
                 },
                 {
@@ -1627,7 +1627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:58:56.737Z",
+    "last_updated": "2026-08-25T06:03:22.880Z",
     "original_repository": "ZhiningLiu1998/awesome-imbalanced-learning",
     "original_repository_id": 245181851,
     "original_repository_sha": "2d45e1e3f18f4e6ded55c815af5f982c22466220",
