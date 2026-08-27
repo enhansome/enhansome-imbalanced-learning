@@ -288,7 +288,7 @@
                     "last_commit": "2026-08-26T13:46:35Z",
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67065
+                    "stars": 67072
                   }
                 },
                 {
@@ -355,7 +355,7 @@
                     "last_commit": "2026-08-26T13:46:35Z",
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67065
+                    "stars": 67072
                   }
                 },
                 {
@@ -972,7 +972,7 @@
                     "last_commit": "2026-08-19T05:38:53Z",
                     "owner": "facebookresearch",
                     "repo": "detectron2",
-                    "stars": 34688
+                    "stars": 34690
                   }
                 },
                 {
@@ -1200,10 +1200,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-26T23:28:07Z",
+                    "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38625
+                    "stars": 38630
                   }
                 },
                 {
@@ -1627,9 +1627,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T01:02:58.602Z",
-    "original_repository": "ZhiningLiu1998/awesome-imbalanced-learning",
-    "original_repository_id": 245181851,
+    "last_updated": "2026-08-27T11:45:40.818Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 245181851,
+      "language": null,
+      "last_commit": "2026-06-09T23:44:43Z",
+      "owner": "ZhiningLiu1998",
+      "repo": "awesome-imbalanced-learning",
+      "stars": 1526
+    },
     "original_repository_sha": "2d45e1e3f18f4e6ded55c815af5f982c22466220",
     "enhanced_repository": "enhansome/enhansome-imbalanced-learning",
     "enhanced_repository_description": null,
