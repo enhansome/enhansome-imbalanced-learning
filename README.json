@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+            "homepage": "https://imbalanced-learn.org",
             "id": 23011147,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-29T16:33:16Z",
+            "open_issues": 84,
             "owner": "scikit-learn-contrib",
             "repo": "imbalanced-learn",
-            "stars": 7122
+            "stars": 7122,
+            "topics": [
+              "data-analysis",
+              "data-science",
+              "machine-learning",
+              "python",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T05:36:16.204Z"
         },
@@ -26,12 +37,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of 85 minority oversampling techniques (SMOTE) for imbalanced learning with multi-class oversampling and model selection features",
+            "homepage": "http://smote-variants.readthedocs.io",
             "id": 151773885,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-01-03T21:08:01Z",
+            "open_issues": 23,
             "owner": "analyticalmindsltd",
             "repo": "smote_variants",
-            "stars": 690
+            "stars": 690,
+            "topics": [
+              "imbalanced-data",
+              "imbalanced-learning",
+              "oversampling",
+              "smote"
+            ]
           },
           "first_seen": "2026-08-28T05:36:16.204Z"
         },
@@ -52,12 +73,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Computing with Python functions.",
+                    "homepage": "http://joblib.readthedocs.org",
                     "id": 654608,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T11:06:49Z",
+                    "open_issues": 436,
                     "owner": "joblib",
                     "repo": "joblib",
-                    "stars": 4388
+                    "stars": 4388,
+                    "topics": [
+                      "caching",
+                      "memoization",
+                      "multiprocessing",
+                      "parallel-computing",
+                      "python",
+                      "threading"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -66,12 +99,36 @@
           ],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS'25]🛠️Class-imbalanced Ensemble Learning Toolbox. | 类别不平衡/长尾机器学习库",
+            "homepage": "https://imbalanced-ensemble.readthedocs.io",
             "id": 346345336,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-05T04:36:51Z",
+            "open_issues": 4,
             "owner": "ZhiningLiu1998",
             "repo": "imbalanced-ensemble",
-            "stars": 431
+            "stars": 431,
+            "topics": [
+              "class-imbalance",
+              "classification",
+              "data-mining",
+              "data-science",
+              "ensemble",
+              "ensemble-imbalanced-learning",
+              "ensemble-learning",
+              "ensemble-model",
+              "imbalanced-classification",
+              "imbalanced-data",
+              "imbalanced-learning",
+              "long-tail",
+              "machine-learning",
+              "multi-class-classification",
+              "python",
+              "python3",
+              "scikit-learn",
+              "sklearn"
+            ]
           },
           "first_seen": "2026-08-28T05:36:16.204Z"
         }
@@ -88,12 +145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models",
+            "homepage": "http://topepo.github.io/caret/",
             "id": 19862061,
             "language": "R",
+            "license": null,
             "last_commit": "2026-08-24T15:30:15Z",
+            "open_issues": 246,
             "owner": "topepo",
             "repo": "caret",
-            "stars": 1669
+            "stars": 1669,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:16.204Z"
         },
@@ -104,12 +166,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of 85 minority oversampling techniques (SMOTE) for imbalanced learning with multi-class oversampling and model selection features",
+            "homepage": "http://smote-variants.readthedocs.io",
             "id": 151773885,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-01-03T21:08:01Z",
+            "open_issues": 23,
             "owner": "analyticalmindsltd",
             "repo": "smote_variants",
-            "stars": 690
+            "stars": 690,
+            "topics": [
+              "imbalanced-data",
+              "imbalanced-learning",
+              "oversampling",
+              "smote"
+            ]
           },
           "first_seen": "2026-08-28T05:36:16.204Z"
         }
@@ -126,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KEEL: Knowledge Extraction based on Evolutionary Learning",
+            "homepage": null,
             "id": 42706960,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2018-03-05T17:45:40Z",
+            "open_issues": 18,
             "owner": "SCI2SUGR",
             "repo": "KEEL",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:16.204Z"
         }
@@ -148,12 +225,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Scala library for undersampling in imbalanced classification.",
+            "homepage": "https://nestorrv.github.io",
             "id": 111292319,
             "language": "Scala",
+            "license": "GPL-3.0",
             "last_commit": "2018-06-25T14:35:44Z",
+            "open_issues": 0,
             "owner": "NestorRV",
             "repo": "undersampling",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "algorithm",
+              "classification",
+              "imbalance-learning",
+              "nearest-neighbor-rules",
+              "undersampling"
+            ]
           },
           "first_seen": "2026-08-28T05:36:16.204Z"
         }
@@ -170,12 +258,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of 85 minority oversampling techniques (SMOTE) for imbalanced learning with multi-class oversampling and model selection features",
+            "homepage": "http://smote-variants.readthedocs.io",
             "id": 151773885,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-01-03T21:08:01Z",
+            "open_issues": 23,
             "owner": "analyticalmindsltd",
             "repo": "smote_variants",
-            "stars": 690
+            "stars": 690,
+            "topics": [
+              "imbalanced-data",
+              "imbalanced-learning",
+              "oversampling",
+              "smote"
+            ]
           },
           "first_seen": "2026-08-28T05:36:16.204Z"
         }
@@ -196,12 +294,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICDE'20] ⚖️ A general, efficient ensemble framework for imbalanced classification. | 泛用，高效，鲁棒的类别不平衡学习框架",
+                    "homepage": "https://arxiv.org/abs/1909.03500v3",
                     "id": 206526243,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-05T22:10:40Z",
+                    "open_issues": 1,
                     "owner": "ZhiningLiu1998",
                     "repo": "self-paced-ensemble",
-                    "stars": 261
+                    "stars": 261,
+                    "topics": [
+                      "class-imbalance",
+                      "classification",
+                      "ensemble",
+                      "ensemble-learning",
+                      "ensemble-methods",
+                      "ensemble-model",
+                      "imbalance-classification",
+                      "imbalanced-data",
+                      "imbalanced-learn",
+                      "imbalanced-learning",
+                      "machine-learning",
+                      "pypi",
+                      "python3"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -212,12 +329,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS’20] ⚖️ Build powerful ensemble class-imbalanced learning models via meta-knowledge-powered resampler. | 设计元知识驱动的采样器解决类别不平衡问题",
+                    "homepage": "https://arxiv.org/abs/2010.08830",
                     "id": 269029186,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-06-17T23:00:16Z",
+                    "open_issues": 5,
                     "owner": "ZhiningLiu1998",
                     "repo": "mesa",
-                    "stars": 111
+                    "stars": 111,
+                    "topics": [
+                      "class-imbalance",
+                      "ensemble",
+                      "ensemble-machine-learning",
+                      "ensemble-model",
+                      "imbalance-classification",
+                      "imbalanced-data",
+                      "imbalanced-learn",
+                      "imbalanced-learning",
+                      "mesa",
+                      "meta-learning-algorithms",
+                      "meta-sampler",
+                      "meta-training"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -233,12 +368,36 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS'25]🛠️Class-imbalanced Ensemble Learning Toolbox. | 类别不平衡/长尾机器学习库",
+                        "homepage": "https://imbalanced-ensemble.readthedocs.io",
                         "id": 346345336,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-03-05T04:36:51Z",
+                        "open_issues": 4,
                         "owner": "ZhiningLiu1998",
                         "repo": "imbalanced-ensemble",
-                        "stars": 431
+                        "stars": 431,
+                        "topics": [
+                          "class-imbalance",
+                          "classification",
+                          "data-mining",
+                          "data-science",
+                          "ensemble",
+                          "ensemble-imbalanced-learning",
+                          "ensemble-learning",
+                          "ensemble-model",
+                          "imbalanced-classification",
+                          "imbalanced-data",
+                          "imbalanced-learning",
+                          "long-tail",
+                          "machine-learning",
+                          "multi-class-classification",
+                          "python",
+                          "python3",
+                          "scikit-learn",
+                          "sklearn"
+                        ]
                       },
                       "first_seen": "2026-08-28T05:36:16.204Z"
                     },
@@ -249,12 +408,36 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS'25]🛠️Class-imbalanced Ensemble Learning Toolbox. | 类别不平衡/长尾机器学习库",
+                        "homepage": "https://imbalanced-ensemble.readthedocs.io",
                         "id": 346345336,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-03-05T04:36:51Z",
+                        "open_issues": 4,
                         "owner": "ZhiningLiu1998",
                         "repo": "imbalanced-ensemble",
-                        "stars": 431
+                        "stars": 431,
+                        "topics": [
+                          "class-imbalance",
+                          "classification",
+                          "data-mining",
+                          "data-science",
+                          "ensemble",
+                          "ensemble-imbalanced-learning",
+                          "ensemble-learning",
+                          "ensemble-model",
+                          "imbalanced-classification",
+                          "imbalanced-data",
+                          "imbalanced-learning",
+                          "long-tail",
+                          "machine-learning",
+                          "multi-class-classification",
+                          "python",
+                          "python3",
+                          "scikit-learn",
+                          "sklearn"
+                        ]
                       },
                       "first_seen": "2026-08-28T05:36:16.204Z"
                     }
@@ -272,12 +455,25 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Evaluating ensemble performance in long-tailed datasets (Neurips 2023 Heavy Tails Workshop)",
+                        "homepage": null,
                         "id": 638987112,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-04-26T23:16:25Z",
+                        "open_issues": 0,
                         "owner": "ekellbuch",
                         "repo": "longtail_ensembles",
-                        "stars": 1
+                        "stars": 1,
+                        "topics": [
+                          "class-imbalance",
+                          "ensemble-learning",
+                          "fairness-ml",
+                          "imbalanced-classes",
+                          "imbalanced-classification",
+                          "imbalanced-data",
+                          "imbalanced-learning"
+                        ]
                       },
                       "first_seen": "2026-08-28T05:36:16.204Z"
                     }
@@ -297,12 +493,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "scikit-learn: machine learning in Python",
+                    "homepage": "https://scikit-learn.org",
                     "id": 843222,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-28T21:28:28Z",
+                    "open_issues": 2134,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67091
+                    "stars": 67091,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "statistics"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -313,12 +520,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS'25]🛠️Class-imbalanced Ensemble Learning Toolbox. | 类别不平衡/长尾机器学习库",
+                    "homepage": "https://imbalanced-ensemble.readthedocs.io",
                     "id": 346345336,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-05T04:36:51Z",
+                    "open_issues": 4,
                     "owner": "ZhiningLiu1998",
                     "repo": "imbalanced-ensemble",
-                    "stars": 431
+                    "stars": 431,
+                    "topics": [
+                      "class-imbalance",
+                      "classification",
+                      "data-mining",
+                      "data-science",
+                      "ensemble",
+                      "ensemble-imbalanced-learning",
+                      "ensemble-learning",
+                      "ensemble-model",
+                      "imbalanced-classification",
+                      "imbalanced-data",
+                      "imbalanced-learning",
+                      "long-tail",
+                      "machine-learning",
+                      "multi-class-classification",
+                      "python",
+                      "python3",
+                      "scikit-learn",
+                      "sklearn"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -329,12 +560,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS'25]🛠️Class-imbalanced Ensemble Learning Toolbox. | 类别不平衡/长尾机器学习库",
+                    "homepage": "https://imbalanced-ensemble.readthedocs.io",
                     "id": 346345336,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-05T04:36:51Z",
+                    "open_issues": 4,
                     "owner": "ZhiningLiu1998",
                     "repo": "imbalanced-ensemble",
-                    "stars": 431
+                    "stars": 431,
+                    "topics": [
+                      "class-imbalance",
+                      "classification",
+                      "data-mining",
+                      "data-science",
+                      "ensemble",
+                      "ensemble-imbalanced-learning",
+                      "ensemble-learning",
+                      "ensemble-model",
+                      "imbalanced-classification",
+                      "imbalanced-data",
+                      "imbalanced-learning",
+                      "long-tail",
+                      "machine-learning",
+                      "multi-class-classification",
+                      "python",
+                      "python3",
+                      "scikit-learn",
+                      "sklearn"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -345,12 +600,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python-based implementations of algorithms for learning on imbalanced data.",
+                    "homepage": null,
                     "id": 66499180,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-01-29T07:47:23Z",
+                    "open_issues": 1,
                     "owner": "dialnd",
                     "repo": "imbalanced-algorithms",
-                    "stars": 241
+                    "stars": 241,
+                    "topics": [
+                      "data-science",
+                      "imbalanced-data",
+                      "machine-learning",
+                      "notre-dame",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -368,12 +634,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "scikit-learn: machine learning in Python",
+                    "homepage": "https://scikit-learn.org",
                     "id": 843222,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-28T21:28:28Z",
+                    "open_issues": 2134,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67091
+                    "stars": 67091,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "statistics"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -389,12 +666,36 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS'25]🛠️Class-imbalanced Ensemble Learning Toolbox. | 类别不平衡/长尾机器学习库",
+                        "homepage": "https://imbalanced-ensemble.readthedocs.io",
                         "id": 346345336,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-03-05T04:36:51Z",
+                        "open_issues": 4,
                         "owner": "ZhiningLiu1998",
                         "repo": "imbalanced-ensemble",
-                        "stars": 431
+                        "stars": 431,
+                        "topics": [
+                          "class-imbalance",
+                          "classification",
+                          "data-mining",
+                          "data-science",
+                          "ensemble",
+                          "ensemble-imbalanced-learning",
+                          "ensemble-learning",
+                          "ensemble-model",
+                          "imbalanced-classification",
+                          "imbalanced-data",
+                          "imbalanced-learning",
+                          "long-tail",
+                          "machine-learning",
+                          "multi-class-classification",
+                          "python",
+                          "python3",
+                          "scikit-learn",
+                          "sklearn"
+                        ]
                       },
                       "first_seen": "2026-08-28T05:36:16.204Z"
                     },
@@ -405,12 +706,36 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS'25]🛠️Class-imbalanced Ensemble Learning Toolbox. | 类别不平衡/长尾机器学习库",
+                        "homepage": "https://imbalanced-ensemble.readthedocs.io",
                         "id": 346345336,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-03-05T04:36:51Z",
+                        "open_issues": 4,
                         "owner": "ZhiningLiu1998",
                         "repo": "imbalanced-ensemble",
-                        "stars": 431
+                        "stars": 431,
+                        "topics": [
+                          "class-imbalance",
+                          "classification",
+                          "data-mining",
+                          "data-science",
+                          "ensemble",
+                          "ensemble-imbalanced-learning",
+                          "ensemble-learning",
+                          "ensemble-model",
+                          "imbalanced-classification",
+                          "imbalanced-data",
+                          "imbalanced-learning",
+                          "long-tail",
+                          "machine-learning",
+                          "multi-class-classification",
+                          "python",
+                          "python3",
+                          "scikit-learn",
+                          "sklearn"
+                        ]
                       },
                       "first_seen": "2026-08-28T05:36:16.204Z"
                     },
@@ -421,12 +746,36 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS'25]🛠️Class-imbalanced Ensemble Learning Toolbox. | 类别不平衡/长尾机器学习库",
+                        "homepage": "https://imbalanced-ensemble.readthedocs.io",
                         "id": 346345336,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-03-05T04:36:51Z",
+                        "open_issues": 4,
                         "owner": "ZhiningLiu1998",
                         "repo": "imbalanced-ensemble",
-                        "stars": 431
+                        "stars": 431,
+                        "topics": [
+                          "class-imbalance",
+                          "classification",
+                          "data-mining",
+                          "data-science",
+                          "ensemble",
+                          "ensemble-imbalanced-learning",
+                          "ensemble-learning",
+                          "ensemble-model",
+                          "imbalanced-classification",
+                          "imbalanced-data",
+                          "imbalanced-learning",
+                          "long-tail",
+                          "machine-learning",
+                          "multi-class-classification",
+                          "python",
+                          "python3",
+                          "scikit-learn",
+                          "sklearn"
+                        ]
                       },
                       "first_seen": "2026-08-28T05:36:16.204Z"
                     }
@@ -446,12 +795,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS'25]🛠️Class-imbalanced Ensemble Learning Toolbox. | 类别不平衡/长尾机器学习库",
+                    "homepage": "https://imbalanced-ensemble.readthedocs.io",
                     "id": 346345336,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-05T04:36:51Z",
+                    "open_issues": 4,
                     "owner": "ZhiningLiu1998",
                     "repo": "imbalanced-ensemble",
-                    "stars": 431
+                    "stars": 431,
+                    "topics": [
+                      "class-imbalance",
+                      "classification",
+                      "data-mining",
+                      "data-science",
+                      "ensemble",
+                      "ensemble-imbalanced-learning",
+                      "ensemble-learning",
+                      "ensemble-model",
+                      "imbalanced-classification",
+                      "imbalanced-data",
+                      "imbalanced-learning",
+                      "long-tail",
+                      "machine-learning",
+                      "multi-class-classification",
+                      "python",
+                      "python3",
+                      "scikit-learn",
+                      "sklearn"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -462,12 +835,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS'25]🛠️Class-imbalanced Ensemble Learning Toolbox. | 类别不平衡/长尾机器学习库",
+                    "homepage": "https://imbalanced-ensemble.readthedocs.io",
                     "id": 346345336,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-05T04:36:51Z",
+                    "open_issues": 4,
                     "owner": "ZhiningLiu1998",
                     "repo": "imbalanced-ensemble",
-                    "stars": 431
+                    "stars": 431,
+                    "topics": [
+                      "class-imbalance",
+                      "classification",
+                      "data-mining",
+                      "data-science",
+                      "ensemble",
+                      "ensemble-imbalanced-learning",
+                      "ensemble-learning",
+                      "ensemble-model",
+                      "imbalanced-classification",
+                      "imbalanced-data",
+                      "imbalanced-learning",
+                      "long-tail",
+                      "machine-learning",
+                      "multi-class-classification",
+                      "python",
+                      "python3",
+                      "scikit-learn",
+                      "sklearn"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -478,12 +875,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS'25]🛠️Class-imbalanced Ensemble Learning Toolbox. | 类别不平衡/长尾机器学习库",
+                    "homepage": "https://imbalanced-ensemble.readthedocs.io",
                     "id": 346345336,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-05T04:36:51Z",
+                    "open_issues": 4,
                     "owner": "ZhiningLiu1998",
                     "repo": "imbalanced-ensemble",
-                    "stars": 431
+                    "stars": 431,
+                    "topics": [
+                      "class-imbalance",
+                      "classification",
+                      "data-mining",
+                      "data-science",
+                      "ensemble",
+                      "ensemble-imbalanced-learning",
+                      "ensemble-learning",
+                      "ensemble-model",
+                      "imbalanced-classification",
+                      "imbalanced-data",
+                      "imbalanced-learning",
+                      "long-tail",
+                      "machine-learning",
+                      "multi-class-classification",
+                      "python",
+                      "python3",
+                      "scikit-learn",
+                      "sklearn"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -508,12 +929,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                    "homepage": "https://imbalanced-learn.org",
                     "id": 23011147,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-29T16:33:16Z",
+                    "open_issues": 84,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7122
+                    "stars": 7122,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "statistics"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -524,12 +956,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                    "homepage": "https://imbalanced-learn.org",
                     "id": 23011147,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-29T16:33:16Z",
+                    "open_issues": 84,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7122
+                    "stars": 7122,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "statistics"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -540,12 +983,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                    "homepage": "https://imbalanced-learn.org",
                     "id": 23011147,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-29T16:33:16Z",
+                    "open_issues": 84,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7122
+                    "stars": 7122,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "statistics"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -556,12 +1010,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                    "homepage": "https://imbalanced-learn.org",
                     "id": 23011147,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-29T16:33:16Z",
+                    "open_issues": 84,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7122
+                    "stars": 7122,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "statistics"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -572,12 +1037,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                    "homepage": "https://imbalanced-learn.org",
                     "id": 23011147,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-29T16:33:16Z",
+                    "open_issues": 84,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7122
+                    "stars": 7122,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "statistics"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -588,12 +1064,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of 85 minority oversampling techniques (SMOTE) for imbalanced learning with multi-class oversampling and model selection features",
+                    "homepage": "http://smote-variants.readthedocs.io",
                     "id": 151773885,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-01-03T21:08:01Z",
+                    "open_issues": 23,
                     "owner": "analyticalmindsltd",
                     "repo": "smote_variants",
-                    "stars": 690
+                    "stars": 690,
+                    "topics": [
+                      "imbalanced-data",
+                      "imbalanced-learning",
+                      "oversampling",
+                      "smote"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -604,12 +1090,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "KEEL: Knowledge Extraction based on Evolutionary Learning",
+                    "homepage": null,
                     "id": 42706960,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2018-03-05T17:45:40Z",
+                    "open_issues": 18,
                     "owner": "SCI2SUGR",
                     "repo": "KEEL",
-                    "stars": 132
+                    "stars": 132,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -620,12 +1111,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "KEEL: Knowledge Extraction based on Evolutionary Learning",
+                    "homepage": null,
                     "id": 42706960,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2018-03-05T17:45:40Z",
+                    "open_issues": 18,
                     "owner": "SCI2SUGR",
                     "repo": "KEEL",
-                    "stars": 132
+                    "stars": 132,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -643,12 +1139,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                    "homepage": "https://imbalanced-learn.org",
                     "id": 23011147,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-29T16:33:16Z",
+                    "open_issues": 84,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7122
+                    "stars": 7122,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "statistics"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -659,12 +1166,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                    "homepage": "https://imbalanced-learn.org",
                     "id": 23011147,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-29T16:33:16Z",
+                    "open_issues": 84,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7122
+                    "stars": 7122,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "statistics"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -675,12 +1193,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                    "homepage": "https://imbalanced-learn.org",
                     "id": 23011147,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-29T16:33:16Z",
+                    "open_issues": 84,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7122
+                    "stars": 7122,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "statistics"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -691,12 +1220,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                    "homepage": "https://imbalanced-learn.org",
                     "id": 23011147,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-29T16:33:16Z",
+                    "open_issues": 84,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7122
+                    "stars": 7122,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "statistics"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -707,12 +1247,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                    "homepage": "https://imbalanced-learn.org",
                     "id": 23011147,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-29T16:33:16Z",
+                    "open_issues": 84,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7122
+                    "stars": 7122,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "statistics"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -723,12 +1274,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                    "homepage": "https://imbalanced-learn.org",
                     "id": 23011147,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-29T16:33:16Z",
+                    "open_issues": 84,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7122
+                    "stars": 7122,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "statistics"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -739,12 +1301,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                    "homepage": "https://imbalanced-learn.org",
                     "id": 23011147,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-29T16:33:16Z",
+                    "open_issues": 84,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7122
+                    "stars": 7122,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "statistics"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -755,12 +1328,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                    "homepage": "https://imbalanced-learn.org",
                     "id": 23011147,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-29T16:33:16Z",
+                    "open_issues": 84,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7122
+                    "stars": 7122,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "statistics"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -771,12 +1355,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "KEEL: Knowledge Extraction based on Evolutionary Learning",
+                    "homepage": null,
                     "id": 42706960,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2018-03-05T17:45:40Z",
+                    "open_issues": 18,
                     "owner": "SCI2SUGR",
                     "repo": "KEEL",
-                    "stars": 132
+                    "stars": 132,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -799,12 +1388,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                        "homepage": "https://imbalanced-learn.org",
                         "id": 23011147,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-06-29T16:33:16Z",
+                        "open_issues": 84,
                         "owner": "scikit-learn-contrib",
                         "repo": "imbalanced-learn",
-                        "stars": 7122
+                        "stars": 7122,
+                        "topics": [
+                          "data-analysis",
+                          "data-science",
+                          "machine-learning",
+                          "python",
+                          "statistics"
+                        ]
                       },
                       "first_seen": "2026-08-28T05:36:16.204Z"
                     },
@@ -815,12 +1415,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+                        "homepage": "https://imbalanced-learn.org",
                         "id": 23011147,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-06-29T16:33:16Z",
+                        "open_issues": 84,
                         "owner": "scikit-learn-contrib",
                         "repo": "imbalanced-learn",
-                        "stars": 7122
+                        "stars": 7122,
+                        "topics": [
+                          "data-analysis",
+                          "data-science",
+                          "machine-learning",
+                          "python",
+                          "statistics"
+                        ]
                       },
                       "first_seen": "2026-08-28T05:36:16.204Z"
                     }
@@ -845,12 +1456,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KEEL: Knowledge Extraction based on Evolutionary Learning",
+                "homepage": null,
                 "id": 42706960,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2018-03-05T17:45:40Z",
+                "open_issues": 18,
                 "owner": "SCI2SUGR",
                 "repo": "KEEL",
-                "stars": 132
+                "stars": 132,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:36:16.204Z"
             },
@@ -861,12 +1477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KEEL: Knowledge Extraction based on Evolutionary Learning",
+                "homepage": null,
                 "id": 42706960,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2018-03-05T17:45:40Z",
+                "open_issues": 18,
                 "owner": "SCI2SUGR",
                 "repo": "KEEL",
-                "stars": 132
+                "stars": 132,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:36:16.204Z"
             },
@@ -877,12 +1498,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KEEL: Knowledge Extraction based on Evolutionary Learning",
+                "homepage": null,
                 "id": 42706960,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2018-03-05T17:45:40Z",
+                "open_issues": 18,
                 "owner": "SCI2SUGR",
                 "repo": "KEEL",
-                "stars": 132
+                "stars": 132,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:36:16.204Z"
             },
@@ -893,12 +1519,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bayesian weighted likelihoods for class imbalance",
+                "homepage": null,
                 "id": 970992639,
                 "language": "R",
+                "license": null,
                 "last_commit": "2025-12-26T10:49:48Z",
+                "open_issues": 0,
                 "owner": "stanlazic",
                 "repo": "weighted_likelihoods",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:36:16.204Z"
             }
@@ -918,12 +1549,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch implementation of paper 'GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks' to appear on WSDM2021",
+                    "homepage": null,
                     "id": 320016514,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-09-14T20:46:18Z",
+                    "open_issues": 12,
                     "owner": "TianxiangZhao",
                     "repo": "GraphSmote",
-                    "stars": 181
+                    "stars": 181,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -934,12 +1570,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification (ICLR'22)",
+                    "homepage": null,
                     "id": 469728630,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-10-25T11:06:57Z",
+                    "open_issues": 4,
                     "owner": "JoonHyung-Park",
                     "repo": "GraphENS",
-                    "stars": 86
+                    "stars": 86,
+                    "topics": [
+                      "graph-neural-networks",
+                      "node-classification",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -950,12 +1595,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification",
+                    "homepage": null,
                     "id": 521877189,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-10-19T10:46:12Z",
+                    "open_issues": 1,
                     "owner": "Jaeyun-Song",
                     "repo": "TAM",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -966,12 +1616,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for Neurips2021 Paper \"Topology-Imbalance Learning for Semi-Supervised Node Classification\".",
+                    "homepage": null,
                     "id": 413028441,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-10-11T05:59:28Z",
+                    "open_issues": 3,
                     "owner": "victorchen96",
                     "repo": "ReNode",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -982,12 +1637,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CIKM 2023] Code for the paper \"LTE4G: Long-Tail Experts for Graph Neural Networks\"",
+                    "homepage": "https://arxiv.org/abs/2208.10205",
                     "id": 527436241,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-09-08T09:18:32Z",
+                    "open_issues": 1,
                     "owner": "SukwonYun",
                     "repo": "LTE4G",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -998,12 +1658,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[KDD'23] Source codes of \"Semi-Supervised Graph Imbalanced Regression\"",
+                    "homepage": null,
                     "id": 652487371,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-06-21T14:39:34Z",
+                    "open_issues": 0,
                     "owner": "liugangcode",
                     "repo": "SGIR",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -1021,12 +1686,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+                    "homepage": "https://detectron2.readthedocs.io/en/latest/",
                     "id": 206660580,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-19T05:38:53Z",
+                    "open_issues": 585,
                     "owner": "facebookresearch",
                     "repo": "detectron2",
-                    "stars": 34692
+                    "stars": 34692,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1037,12 +1707,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2019] Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss",
+                    "homepage": "https://arxiv.org/pdf/1906.07413.pdf",
                     "id": 192134464,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-12-25T04:26:04Z",
+                    "open_issues": 12,
                     "owner": "kaidic",
                     "repo": "LDAM-DRW",
-                    "stars": 701
+                    "stars": 701,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1053,12 +1728,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The implementation of “Gradient Harmonized Single-stage Detector” published on AAAI 2019.",
+                    "homepage": null,
                     "id": 155964832,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-07-15T13:35:04Z",
+                    "open_issues": 30,
                     "owner": "libuyu",
                     "repo": "GHM_Detection",
-                    "stars": 618
+                    "stars": 618,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1069,12 +1749,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Class-Balanced Loss Based on Effective Number of Samples. CVPR 2019",
+                    "homepage": null,
                     "id": 162182943,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-08-29T01:51:44Z",
+                    "open_issues": 18,
                     "owner": "richardaecn",
                     "repo": "class-balanced-loss",
-                    "stars": 615
+                    "stars": 615,
+                    "topics": [
+                      "cloud-tpu",
+                      "computer-vision",
+                      "cvpr",
+                      "cvpr2019",
+                      "deep-learning",
+                      "fine-grained",
+                      "fine-grained-classification",
+                      "fine-grained-visual-categorization",
+                      "imagenet",
+                      "inaturalist",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1085,12 +1782,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 147426181,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-09-04T22:38:31Z",
+                    "open_issues": 7,
                     "owner": "cvcode18",
                     "repo": "imbalanced_learning",
-                    "stars": 103
+                    "stars": 103,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1101,12 +1803,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2021] Influence-balanced Loss for Imbalanced Visual Classification",
+                    "homepage": null,
                     "id": 414057108,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-03-22T07:09:53Z",
+                    "open_issues": 2,
                     "owner": "pseulki",
                     "repo": "IB-Loss",
-                    "stars": 100
+                    "stars": 100,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1117,12 +1824,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Label-Imbalanced and Group-Sensitive Classification under Overparameterization",
+                    "homepage": null,
                     "id": 419125882,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-11-03T00:25:52Z",
+                    "open_issues": 0,
                     "owner": "orparask",
                     "repo": "VS-Loss",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -1140,12 +1852,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NeurIPS'19: Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting (Pytorch implementation for noisy labels).",
+                    "homepage": null,
                     "id": 207342722,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-12-14T03:17:23Z",
+                    "open_issues": 8,
                     "owner": "xjtushujun",
                     "repo": "meta-weight-net",
-                    "stars": 296
+                    "stars": 296,
+                    "topics": [
+                      "class-imbalance",
+                      "meta-learning",
+                      "noisy-labels",
+                      "sample-reweighting"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1156,12 +1878,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for paper \"Learning to Reweight Examples for Robust Deep Learning\"",
+                    "homepage": null,
                     "id": 168585690,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-03-22T15:47:23Z",
+                    "open_issues": 9,
                     "owner": "uber-research",
                     "repo": "learning-to-reweight-examples",
-                    "stars": 270
+                    "stars": 270,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1172,12 +1899,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS’20] ⚖️ Build powerful ensemble class-imbalanced learning models via meta-knowledge-powered resampler. | 设计元知识驱动的采样器解决类别不平衡问题",
+                    "homepage": "https://arxiv.org/abs/2010.08830",
                     "id": 269029186,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-06-17T23:00:16Z",
+                    "open_issues": 5,
                     "owner": "ZhiningLiu1998",
                     "repo": "mesa",
-                    "stars": 111
+                    "stars": 111,
+                    "topics": [
+                      "class-imbalance",
+                      "ensemble",
+                      "ensemble-machine-learning",
+                      "ensemble-model",
+                      "imbalance-classification",
+                      "imbalanced-data",
+                      "imbalanced-learn",
+                      "imbalanced-learning",
+                      "mesa",
+                      "meta-learning-algorithms",
+                      "meta-sampler",
+                      "meta-training"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1188,12 +1933,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NeurIPS 2019 - Learning Data Manipulation for Augmentation and Weighting",
+                    "homepage": null,
                     "id": 217189507,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-09-05T23:17:25Z",
+                    "open_issues": 5,
                     "owner": "tanyuqian",
                     "repo": "learning-data-manipulation",
-                    "stars": 110
+                    "stars": 110,
+                    "topics": [
+                      "bert",
+                      "data-augmentation",
+                      "data-manipulation",
+                      "meta-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1204,12 +1959,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tensorflow implementation of \"Learning to Balance: Bayesian Meta-learning for Imbalanced  and Out-of-distribution Tasks\" (ICLR 2020 oral)",
+                    "homepage": null,
                     "id": 240695990,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-11-23T07:08:56Z",
+                    "open_issues": 0,
                     "owner": "haebeom-lee",
                     "repo": "l2b",
-                    "stars": 101
+                    "stars": 101,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -1227,12 +1987,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "This repository contains code for the paper \"Decoupling Representation and Classifier for Long-Tailed Recognition\", published at ICLR 2020",
+                    "homepage": null,
                     "id": 225755929,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-10-12T21:33:25Z",
+                    "open_issues": 13,
                     "owner": "facebookresearch",
                     "repo": "classifier-balancing",
-                    "stars": 981
+                    "stars": 981,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1243,12 +2008,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch Repository of \"Tailoring Self-Supervision for Supervised Learning\" (ECCV 2022 Paper)",
+                    "homepage": "https://arxiv.org/abs/2207.10023",
                     "id": 510294462,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-07-28T16:10:44Z",
+                    "open_issues": 0,
                     "owner": "wjun0830",
                     "repo": "Localizable-Rotation",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "data-augmentation",
+                      "deep-learning",
+                      "long-tailed-recognition",
+                      "model-robustness",
+                      "out-of-distribution-detection",
+                      "self-supervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -1266,12 +2043,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Google Research",
+                    "homepage": "https://research.google",
                     "id": 151619717,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T09:11:14Z",
+                    "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38643
+                    "stars": 38643,
+                    "topics": [
+                      "ai",
+                      "machine-learning",
+                      "research"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1282,12 +2068,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 274266247,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-11-22T17:09:28Z",
+                    "open_issues": 1,
                     "owner": "GT-RIPL",
                     "repo": "UNO-IC",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -1305,12 +2096,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2020] Semi-Supervision (Unlabeled Data) & Self-Supervision Improve Class-Imbalanced / Long-Tailed Learning",
+                    "homepage": "https://arxiv.org/abs/2006.07529",
                     "id": 292877948,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-04-03T04:38:04Z",
+                    "open_issues": 0,
                     "owner": "YyzHarry",
                     "repo": "imbalanced-semi-self",
-                    "stars": 756
+                    "stars": 756,
+                    "topics": [
+                      "class-imbalance",
+                      "imbalanced-classification",
+                      "imbalanced-data",
+                      "imbalanced-learning",
+                      "long-tail",
+                      "long-tailed-recognition",
+                      "neurips",
+                      "neurips-2020",
+                      "self-supervised-learning",
+                      "semi-supervised-learning",
+                      "unlabeled-data"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1321,12 +2129,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"Distribution Aligning Refinery of Pseudo-label for Imbalanced Semi-supervised Learning\" (NeurIPS 20)",
+                    "homepage": "https://arxiv.org/abs/2007.08844",
                     "id": 275046930,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-07-15T08:11:39Z",
+                    "open_issues": 1,
                     "owner": "bbuing9",
                     "repo": "DARP",
-                    "stars": 73
+                    "stars": 73,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1337,12 +2150,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository for the paper `DASO: Distribution-Aware Semantics-Oriented Pseudo-label Imbalanced Semi-Supervised Learning'.",
+                    "homepage": null,
                     "id": 375605672,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-06-08T10:20:31Z",
+                    "open_issues": 3,
                     "owner": "ytaek-oh",
                     "repo": "daso",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": [
+                      "distribution-mismatch",
+                      "long-tailed-distribution",
+                      "semi-supervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1353,12 +2175,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "pytorch implementation of ABC : Auxiliary Balanced Classifier for Class-imbalanced Semi-supervised Learning",
+                    "homepage": null,
                     "id": 413398856,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-11-20T02:39:45Z",
+                    "open_issues": 0,
                     "owner": "LeeHyuck",
                     "repo": "ABC",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -1376,12 +2203,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 55639037,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-05-18T07:50:28Z",
+                    "open_issues": 19,
                     "owner": "naldeborgh7575",
                     "repo": "brain_segmentation",
-                    "stars": 307
+                    "stars": 307,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -1399,12 +2231,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official PyTorch implementation of paper BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition",
+                    "homepage": "https://arxiv.org/abs/1912.02413",
                     "id": 225821098,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-11-22T04:40:20Z",
+                    "open_issues": 20,
                     "owner": "megvii-research",
                     "repo": "BBN",
-                    "stars": 666
+                    "stars": 666,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -1422,12 +2259,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML 2021, Long Talk] Delving into Deep Imbalanced Regression",
+                    "homepage": "http://dir.csail.mit.edu",
                     "id": 340089798,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-03-22T15:06:27Z",
+                    "open_issues": 3,
                     "owner": "YyzHarry",
                     "repo": "imbalanced-regression",
-                    "stars": 919
+                    "stars": 919,
+                    "topics": [
+                      "computer-vision",
+                      "healthcare",
+                      "icml",
+                      "icml-2021",
+                      "imbalance",
+                      "imbalanced-classification",
+                      "imbalanced-data",
+                      "imbalanced-learning",
+                      "imbalanced-regression",
+                      "long-tail",
+                      "natural-language-processing",
+                      "regression"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1438,12 +2293,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2022 Oral] Balanced MSE for Imbalanced Visual Regression https://arxiv.org/abs/2203.16427",
+                    "homepage": "https://sites.google.com/view/balanced-mse/home",
                     "id": 472591824,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-07-28T13:51:32Z",
+                    "open_issues": 5,
                     "owner": "jiawei-ren",
                     "repo": "BalancedMSE",
-                    "stars": 394
+                    "stars": 394,
+                    "topics": [
+                      "age-estimation",
+                      "computer-vision",
+                      "depth-estimation",
+                      "human-mesh-recovery",
+                      "imbalanced-learning",
+                      "imbalanced-regression"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1454,12 +2321,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML 2022] RankSim: Ranking Similarity Regularization for Deep Imbalanced Regression",
+                    "homepage": null,
                     "id": 496405283,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-10-28T21:40:03Z",
+                    "open_issues": 3,
                     "owner": "BorealisAI",
                     "repo": "ranksim-imbalanced-regression",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": [
+                      "imbalanced-data",
+                      "imbalanced-learning",
+                      "imbalanced-regression",
+                      "regression"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1470,12 +2347,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"Density-based weighting for imbalanced regression\". Contains an implementation for our imbalanced regression method and the experiments found in the paper.",
+                    "homepage": null,
                     "id": 380918428,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-07-08T09:52:20Z",
+                    "open_issues": 1,
                     "owner": "SteiMi",
                     "repo": "density-based-weighting-for-imbalanced-regression",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1486,12 +2368,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[KDD'23] Source codes of \"Semi-Supervised Graph Imbalanced Regression\"",
+                    "homepage": null,
                     "id": 652487371,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-06-21T14:39:34Z",
+                    "open_issues": 0,
                     "owner": "liugangcode",
                     "repo": "SGIR",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -1509,12 +2396,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch Repository of \"Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition\" (AAAI 2023 Oral Paper) and Imbalanced-MiniKinetics200 dataset.",
+                    "homepage": "https://arxiv.org/abs/2211.13471",
                     "id": 569828567,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-07-27T20:12:38Z",
+                    "open_issues": 0,
                     "owner": "wjun0830",
                     "repo": "MOVE",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "imbalanced-learning",
+                      "long-tailed-recognition",
+                      "pytorch",
+                      "video-classification",
+                      "video-long-tailed-recognition",
+                      "video-recognition"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -1543,12 +2442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "machine learning databases",
+                "homepage": null,
                 "id": 199483372,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-11-18T20:13:41Z",
+                "open_issues": 0,
                 "owner": "gykovacs",
                 "repo": "common_datasets",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:36:16.204Z"
             }
@@ -1568,12 +2472,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A (PyTorch) imbalanced dataset sampler for oversampling low frequent classes and undersampling high frequent ones.",
+                    "homepage": null,
                     "id": 135230102,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-06T20:24:50Z",
+                    "open_issues": 32,
                     "owner": "ufoym",
                     "repo": "imbalanced-dataset-sampler",
-                    "stars": 2326
+                    "stars": 2326,
+                    "topics": [
+                      "data-sampling",
+                      "image-classification",
+                      "imbalanced-data",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1584,12 +2498,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python-based implementations of algorithms for learning on imbalanced data.",
+                    "homepage": null,
                     "id": 66499180,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-01-29T07:47:23Z",
+                    "open_issues": 1,
                     "owner": "dialnd",
                     "repo": "imbalanced-algorithms",
-                    "stars": 241
+                    "stars": 241,
+                    "topics": [
+                      "data-science",
+                      "imbalanced-data",
+                      "machine-learning",
+                      "notre-dame",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1600,12 +2525,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advanced Machine Learning with Scikit-learn part II",
+                    "homepage": null,
                     "id": 147727117,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2020-04-17T17:57:22Z",
+                    "open_issues": 0,
                     "owner": "amueller",
                     "repo": "ml-workshop-4-of-4",
-                    "stars": 166
+                    "stars": 166,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1616,12 +2546,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multi-class with imbalanced dataset classification",
+                    "homepage": null,
                     "id": 162833038,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2019-06-11T16:46:05Z",
+                    "open_issues": 2,
                     "owner": "javaidnabi31",
                     "repo": "Multi-class-with-imbalanced-dataset-classification",
-                    "stars": 85
+                    "stars": 85,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1632,12 +2567,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Jupyter Notebook presentation for class imbalance in binary classification",
+                    "homepage": null,
                     "id": 52632806,
                     "language": "Jupyter Notebook",
+                    "license": "CC-BY-SA-4.0",
                     "last_commit": "2018-08-11T14:31:29Z",
+                    "open_issues": 0,
                     "owner": "wangz10",
                     "repo": "class_imbalance",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": [
+                      "classification",
+                      "imbalanced-data",
+                      "machine-learning",
+                      "tutorial"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -1655,12 +2600,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!",
+                    "homepage": null,
                     "id": 133717148,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-03-02T04:42:20Z",
+                    "open_issues": 14,
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9370
+                    "stars": 9370,
+                    "topics": [
+                      "anomaly-detection",
+                      "awesome",
+                      "awesome-list",
+                      "data-mining",
+                      "fraud",
+                      "fraud-detection",
+                      "graph-neural-networks",
+                      "large-language-models",
+                      "llm",
+                      "machine-learning",
+                      "outlier",
+                      "outlier-detection",
+                      "outlier-ensembles",
+                      "time-series-analysis",
+                      "unsupervised-learning",
+                      "vlm",
+                      "vlms"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 },
@@ -1671,12 +2639,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 109234644,
                     "language": null,
+                    "license": null,
                     "last_commit": "2017-11-03T09:07:48Z",
+                    "open_issues": 0,
                     "owner": "danielgy",
                     "repo": "Paper-list-on-Imbalanced-Time-series-Classification-with-Deep-Learning",
-                    "stars": 192
+                    "stars": 192,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -1694,12 +2667,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Slides and code for the ACM Imbalanced Learning talk on 27th April 2016",
+                    "homepage": null,
                     "id": 57179996,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2016-04-27T23:47:04Z",
+                    "open_issues": 0,
                     "owner": "timgasser",
                     "repo": "acm_imbalanced_learning",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
                 }
@@ -1718,15 +2696,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:22:19.128Z",
+    "last_updated": "2026-08-29T04:31:12.897Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
+      "homepage": null,
       "id": 245181851,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-09T23:44:43Z",
+      "open_issues": 2,
       "owner": "ZhiningLiu1998",
       "repo": "awesome-imbalanced-learning",
-      "stars": 1526
+      "stars": 1526,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "class-imbalance",
+        "deep-learning",
+        "ensemble-learning",
+        "fair-ml",
+        "fairness-ml",
+        "imbalanced-classes",
+        "imbalanced-classification",
+        "imbalanced-data",
+        "imbalanced-learning",
+        "machine-learning",
+        "skewed-data"
+      ]
     },
     "original_repository_sha": "2d45e1e3f18f4e6ded55c815af5f982c22466220",
     "enhanced_repository": "enhansome/enhansome-imbalanced-learning",
