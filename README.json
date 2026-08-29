@@ -82,7 +82,7 @@
                     "open_issues": 436,
                     "owner": "joblib",
                     "repo": "joblib",
-                    "stars": 4388,
+                    "stars": 4389,
                     "topics": [
                       "caching",
                       "memoization",
@@ -502,7 +502,7 @@
                     "open_issues": 2134,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67091,
+                    "stars": 67096,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -643,7 +643,7 @@
                     "open_issues": 2134,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67091,
+                    "stars": 67096,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1692,7 +1692,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-19T05:38:53Z",
-                    "open_issues": 585,
+                    "open_issues": 586,
                     "owner": "facebookresearch",
                     "repo": "detectron2",
                     "stars": 34692,
@@ -2052,7 +2052,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38643,
+                    "stars": 38650,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2696,7 +2696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:31:12.897Z",
+    "last_updated": "2026-08-29T23:35:02.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
