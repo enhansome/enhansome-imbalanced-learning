@@ -46,7 +46,7 @@
             "open_issues": 23,
             "owner": "analyticalmindsltd",
             "repo": "smote_variants",
-            "stars": 690,
+            "stars": 691,
             "topics": [
               "imbalanced-data",
               "imbalanced-learning",
@@ -79,7 +79,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-01T11:18:40Z",
-                    "open_issues": 435,
+                    "open_issues": 437,
                     "owner": "joblib",
                     "repo": "joblib",
                     "stars": 4388,
@@ -175,7 +175,7 @@
             "open_issues": 23,
             "owner": "analyticalmindsltd",
             "repo": "smote_variants",
-            "stars": 690,
+            "stars": 691,
             "topics": [
               "imbalanced-data",
               "imbalanced-learning",
@@ -267,7 +267,7 @@
             "open_issues": 23,
             "owner": "analyticalmindsltd",
             "repo": "smote_variants",
-            "stars": 690,
+            "stars": 691,
             "topics": [
               "imbalanced-data",
               "imbalanced-learning",
@@ -499,10 +499,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-04T20:55:21Z",
-                    "open_issues": 2145,
+                    "open_issues": 2146,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67160,
+                    "stars": 67164,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -640,10 +640,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-04T20:55:21Z",
-                    "open_issues": 2145,
+                    "open_issues": 2146,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67160,
+                    "stars": 67164,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1073,7 +1073,7 @@
                     "open_issues": 23,
                     "owner": "analyticalmindsltd",
                     "repo": "smote_variants",
-                    "stars": 690,
+                    "stars": 691,
                     "topics": [
                       "imbalanced-data",
                       "imbalanced-learning",
@@ -2049,10 +2049,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-03T08:28:07Z",
-                    "open_issues": 1989,
+                    "open_issues": 1990,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38691,
+                    "stars": 38693,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2696,7 +2696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:18:27.883Z",
+    "last_updated": "2026-09-05T23:16:06.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
