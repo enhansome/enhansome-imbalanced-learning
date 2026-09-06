@@ -499,10 +499,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-04T20:55:21Z",
-                    "open_issues": 2146,
+                    "open_issues": 2147,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67164,
+                    "stars": 67199,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -640,10 +640,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-04T20:55:21Z",
-                    "open_issues": 2146,
+                    "open_issues": 2147,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67164,
+                    "stars": 67199,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1695,7 +1695,7 @@
                     "open_issues": 589,
                     "owner": "facebookresearch",
                     "repo": "detectron2",
-                    "stars": 34701,
+                    "stars": 34702,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
@@ -2052,7 +2052,7 @@
                     "open_issues": 1990,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38693,
+                    "stars": 38699,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2696,7 +2696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:16:06.969Z",
+    "last_updated": "2026-09-06T23:08:35.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
