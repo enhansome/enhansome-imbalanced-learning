@@ -46,7 +46,7 @@
             "open_issues": 23,
             "owner": "analyticalmindsltd",
             "repo": "smote_variants",
-            "stars": 692,
+            "stars": 691,
             "topics": [
               "imbalanced-data",
               "imbalanced-learning",
@@ -78,11 +78,11 @@
                     "id": 654608,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-14T23:24:29Z",
-                    "open_issues": 441,
+                    "last_commit": "2026-09-15T11:21:47Z",
+                    "open_issues": 437,
                     "owner": "joblib",
                     "repo": "joblib",
-                    "stars": 4392,
+                    "stars": 4393,
                     "topics": [
                       "caching",
                       "memoization",
@@ -175,7 +175,7 @@
             "open_issues": 23,
             "owner": "analyticalmindsltd",
             "repo": "smote_variants",
-            "stars": 692,
+            "stars": 691,
             "topics": [
               "imbalanced-data",
               "imbalanced-learning",
@@ -267,7 +267,7 @@
             "open_issues": 23,
             "owner": "analyticalmindsltd",
             "repo": "smote_variants",
-            "stars": 692,
+            "stars": 691,
             "topics": [
               "imbalanced-data",
               "imbalanced-learning",
@@ -499,10 +499,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-14T23:49:53Z",
-                    "open_issues": 2159,
+                    "open_issues": 2162,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67254,
+                    "stars": 67262,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -640,10 +640,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-14T23:49:53Z",
-                    "open_issues": 2159,
+                    "open_issues": 2162,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67254,
+                    "stars": 67262,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1073,7 +1073,7 @@
                     "open_issues": 23,
                     "owner": "analyticalmindsltd",
                     "repo": "smote_variants",
-                    "stars": 692,
+                    "stars": 691,
                     "topics": [
                       "imbalanced-data",
                       "imbalanced-learning",
@@ -1695,7 +1695,7 @@
                     "open_issues": 591,
                     "owner": "facebookresearch",
                     "repo": "detectron2",
-                    "stars": 34707,
+                    "stars": 34709,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
@@ -2048,11 +2048,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-10T00:21:25Z",
+                    "last_commit": "2026-09-15T17:14:49Z",
                     "open_issues": 1994,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38759,
+                    "stars": 38770,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2268,7 +2268,7 @@
                     "open_issues": 3,
                     "owner": "YyzHarry",
                     "repo": "imbalanced-regression",
-                    "stars": 922,
+                    "stars": 923,
                     "topics": [
                       "computer-vision",
                       "healthcare",
@@ -2609,7 +2609,7 @@
                     "open_issues": 14,
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9382,
+                    "stars": 9384,
                     "topics": [
                       "anomaly-detection",
                       "awesome",
@@ -2696,7 +2696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:58:42.482Z",
+    "last_updated": "2026-09-15T23:41:18.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
