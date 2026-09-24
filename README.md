@@ -34,7 +34,7 @@
 
 **Class-imbalance (also known as the long-tail problem)** is the fact that the classes are not represented equally in a classification problem, which is quite common in practice. For instance, fraud detection, prediction of rare adverse drug reactions and prediction gene families. Failure to account for the class imbalance often causes inaccurate and decreased predictive performance of many classification algorithms. **Imbalanced learning aims to tackle the class imbalance problem to learn an unbiased model from imbalanced data.**
 
-**Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,422 | 🐛 21 | 🌐 Python | 📅 2026-09-22. In this repository:**
+**Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,441 | 🐛 20 | 🌐 Python | 📅 2026-09-22. In this repository:**
 
 * **Frameworks** and **libraries** are grouped by *programming language*.
 * **Research papers** are grouped by *research field*.
@@ -51,7 +51,7 @@
 </h3>
 
 * Updated section [*Graph Learning*](#graph-learning).
-* Add a package [imbalanced-ensemble](https://github.com/ZhiningLiu1998/imbalanced-ensemble) ⭐ 432 | 🐛 4 | 🌐 Python | 📅 2026-03-05 \[[Github](https://github.com/ZhiningLiu1998/imbalanced-ensemble) ⭐ 432 | 🐛 4 | 🌐 Python | 📅 2026-03-05]\[[Documentation](https://imbalanced-ensemble.readthedocs.io/)].
+* Add a package [imbalanced-ensemble](https://github.com/ZhiningLiu1998/imbalanced-ensemble) ⭐ 431 | 🐛 4 | 🌐 Python | 📅 2026-03-05 \[[Github](https://github.com/ZhiningLiu1998/imbalanced-ensemble) ⭐ 431 | 🐛 4 | 🌐 Python | 📅 2026-03-05]\[[Documentation](https://imbalanced-ensemble.readthedocs.io/)].
 
 <!-- **Disclosure:** Zhining Liu is an author on the following works: **[imbalanced-ensemble](https://github.com/ZhiningLiu1998/imbalanced-ensemble), [Self-paced Ensemble](https://github.com/ZhiningLiu1998/self-paced-ensemble), [MESA](https://github.com/ZhiningLiu1998/mesa)**.  -->
 
@@ -131,20 +131,20 @@
 
 ### 1.1 Python
 
-* [**imbalanced-learn**](https://imbalanced-learn.org/stable/) \[[**Github**](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]\[[**Documentation**](https://imbalanced-learn.org/stable/)]\[[**Paper**](https://www.jmlr.org/papers/volume18/16-365/16-365.pdf)]
+* [**imbalanced-learn**](https://imbalanced-learn.org/stable/) \[[**Github**](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]\[[**Documentation**](https://imbalanced-learn.org/stable/)]\[[**Paper**](https://www.jmlr.org/papers/volume18/16-365/16-365.pdf)]
 
   > **NOTE:** written in python, easy to use.
 
   * `imbalanced-learn` is a python package offering a number of ***re-sampling*** techniques commonly used in datasets showing strong between-class imbalance. It is compatible with [scikit-learn](https://scikit-learn.org/stable/) and is part of [scikit-learn-contrib](https://github.com/scikit-learn-contrib) projects.
   * Currently (v0.8.0), it includes 21 different re-sampling techniques, including over-sampling, under-sampling and hybrid ones (e.g., *SMOTE, ADASYN, TomekLinks, NearMiss, OneSideSelection*, SMOTETomek, ...)
   * This package also provides many utilities, e.g., *Batch generator for Keras/TensorFlow*, see [API reference](https://imbalanced-learn.org/stable/references/index.html#api).
-* [**smote\_variants**](https://smote-variants.readthedocs.io/en/latest/) \[[**Documentation**](https://smote-variants.readthedocs.io/en/latest/)]\[[**Github**](https://github.com/analyticalmindsltd/smote_variants) ⭐ 692 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2024-01-03] - A collection of 85 minority ***over-sampling*** techniques for imbalanced learning with multi-class oversampling and model selection features (All writen in Python, also support R and Julia).
-* [**imbalanced-ensemble**](https://imbalanced-ensemble.readthedocs.io/) \[[**Github**](https://github.com/ZhiningLiu1998/imbalanced-ensemble) ⭐ 432 | 🐛 4 | 🌐 Python | 📅 2026-03-05]\[[**Documentation**](https://imbalanced-ensemble.readthedocs.io/)]\[[**Gallery**](https://imbalanced-ensemble.readthedocs.io/en/latest/auto_examples/index.html#)]\[[**Paper**](https://arxiv.org/pdf/2111.12776.pdf)]
+* [**smote\_variants**](https://smote-variants.readthedocs.io/en/latest/) \[[**Documentation**](https://smote-variants.readthedocs.io/en/latest/)]\[[**Github**](https://github.com/analyticalmindsltd/smote_variants) ⭐ 691 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2024-01-03] - A collection of 85 minority ***over-sampling*** techniques for imbalanced learning with multi-class oversampling and model selection features (All writen in Python, also support R and Julia).
+* [**imbalanced-ensemble**](https://imbalanced-ensemble.readthedocs.io/) \[[**Github**](https://github.com/ZhiningLiu1998/imbalanced-ensemble) ⭐ 431 | 🐛 4 | 🌐 Python | 📅 2026-03-05]\[[**Documentation**](https://imbalanced-ensemble.readthedocs.io/)]\[[**Gallery**](https://imbalanced-ensemble.readthedocs.io/en/latest/auto_examples/index.html#)]\[[**Paper**](https://arxiv.org/pdf/2111.12776.pdf)]
 
   > **NOTE:** written in python, easy to use.
 
   * `imbalanced-ensemble` is a Python toolbox for quick implementing and deploying ***ensemble learning algorithms*** on class-imbalanced data. It is featured for:
-    * (iii) Optimized performance with parallelization when possible using [joblib](https://github.com/joblib/joblib) ⭐ 4,396 | 🐛 436 | 🌐 Python | 📅 2026-09-22.
+    * (iii) Optimized performance with parallelization when possible using [joblib](https://github.com/joblib/joblib) ⭐ 4,398 | 🐛 434 | 🌐 Python | 📅 2026-09-24.
     * (i) Unified, easy-to-use APIs, detailed [documentation](https://imbalanced-ensemble.readthedocs.io/) and [examples](https://imbalanced-ensemble.readthedocs.io/en/latest/auto_examples/index.html#).
     * (ii) Capable for multi-class imbalanced learning out-of-box.
     * (iv) Powerful, customizable, interactive training logging and visualizer.
@@ -153,8 +153,8 @@
 
 ### 1.2 R
 
-* [**caret**](https://cran.r-project.org/web/packages/caret/index.html) \[[**Documentation**](http://topepo.github.io/caret/index.html)]\[[**Github**](https://github.com/topepo/caret) ⭐ 1,668 | 🐛 246 | 🌐 R | 📅 2026-08-24] - Contains the implementation of Random under/over-sampling.
-* [**smote\_variants**](https://smote-variants.readthedocs.io/en/latest/) \[[**Documentation**](https://smote-variants.readthedocs.io/en/latest/)]\[[**Github**](https://github.com/analyticalmindsltd/smote_variants) ⭐ 692 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2024-01-03] - A collection of 85 minority ***over-sampling*** techniques for imbalanced learning with multi-class oversampling and model selection features (All writen in Python, also support R and Julia).
+* [**caret**](https://cran.r-project.org/web/packages/caret/index.html) \[[**Documentation**](http://topepo.github.io/caret/index.html)]\[[**Github**](https://github.com/topepo/caret) ⭐ 1,669 | 🐛 246 | 🌐 R | 📅 2026-08-24] - Contains the implementation of Random under/over-sampling.
+* [**smote\_variants**](https://smote-variants.readthedocs.io/en/latest/) \[[**Documentation**](https://smote-variants.readthedocs.io/en/latest/)]\[[**Github**](https://github.com/analyticalmindsltd/smote_variants) ⭐ 691 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2024-01-03] - A collection of 85 minority ***over-sampling*** techniques for imbalanced learning with multi-class oversampling and model selection features (All writen in Python, also support R and Julia).
 * [**ROSE**](https://cran.r-project.org/web/packages/ROSE/index.html) \[[**Documentation**](https://www.rdocumentation.org/packages/ROSE/versions/0.0-3)] - Contains the implementation of [ROSE](https://journal.r-project.org/archive/2014-1/menardi-lunardon-torelli.pdf) (Random Over-Sampling Examples).
 * [**DMwR**](https://cran.r-project.org/web/packages/DMwR/index.html) \[[**Documentation**](https://www.rdocumentation.org/packages/DMwR/versions/0.4.1)] - Contains the implementation of [SMOTE](https://arxiv.org/pdf/1106.1813.pdf) (Synthetic Minority Over-sampling TEchnique).
 
@@ -170,7 +170,7 @@
 
 ### 1.5 Julia
 
-* [**smote\_variants**](https://smote-variants.readthedocs.io/en/latest/) \[[**Documentation**](https://smote-variants.readthedocs.io/en/latest/)]\[[**Github**](https://github.com/analyticalmindsltd/smote_variants) ⭐ 692 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2024-01-03] - A collection of 85 minority ***over-sampling*** techniques for imbalanced learning with multi-class oversampling and model selection features (All writen in Python, also support R and Julia).
+* [**smote\_variants**](https://smote-variants.readthedocs.io/en/latest/) \[[**Documentation**](https://smote-variants.readthedocs.io/en/latest/)]\[[**Github**](https://github.com/analyticalmindsltd/smote_variants) ⭐ 691 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2024-01-03] - A collection of 85 minority ***over-sampling*** techniques for imbalanced learning with multi-class oversampling and model selection features (All writen in Python, also support R and Julia).
 
 # 2. Research Papers
 
@@ -192,11 +192,11 @@
 
 <!-- - **General ensemble** -->
 
-* **Self-paced Ensemble (ICDE 2020, 20+ citations) \[[**Paper**](https://arxiv.org/pdf/1909.03500v3.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/self-paced-ensemble) ⭐ 262 | 🐛 1 | 🌐 Python | 📅 2024-02-05]\[[**Slides**](https://zhiningliu.com/files/ICDE_2020_self_paced_ensemble_slides.pdf)]\[[**Zhihu/知乎**](https://zhuanlan.zhihu.com/p/86891438)]\[[**PyPI**](https://pypi.org/project/self-paced-ensemble/)]**
+* **Self-paced Ensemble (ICDE 2020, 20+ citations) \[[**Paper**](https://arxiv.org/pdf/1909.03500v3.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/self-paced-ensemble) ⭐ 261 | 🐛 1 | 🌐 Python | 📅 2024-02-05]\[[**Slides**](https://zhiningliu.com/files/ICDE_2020_self_paced_ensemble_slides.pdf)]\[[**Zhihu/知乎**](https://zhuanlan.zhihu.com/p/86891438)]\[[**PyPI**](https://pypi.org/project/self-paced-ensemble/)]**
 
   > **NOTE:** versatile solution with outstanding performance and computational efficiency.
 
-* **MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler (NeurIPS 2020) \[[**Paper**](https://arxiv.org/pdf/2010.08830.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/mesa) ⭐ 111 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-06-17]\[[**Video**](https://studio.slideslive.com/web_recorder/share/20201020T134559Z__NeurIPS_posters__17343__mesa-effective-ensemble-imbal?s=d3745afc-cfcf-4d60-9f34-63d3d811b55f)]\[[**Zhihu/知乎**](https://zhuanlan.zhihu.com/p/268539195)]**
+* **MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler (NeurIPS 2020) \[[**Paper**](https://arxiv.org/pdf/2010.08830.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/mesa) ⭐ 110 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-06-17]\[[**Video**](https://studio.slideslive.com/web_recorder/share/20201020T134559Z__NeurIPS_posters__17343__mesa-effective-ensemble-imbal?s=d3745afc-cfcf-4d60-9f34-63d3d811b55f)]\[[**Zhihu/知乎**](https://zhuanlan.zhihu.com/p/268539195)]**
 
   > **NOTE:** learning an optimal sampling policy directly from data.
 
@@ -204,8 +204,8 @@
 
   > **NOTE:** simple but effective solution.
 
-  * EasyEnsemble \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/easy_ensemble.py) ⭐ 432 | 🐛 4 | 🌐 Python | 📅 2026-03-05]
-  * BalanceCascade \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/balance_cascade.py) ⭐ 432 | 🐛 4 | 🌐 Python | 📅 2026-03-05]
+  * EasyEnsemble \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/easy_ensemble.py) ⭐ 431 | 🐛 4 | 🌐 Python | 📅 2026-03-05]
+  * BalanceCascade \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/balance_cascade.py) ⭐ 431 | 🐛 4 | 🌐 Python | 📅 2026-03-05]
 
 * **The Effects of Ensembling on Long-Tailed Data (Neurips 2023 Heavy Tails Workshop) \[[**Paper**](https://openreview.net/pdf?id=l4GYs60kre)]**
 
@@ -219,10 +219,10 @@
 
 <!-- - **Boosting-based** -->
 
-* **AdaBoost (1995, 18700+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1997-JCSS-Schapire-A%20Decision-Theoretic%20Generalization%20of%20On-Line%20Learning%20\(AdaBoost\).pdf)]\[[**Code**](https://github.com/scikit-learn/scikit-learn/blob/95d4f0841/sklearn/ensemble/_weight_boosting.py#L285) ⭐ 67,352 | 🐛 2,153 | 🌐 Python | 📅 2026-09-23]** - Adaptive Boosting with C4.5
-* **SMOTEBoost (2003, 1100+ citations) [\[**Paper**\]](https://sci2s.ugr.es/keel/pdf/algorithm/congreso/2003-PKDD-SMOTEBoost-ChawlaLazarevicHallBowyer.pdf)\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/over_sampling/smote_bagging.py) ⭐ 432 | 🐛 4 | 🌐 Python | 📅 2026-03-05]** - Synthetic Minority Over-sampling TEchnique Boosting
-* **RUSBoost (2009, 850+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/2010-IEEE%20TSMCpartA-RUSBoost%20A%20Hybrid%20Approach%20to%20Alleviating%20Class%20Imbalance.pdf)] \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/rus_boost.py) ⭐ 432 | 🐛 4 | 🌐 Python | 📅 2026-03-05]** - Random Under-Sampling Boosting
-* **RAMOBoost (2010, 140+ citations) \[[**Paper**](https://www.ele.uri.edu/faculty/he/PDFfiles/ramoboost.pdf)] \[[**Code**](https://github.com/dialnd/imbalanced-algorithms/blob/master/ramo.py#L133) ⭐ 240 | 🐛 1 | 🌐 Python | 📅 2022-01-29]** - Ranked Minority Over-sampling in Boosting
+* **AdaBoost (1995, 18700+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1997-JCSS-Schapire-A%20Decision-Theoretic%20Generalization%20of%20On-Line%20Learning%20\(AdaBoost\).pdf)]\[[**Code**](https://github.com/scikit-learn/scikit-learn/blob/95d4f0841/sklearn/ensemble/_weight_boosting.py#L285) ⭐ 67,357 | 🐛 2,147 | 🌐 Python | 📅 2026-09-24]** - Adaptive Boosting with C4.5
+* **SMOTEBoost (2003, 1100+ citations) [\[**Paper**\]](https://sci2s.ugr.es/keel/pdf/algorithm/congreso/2003-PKDD-SMOTEBoost-ChawlaLazarevicHallBowyer.pdf)\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/over_sampling/smote_bagging.py) ⭐ 431 | 🐛 4 | 🌐 Python | 📅 2026-03-05]** - Synthetic Minority Over-sampling TEchnique Boosting
+* **RUSBoost (2009, 850+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/2010-IEEE%20TSMCpartA-RUSBoost%20A%20Hybrid%20Approach%20to%20Alleviating%20Class%20Imbalance.pdf)] \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/rus_boost.py) ⭐ 431 | 🐛 4 | 🌐 Python | 📅 2026-03-05]** - Random Under-Sampling Boosting
+* **RAMOBoost (2010, 140+ citations) \[[**Paper**](https://www.ele.uri.edu/faculty/he/PDFfiles/ramoboost.pdf)] \[[**Code**](https://github.com/dialnd/imbalanced-algorithms/blob/master/ramo.py#L133) ⭐ 239 | 🐛 1 | 🌐 Python | 📅 2022-01-29]** - Ranked Minority Over-sampling in Boosting
 * **DataBoost (2004, 570+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/2004-SIGKDD-GuoViktor.pdf)]** - Boosting with Data Generation for Imbalanced Data
 * **MSMOTEBoost (2011, 1300+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/2011-IEEE%20TSMC%20partC-%20GalarFdezBarrenecheaBustinceHerrera.pdf)]** - Modified Synthetic Minority Over-sampling TEchnique Boosting
 * **AdaBoostNC (2012, 350+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/2012-wang-IEEE_SMC_B.pdf)]** - Adaptive Boosting with Negative Correlation Learning
@@ -232,20 +232,20 @@
 
 <!-- - **Bagging-based** -->
 
-* **Bagging (1996, 20000+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1996-ML-Breiman-Bagging%20Predictors.pdf)]\[[**Code**](https://github.com/scikit-learn/scikit-learn/blob/95d4f0841/sklearn/ensemble/_bagging.py#L433) ⭐ 67,352 | 🐛 2,153 | 🌐 Python | 📅 2026-09-23]** - Bagging predictor
+* **Bagging (1996, 20000+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1996-ML-Breiman-Bagging%20Predictors.pdf)]\[[**Code**](https://github.com/scikit-learn/scikit-learn/blob/95d4f0841/sklearn/ensemble/_bagging.py#L433) ⭐ 67,357 | 🐛 2,147 | 🌐 Python | 📅 2026-09-24]** - Bagging predictor
 * **Diversity Analysis on Imbalanced Data Sets by Using Ensemble Models (2009, 400+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/congreso/2009-IEEE%20CIDM-WangYao.pdf)]**
 
-  * **UnderBagging** \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/under_bagging.py) ⭐ 432 | 🐛 4 | 🌐 Python | 📅 2026-03-05]
-  * **OverBagging** \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/over_sampling/over_bagging.py) ⭐ 432 | 🐛 4 | 🌐 Python | 📅 2026-03-05]
-  * **SMOTEBagging** \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/over_sampling/smote_bagging.py) ⭐ 432 | 🐛 4 | 🌐 Python | 📅 2026-03-05]
+  * **UnderBagging** \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/under_bagging.py) ⭐ 431 | 🐛 4 | 🌐 Python | 📅 2026-03-05]
+  * **OverBagging** \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/over_sampling/over_bagging.py) ⭐ 431 | 🐛 4 | 🌐 Python | 📅 2026-03-05]
+  * **SMOTEBagging** \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/over_sampling/smote_bagging.py) ⭐ 431 | 🐛 4 | 🌐 Python | 📅 2026-03-05]
 
 #### 2.2.4 *Cost-sensitive ensemble*
 
 <!-- - **Cost-sensitive ensemble** -->
 
-* **AdaCost (ICML 1999, 800+ citations) \[[**Paper**](https://www.researchgate.net/profile/Salvatore-Stolfo/publication/2628569_AdaCost_Misclassification_Cost-sensitive_Boosting/links/0fcfd50ca581d7016f000000/AdaCost-Misclassification-Cost-sensitive-Boosting.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/reweighting/adacost.py) ⭐ 432 | 🐛 4 | 🌐 Python | 📅 2026-03-05]** - Misclassification Cost-sensitive boosting
-* **AdaUBoost (NIPS 1999, 100+ citations) \[[**Paper**](https://proceedings.neurips.cc/paper/1998/file/df12ecd077efc8c23881028604dbb8cc-Paper.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/reweighting/adauboost.py) ⭐ 432 | 🐛 4 | 🌐 Python | 📅 2026-03-05]** - AdaBoost with Unequal loss functions
-* **AsymBoost (NIPS 2001, 700+ citations) \[[**Paper**](https://www.researchgate.net/profile/Michael-Jones-66/publication/2539888_Fast_and_Robust_Classification_using_Asymmetric_AdaBoost_and_a_Detector_Cascade/links/540731780cf23d9765a83ec1/Fast-and-Robust-Classification-using-Asymmetric-AdaBoost-and-a-Detector-Cascade.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/reweighting/asymmetric_boost.py) ⭐ 432 | 🐛 4 | 🌐 Python | 📅 2026-03-05]** - Asymmetric AdaBoost and detector cascade
+* **AdaCost (ICML 1999, 800+ citations) \[[**Paper**](https://www.researchgate.net/profile/Salvatore-Stolfo/publication/2628569_AdaCost_Misclassification_Cost-sensitive_Boosting/links/0fcfd50ca581d7016f000000/AdaCost-Misclassification-Cost-sensitive-Boosting.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/reweighting/adacost.py) ⭐ 431 | 🐛 4 | 🌐 Python | 📅 2026-03-05]** - Misclassification Cost-sensitive boosting
+* **AdaUBoost (NIPS 1999, 100+ citations) \[[**Paper**](https://proceedings.neurips.cc/paper/1998/file/df12ecd077efc8c23881028604dbb8cc-Paper.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/reweighting/adauboost.py) ⭐ 431 | 🐛 4 | 🌐 Python | 📅 2026-03-05]** - AdaBoost with Unequal loss functions
+* **AsymBoost (NIPS 2001, 700+ citations) \[[**Paper**](https://www.researchgate.net/profile/Michael-Jones-66/publication/2539888_Fast_and_Robust_Classification_using_Asymmetric_AdaBoost_and_a_Detector_Cascade/links/540731780cf23d9765a83ec1/Fast-and-Robust-Classification-using-Asymmetric-AdaBoost-and-a-Detector-Cascade.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/reweighting/asymmetric_boost.py) ⭐ 431 | 🐛 4 | 🌐 Python | 📅 2026-03-05]** - Asymmetric AdaBoost and detector cascade
 
 ## 2.3 Data resampling
 
@@ -253,29 +253,29 @@
 
 <!-- - **Over-sampling** -->
 
-* **ROS \[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/over_sampling/_random_over_sampler.py) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Random Over-sampling
-* **SMOTE (2002, 9800+ citations) \[[**Paper**](https://arxiv.org/pdf/1106.1813.pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/over_sampling/_smote.py#L36) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Synthetic Minority Over-sampling TEchnique
-* **Borderline-SMOTE (2005, 1400+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/keel-dataset/pdfs/2005-Han-LNCS.pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/over_sampling/_smote.py#L220) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Borderline-Synthetic Minority Over-sampling TEchnique
-* **ADASYN (2008, 1100+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/congreso/2008-He-ieee.pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/over_sampling/_adasyn.py) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - ADAptive SYNthetic Sampling
-* **SVM-SMOTE (2009, 120+ citations) \[[**Paper**](ousar.lib.okayama-u.ac.jp/files/public/1/19617/20160528004522391723/IWCIA2009_A1005.pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/over_sampling/_smote.py#L417) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - SMOTE based on Support Vectors of SVM
-* **MDO (2015, 150+ citations) \[[**Paper**](https://ieeexplore.ieee.org/abstract/document/7163639)]\[[**Code**](https://github.com/analyticalmindsltd/smote_variants/blob/dedbc3d00b266954fedac0ae87775e1643bc920a/smote_variants/_smote_variants.py#L14513) ⭐ 692 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2024-01-03]** - Mahalanobis Distance-based Over-sampling for *Multi-Class* imbalanced problems.
+* **ROS \[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/over_sampling/_random_over_sampler.py) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Random Over-sampling
+* **SMOTE (2002, 9800+ citations) \[[**Paper**](https://arxiv.org/pdf/1106.1813.pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/over_sampling/_smote.py#L36) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Synthetic Minority Over-sampling TEchnique
+* **Borderline-SMOTE (2005, 1400+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/keel-dataset/pdfs/2005-Han-LNCS.pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/over_sampling/_smote.py#L220) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Borderline-Synthetic Minority Over-sampling TEchnique
+* **ADASYN (2008, 1100+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/congreso/2008-He-ieee.pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/over_sampling/_adasyn.py) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - ADAptive SYNthetic Sampling
+* **SVM-SMOTE (2009, 120+ citations) \[[**Paper**](ousar.lib.okayama-u.ac.jp/files/public/1/19617/20160528004522391723/IWCIA2009_A1005.pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/over_sampling/_smote.py#L417) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - SMOTE based on Support Vectors of SVM
+* **MDO (2015, 150+ citations) \[[**Paper**](https://ieeexplore.ieee.org/abstract/document/7163639)]\[[**Code**](https://github.com/analyticalmindsltd/smote_variants/blob/dedbc3d00b266954fedac0ae87775e1643bc920a/smote_variants/_smote_variants.py#L14513) ⭐ 691 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2024-01-03]** - Mahalanobis Distance-based Over-sampling for *Multi-Class* imbalanced problems.
 * **SPIDER (2008, 150+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/congreso/stefanowski_selective_2008.pdf)]\[[**Code(Java)**](https://github.com/SCI2SUGR/KEEL/blob/master/src/keel/Algorithms/ImbalancedClassification/Resampling/SPIDER/SPIDER.java#L57) ⭐ 130 | 🐛 18 | 🌐 Java | 📅 2018-03-05]** - Selective Preprocessing of Imbalanced Data
 * **Safe-Level-SMOTE (2009, 370+ citations) \[[**Paper**](150.214.190.154/keel/keel-dataset/pdfs/2009-Bunkhumpornpat-LNCS.pdf)]\[[**Code(Java)**](https://github.com/SCI2SUGR/KEEL/blob/master/src/keel/Algorithms/ImbalancedClassification/Resampling/Safe_Level_SMOTE/Safe_Level_SMOTE.java#L58) ⭐ 130 | 🐛 18 | 🌐 Java | 📅 2018-03-05]** - Safe Level Synthetic Minority Over-sampling TEchnique
 
-> **NOTE:** See more over-sampling methods at [**smote-variants**](https://github.com/analyticalmindsltd/smote_variants#references) ⭐ 692 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2024-01-03.
+> **NOTE:** See more over-sampling methods at [**smote-variants**](https://github.com/analyticalmindsltd/smote_variants#references) ⭐ 691 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2024-01-03.
 
 #### 2.3.2 *Under-sampling*
 
 <!-- - **Under-sampling** -->
 
-* **RUS \[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_random_under_sampler.py) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Random Under-sampling
-* **CNN (1968, 2100+ citations) \[[**Paper**](https://pdfs.semanticscholar.org/7c37/71fd6829630cf450af853df728ecd8da4ab2.pdf?_ga=2.137274553.882046879.1583413150-1712662047.1583413150)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_condensed_nearest_neighbour.py) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Condensed Nearest Neighbor
-* **ENN (1972, 1500+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/dataset/includes/catImbFiles/1972-Wilson-IEEETSMC.pdf)] \[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_edited_nearest_neighbours.py) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Edited Condensed Nearest Neighbor
-* **TomekLink (1976, 870+ citations) \[[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=4309452)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_tomek_links.py) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Tomek's modification of Condensed Nearest Neighbor
-* **NCR (2001, 500+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/congreso/2001-Laurikkala-LNCS.pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_neighbourhood_cleaning_rule.py) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Neighborhood Cleaning Rule
-* **NearMiss-1 & 2 & 3 (2003, 420+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/specific/congreso/jzhang.pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_nearmiss.py) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Several kNN approaches to unbalanced data distributions.
-* **OSS (2007, 2100+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/specific/congreso/kubat97addressing.pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_one_sided_selection.py) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - One Side Selection
-* **IHT (2014, 130+ citations) \[[**Paper**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.649.8727\&rep=rep1\&type=pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_instance_hardness_threshold.py) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Instance Hardness Threshold
+* **RUS \[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_random_under_sampler.py) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Random Under-sampling
+* **CNN (1968, 2100+ citations) \[[**Paper**](https://pdfs.semanticscholar.org/7c37/71fd6829630cf450af853df728ecd8da4ab2.pdf?_ga=2.137274553.882046879.1583413150-1712662047.1583413150)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_condensed_nearest_neighbour.py) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Condensed Nearest Neighbor
+* **ENN (1972, 1500+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/dataset/includes/catImbFiles/1972-Wilson-IEEETSMC.pdf)] \[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_edited_nearest_neighbours.py) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Edited Condensed Nearest Neighbor
+* **TomekLink (1976, 870+ citations) \[[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=4309452)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_tomek_links.py) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Tomek's modification of Condensed Nearest Neighbor
+* **NCR (2001, 500+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/congreso/2001-Laurikkala-LNCS.pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_neighbourhood_cleaning_rule.py) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Neighborhood Cleaning Rule
+* **NearMiss-1 & 2 & 3 (2003, 420+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/specific/congreso/jzhang.pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_nearmiss.py) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Several kNN approaches to unbalanced data distributions.
+* **OSS (2007, 2100+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/specific/congreso/kubat97addressing.pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_one_sided_selection.py) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - One Side Selection
+* **IHT (2014, 130+ citations) \[[**Paper**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.649.8727\&rep=rep1\&type=pdf)]\[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/under_sampling/_prototype_selection/_instance_hardness_threshold.py) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]** - Instance Hardness Threshold
 * **CNN with TomekLink (2004, 2000+ citations) \[[**Paper**](https://storm.cis.fordham.edu/~gweiss/selected-papers/batista-study-balancing-training-data.pdf)]\[[**Code(Java)**](https://github.com/SCI2SUGR/KEEL/blob/master/src/keel/Algorithms/ImbalancedClassification/Resampling/CNN_TomekLinks/CNN_TomekLinks.java#L58) ⭐ 130 | 🐛 18 | 🌐 Java | 📅 2018-03-05]** - Condensed Nearest Neighbor + TomekLink
 * **EUS (2009, 290+ citations) \[[**Paper**](https://www.mitpressjournals.org/doi/pdfplus/10.1162/evco.2009.17.3.275)]** - Evolutionary Under-sampling
 
@@ -287,8 +287,8 @@
 
   > **NOTE:** extensive experimental evaluation involving 10 different over/under-sampling methods.
 
-  * **SMOTE-Tomek \[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/combine/_smote_tomek.py) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]**
-  * **SMOTE-ENN \[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/combine/_smote_enn.py) ⭐ 7,122 | 🐛 94 | 🌐 Python | 📅 2026-06-29]**
+  * **SMOTE-Tomek \[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/combine/_smote_tomek.py) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]**
+  * **SMOTE-ENN \[[**Code**](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/imblearn/combine/_smote_enn.py) ⭐ 7,121 | 🐛 94 | 🌐 Python | 📅 2026-06-29]**
 * **SMOTE-RSB (2012, 210+ citations) \[[**Paper**](https://sci2s.ugr.es/sites/default/files/ficherosPublicaciones/1434_2012-Ramentol-KAIS.pdf)]\[[**Code**](https://smote-variants.readthedocs.io/en/latest/_modules/smote_variants/_smote_variants.html#SMOTE_RSB)]** - Hybrid Preprocessing using SMOTE and Rough Sets Theory
 * **SMOTE-IPF (2015, 180+ citations) \[[**Paper**](https://sci2s.ugr.es/sites/default/files/ficherosPublicaciones/1824_2015-INS-Saez.pdf)]\[[**Code**](https://smote-variants.readthedocs.io/en/latest/_modules/smote_variants/_smote_variants.html#SMOTE_IPF)]** - SMOTE with Iterative-Partitioning Filter
 
@@ -333,7 +333,7 @@
 
 <!-- - **Loss function engineering** -->
 
-* Focal loss for dense object detection (ICCV 2017, 2600+ citations) \[[**Paper**](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)]\[[**Code (detectron2)**](https://github.com/facebookresearch/detectron2) ⭐ 34,728 | 🐛 591 | 🌐 Python | 📅 2026-08-19]\[[**Code (unofficial)**](https://github.com/clcarwin/focal_loss_pytorch) ⭐ 991 | 🐛 14 | 🌐 Python | 📅 2019-10-16] - A uniform loss function that focuses training on a sparse set of hard examples to prevents the vast number of easy negatives from overwhelming the detector during training.
+* Focal loss for dense object detection (ICCV 2017, 2600+ citations) \[[**Paper**](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)]\[[**Code (detectron2)**](https://github.com/facebookresearch/detectron2) ⭐ 34,729 | 🐛 591 | 🌐 Python | 📅 2026-08-19]\[[**Code (unofficial)**](https://github.com/clcarwin/focal_loss_pytorch) ⭐ 991 | 🐛 14 | 🌐 Python | 📅 2019-10-16] - A uniform loss function that focuses training on a sparse set of hard examples to prevents the vast number of easy negatives from overwhelming the detector during training.
 
   > **NOTE:** elegant solution, high influence.
 * Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss (NIPS 2019, 10+ citations) \[[**Paper**](https://papers.nips.cc/paper/8435-learning-imbalanced-datasets-with-label-distribution-aware-margin-loss.pdf)]\[[**Code**](https://github.com/kaidic/LDAM-DRW) ⭐ 699 | 🐛 12 | 🌐 Python | 📅 2021-12-25]  - A theoretically-principled label-distribution-aware margin (LDAM) loss motivated by minimizing a margin-based generalization bound.
@@ -354,7 +354,7 @@
 * Learning to reweight examples for robust deep learning (ICML 2018, 150+ citations) \[[**Paper**](https://proceedings.mlr.press/v80/ren18a/ren18a.pdf)]\[[**Code**](https://github.com/uber-research/learning-to-reweight-examples) ⭐ 270 | 🐛 9 | 🌐 Python | 📅 2019-03-22] - Implicitly learn a weight function to reweight the samples in gradient updates of DNN.
 
   > **NOTE:** representative work to solve the class imbalance problem through meta-learning.
-* MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler (NeurIPS 2020) \[[**Paper**](https://arxiv.org/pdf/2010.08830.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/mesa) ⭐ 111 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-06-17]\[[**Video**](https://studio.slideslive.com/web_recorder/share/20201020T134559Z__NeurIPS_posters__17343__mesa-effective-ensemble-imbal?s=d3745afc-cfcf-4d60-9f34-63d3d811b55f)]
+* MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler (NeurIPS 2020) \[[**Paper**](https://arxiv.org/pdf/2010.08830.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/mesa) ⭐ 110 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-06-17]\[[**Video**](https://studio.slideslive.com/web_recorder/share/20201020T134559Z__NeurIPS_posters__17343__mesa-effective-ensemble-imbal?s=d3745afc-cfcf-4d60-9f34-63d3d811b55f)]
 
   > **NOTE:** meta-learning-powered ensemble learning
 * Learning Data Manipulation for Augmentation and Weighting (NIPS 2019) \[[**Paper**](https://proceedings.neurips.cc/paper/2019/file/671f0311e2754fcdd37f70a8550379bc-Paper.pdf)]\[[**Code**](https://github.com/tanyuqian/learning-data-manipulation) ⭐ 109 | 🐛 5 | 🌐 Python | 📅 2020-09-05]
@@ -377,7 +377,7 @@
 
 <!-- - **Posterior Recalibration** -->
 
-* Long-tail learning via logit adjustment (ICLR 2021) \[[**Paper**](https://arxiv.org/pdf/2007.07314v1.pdf)]\[[**Code**](https://github.com/google-research/google-research/tree/master/logit_adjustment) ⭐ 38,823 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23]
+* Long-tail learning via logit adjustment (ICLR 2021) \[[**Paper**](https://arxiv.org/pdf/2007.07314v1.pdf)]\[[**Code**](https://github.com/google-research/google-research/tree/master/logit_adjustment) ⭐ 38,828 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23]
 * Posterior Re-calibration for Imbalanced Datasets (NeurIPS 2020) \[[**Paper**](https://arxiv.org/pdf/2010.11820.pdf)]\[[**Code**](https://github.com/GT-RIPL/UNO-IC) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2020-11-22]
 
 #### 2.5.8 *Semi/Self-supervised Learning*
@@ -423,7 +423,7 @@
 
 <!-- - **Imbalanced Regression** -->
 
-* Delving into Deep Imbalanced Regression (ICML 2021) \[[**Paper**](https://arxiv.org/pdf/2102.09554.pdf)]\[[**Code**](https://github.com/YyzHarry/imbalanced-regression) ⭐ 925 | 🐛 3 | 🌐 Python | 📅 2022-03-22]\[[**Video**](https://www.youtube.com/watch?v=grJGixofQRU)]
+* Delving into Deep Imbalanced Regression (ICML 2021) \[[**Paper**](https://arxiv.org/pdf/2102.09554.pdf)]\[[**Code**](https://github.com/YyzHarry/imbalanced-regression) ⭐ 926 | 🐛 3 | 🌐 Python | 📅 2022-03-22]\[[**Video**](https://www.youtube.com/watch?v=grJGixofQRU)]
 * Balanced MSE for Imbalanced Visual Regression (CVPR 2022) \[[**Paper**](https://arxiv.org/abs/2203.16427)] \[[**Code**](https://github.com/jiawei-ren/BalancedMSE) ⭐ 395 | 🐛 5 | 🌐 Python | 📅 2022-07-28]
 * RankSim: Ranking Similarity Regularization for Deep Imbalanced Regression (ICML 2022) \[[**Paper**](https://arxiv.org/abs/2205.15236)] \[[**Code**](https://github.com/BorealisAI/ranksim-imbalanced-regression) ⭐ 54 | 🐛 3 | 🌐 Python | 📅 2022-10-28]
 * Density-based weighting for imbalanced regression (Machine Learning \[J], 2021) \[[**Paper**](https://link.springer.com/article/10.1007/s10994-021-06023-5)]\[[**Code**](https://github.com/SteiMi/density-based-weighting-for-imbalanced-regression) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2021-07-08]
@@ -501,14 +501,14 @@
 ### 3.2.1 *Algorithms & Utilities & Jupyter Notebooks*
 
 * [imbalanced-dataset-sampler](https://github.com/ufoym/imbalanced-dataset-sampler) ⭐ 2,326 | 🐛 31 | 🌐 Python | 📅 2026-07-06 - A (PyTorch) imbalanced dataset sampler for oversampling low frequent classes and undersampling high frequent ones.
-* [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) ⭐ 240 | 🐛 1 | 🌐 Python | 📅 2022-01-29 - Python-based implementations of algorithms for learning on imbalanced data.
+* [imbalanced-algorithms](https://github.com/dialnd/imbalanced-algorithms) ⭐ 239 | 🐛 1 | 🌐 Python | 📅 2022-01-29 - Python-based implementations of algorithms for learning on imbalanced data.
 * [Advanced Machine Learning with scikit-learn: Imbalanced classification and text data](https://github.com/amueller/ml-workshop-4-of-4) ⭐ 166 | 🐛 0 | 🌐 HTML | 📅 2020-04-17 - Different approaches to feature selection, and resampling methods for imbalanced data.
 * [Multi-class-with-imbalanced-dataset-classification](https://github.com/javaidnabi31/Multi-class-with-imbalanced-dataset-classification) ⭐ 85 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2019-06-11 - Perform multi-class classification on imbalanced 20-news-group dataset.
 * [class\_imbalance](https://github.com/wangz10/class_imbalance) ⭐ 48 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2018-08-11 - Jupyter Notebook presentation for class imbalance in binary classification.
 
 ### 3.2.2 *Paper list*
 
-* [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,394 | 🐛 14 | 🌐 Python | 📅 2026-03-02 by [yzhao062](https://github.com/yzhao062) - Anomaly detection related books, papers, videos, and toolboxes.
+* [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,395 | 🐛 14 | 🌐 Python | 📅 2026-03-02 by [yzhao062](https://github.com/yzhao062) - Anomaly detection related books, papers, videos, and toolboxes.
 * [Paper-list-on-Imbalanced-Time-series-Classification-with-Deep-Learning](https://github.com/danielgy/Paper-list-on-Imbalanced-Time-series-Classification-with-Deep-Learning) ⭐ 191 | 🐛 0 | 📅 2017-11-03 - Imbalanced Time-series Classification
 
 ### 3.2.3 *Slides*
@@ -543,8 +543,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,102 | 🐛 91 | 🌐 MDX | 📅 2026-09-16 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,103 | 🐛 90 | 🌐 MDX | 📅 2026-09-24 specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
