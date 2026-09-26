@@ -82,7 +82,7 @@
                     "open_issues": 434,
                     "owner": "joblib",
                     "repo": "joblib",
-                    "stars": 4398,
+                    "stars": 4397,
                     "topics": [
                       "caching",
                       "memoization",
@@ -499,10 +499,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-24T17:11:32Z",
-                    "open_issues": 2147,
+                    "open_issues": 2153,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67357,
+                    "stars": 67368,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -640,10 +640,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-24T17:11:32Z",
-                    "open_issues": 2147,
+                    "open_issues": 2153,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67357,
+                    "stars": 67368,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1695,7 +1695,7 @@
                     "open_issues": 591,
                     "owner": "facebookresearch",
                     "repo": "detectron2",
-                    "stars": 34729,
+                    "stars": 34732,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
@@ -2052,7 +2052,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38828,
+                    "stars": 38834,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2696,7 +2696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:59:26.299Z",
+    "last_updated": "2026-09-26T00:08:46.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
