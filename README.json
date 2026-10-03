@@ -69,7 +69,7 @@
                 {
                   "node_type": "item",
                   "title": "(iii) Optimized performance with parallelization when possible using joblib",
-                  "description": ".",
+                  "description": "joblib/joblib",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -290,7 +290,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-paced Ensemble (ICDE 2020, 20+ citations) [Paper][Code][Slides][Zhihu/知乎][PyPI]",
-                  "description": null,
+                  "description": "ZhiningLiu1998/self-paced-ensemble",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -325,7 +325,7 @@
                 {
                   "node_type": "item",
                   "title": "MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler (NeurIPS 2020) [Paper][Code][Video][Zhihu/知乎]",
-                  "description": null,
+                  "description": "ZhiningLiu1998/mesa",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -364,7 +364,7 @@
                     {
                       "node_type": "item",
                       "title": "EasyEnsemble [Code",
-                      "description": "]",
+                      "description": "ZhiningLiu1998/imbalanced-ensemble",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -404,7 +404,7 @@
                     {
                       "node_type": "item",
                       "title": "BalanceCascade [Code",
-                      "description": "]",
+                      "description": "ZhiningLiu1998/imbalanced-ensemble",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -451,7 +451,7 @@
                     {
                       "node_type": "item",
                       "title": "Logit vs. Probability Ensembles [Code",
-                      "description": "]",
+                      "description": "ekellbuch/longtail_ensembles",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -499,10 +499,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-02T13:23:25Z",
-                    "open_issues": 2163,
+                    "open_issues": 2164,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67455,
+                    "stars": 67456,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -640,10 +640,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-02T13:23:25Z",
-                    "open_issues": 2163,
+                    "open_issues": 2164,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67455,
+                    "stars": 67456,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -662,7 +662,7 @@
                     {
                       "node_type": "item",
                       "title": "UnderBagging [Code",
-                      "description": "]",
+                      "description": "ZhiningLiu1998/imbalanced-ensemble",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -702,7 +702,7 @@
                     {
                       "node_type": "item",
                       "title": "OverBagging [Code",
-                      "description": "]",
+                      "description": "ZhiningLiu1998/imbalanced-ensemble",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -742,7 +742,7 @@
                     {
                       "node_type": "item",
                       "title": "SMOTEBagging [Code",
-                      "description": "]",
+                      "description": "ZhiningLiu1998/imbalanced-ensemble",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1384,7 +1384,7 @@
                     {
                       "node_type": "item",
                       "title": "SMOTE-Tomek [Code]",
-                      "description": null,
+                      "description": "scikit-learn-contrib/imbalanced-learn",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1411,7 +1411,7 @@
                     {
                       "node_type": "item",
                       "title": "SMOTE-ENN [Code]",
-                      "description": null,
+                      "description": "scikit-learn-contrib/imbalanced-learn",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1545,7 +1545,7 @@
                 {
                   "node_type": "item",
                   "title": "GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks (WSDM 2021) [Paper",
-                  "description": "][Code]",
+                  "description": "TianxiangZhao/GraphSmote",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1566,7 +1566,7 @@
                 {
                   "node_type": "item",
                   "title": "GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification (ICLR 2022) [Paper",
-                  "description": "][Code]",
+                  "description": "JoonHyung-Park/GraphENS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1591,7 +1591,7 @@
                 {
                   "node_type": "item",
                   "title": "TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification (ICML 2022) [Paper",
-                  "description": "][Code]",
+                  "description": "Jaeyun-Song/TAM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1612,7 +1612,7 @@
                 {
                   "node_type": "item",
                   "title": "Topology-Imbalance Learning for Semi-Supervised Node Classification (NeurIPS 2021) [Paper",
-                  "description": "][Code]",
+                  "description": "victorchen96/ReNode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1633,7 +1633,7 @@
                 {
                   "node_type": "item",
                   "title": "LTE4G: Long-Tail Experts for Graph Neural Networks (CIKM 2022) [Paper",
-                  "description": "][Code]",
+                  "description": "SukwonYun/LTE4G",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1654,7 +1654,7 @@
                 {
                   "node_type": "item",
                   "title": "Semi-Supervised Graph Imbalanced Regression (KDD 2023) [Paper",
-                  "description": "] [Code]",
+                  "description": "liugangcode/SGIR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1778,7 +1778,7 @@
                 {
                   "node_type": "item",
                   "title": "Deep imbalanced attribute classification using visual attention aggregation (ECCV 2018, 30+ citation) [Paper",
-                  "description": "][Code]",
+                  "description": "cvcode18/imbalanced_learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1799,7 +1799,7 @@
                 {
                   "node_type": "item",
                   "title": "Influence-Balanced Loss for Imbalanced Visual Classification (ICCV 2021) [Paper",
-                  "description": "][Code]",
+                  "description": "pseulki/IB-Loss",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1820,7 +1820,7 @@
                 {
                   "node_type": "item",
                   "title": "Label-Imbalanced and Group-Sensitive Classification under Overparameterization (NeurIPS 2021) [Paper",
-                  "description": "][Code]",
+                  "description": "orparask/VS-Loss",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1929,7 +1929,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Data Manipulation for Augmentation and Weighting (NIPS 2019) [Paper",
-                  "description": "][Code]",
+                  "description": "tanyuqian/learning-data-manipulation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1955,7 +1955,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks (ICLR 2020) [Paper",
-                  "description": "][Code]",
+                  "description": "haebeom-lee/l2b",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1983,7 +1983,7 @@
                 {
                   "node_type": "item",
                   "title": "Decoupling Representation and Classifier for Long-tailed Recognition (ICLR 2020) [Paper",
-                  "description": "][Code]",
+                  "description": "facebookresearch/classifier-balancing",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2004,7 +2004,7 @@
                 {
                   "node_type": "item",
                   "title": "Tailoring Self-Supervision for Supervised Learning (ECCV 2022) [Paper",
-                  "description": "][Code]",
+                  "description": "wjun0830/Localizable-Rotation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2039,7 +2039,7 @@
                 {
                   "node_type": "item",
                   "title": "Long-tail learning via logit adjustment (ICLR 2021) [Paper",
-                  "description": "][Code]",
+                  "description": "google-research/google-research",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2052,7 +2052,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38862,
+                    "stars": 38863,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2064,7 +2064,7 @@
                 {
                   "node_type": "item",
                   "title": "Posterior Re-calibration for Imbalanced Datasets (NeurIPS 2020) [Paper",
-                  "description": "][Code]",
+                  "description": "GT-RIPL/UNO-IC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2125,7 +2125,7 @@
                 {
                   "node_type": "item",
                   "title": "Distribution Aligning Refinery of Pseudo-label for Imbalanced Semi-supervised Learning (NeurIPS 2020) [Paper",
-                  "description": "][Code]",
+                  "description": "bbuing9/DARP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2146,7 +2146,7 @@
                 {
                   "node_type": "item",
                   "title": "DASO: Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning (CVPR 2022) [Paper",
-                  "description": "][Code]",
+                  "description": "ytaek-oh/daso",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2171,7 +2171,7 @@
                 {
                   "node_type": "item",
                   "title": "ABC: Auxiliary Balanced Classifier for Class-imbalanced Semi-supervised Learning (NeurIPS 2021) [Paper",
-                  "description": "][Code]",
+                  "description": "LeeHyuck/ABC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2227,7 +2227,7 @@
                 {
                   "node_type": "item",
                   "title": "BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition (CVPR 2020) [Paper",
-                  "description": "][Code]",
+                  "description": "megvii-research/BBN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2289,7 +2289,7 @@
                 {
                   "node_type": "item",
                   "title": "Balanced MSE for Imbalanced Visual Regression (CVPR 2022) [Paper",
-                  "description": "] [Code]",
+                  "description": "jiawei-ren/BalancedMSE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2317,7 +2317,7 @@
                 {
                   "node_type": "item",
                   "title": "RankSim: Ranking Similarity Regularization for Deep Imbalanced Regression (ICML 2022) [Paper",
-                  "description": "] [Code]",
+                  "description": "BorealisAI/ranksim-imbalanced-regression",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2343,7 +2343,7 @@
                 {
                   "node_type": "item",
                   "title": "Density-based weighting for imbalanced regression (Machine Learning [J], 2021) [Paper",
-                  "description": "][Code]",
+                  "description": "SteiMi/density-based-weighting-for-imbalanced-regression",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2364,7 +2364,7 @@
                 {
                   "node_type": "item",
                   "title": "Semi-Supervised Graph Imbalanced Regression (KDD 2023) [Paper",
-                  "description": "] [Code]",
+                  "description": "liugangcode/SGIR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2392,7 +2392,7 @@
                 {
                   "node_type": "item",
                   "title": "Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition (AAAI 2023) [Paper",
-                  "description": "][Code]",
+                  "description": "wjun0830/MOVE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2438,7 +2438,7 @@
             {
               "node_type": "item",
               "title": "Imbalanced Databases",
-              "description": null,
+              "description": "gykovacs/common_datasets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2696,7 +2696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:44:08.050Z",
+    "last_updated": "2026-10-03T04:49:21.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
