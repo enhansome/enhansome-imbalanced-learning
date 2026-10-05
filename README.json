@@ -79,10 +79,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-02T13:31:54Z",
-                    "open_issues": 432,
+                    "open_issues": 433,
                     "owner": "joblib",
                     "repo": "joblib",
-                    "stars": 4399,
+                    "stars": 4400,
                     "topics": [
                       "caching",
                       "memoization",
@@ -499,10 +499,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-03T14:29:24Z",
-                    "open_issues": 2162,
+                    "open_issues": 2164,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67461,
+                    "stars": 67472,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -640,10 +640,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-03T14:29:24Z",
-                    "open_issues": 2162,
+                    "open_issues": 2164,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67461,
+                    "stars": 67472,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1692,10 +1692,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-30T06:02:30Z",
-                    "open_issues": 594,
+                    "open_issues": 595,
                     "owner": "facebookresearch",
                     "repo": "detectron2",
-                    "stars": 34754,
+                    "stars": 34755,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
@@ -2049,10 +2049,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-30T21:03:49Z",
-                    "open_issues": 1996,
+                    "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38868,
+                    "stars": 38871,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2696,7 +2696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T00:02:16.619Z",
+    "last_updated": "2026-10-05T00:09:10.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
