@@ -498,8 +498,8 @@
                     "id": 843222,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-06T07:18:33Z",
-                    "open_issues": 2154,
+                    "last_commit": "2026-10-06T15:37:34Z",
+                    "open_issues": 2155,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
                     "stars": 67482,
@@ -639,8 +639,8 @@
                     "id": 843222,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-06T07:18:33Z",
-                    "open_issues": 2154,
+                    "last_commit": "2026-10-06T15:37:34Z",
+                    "open_issues": 2155,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
                     "stars": 67482,
@@ -1695,7 +1695,7 @@
                     "open_issues": 595,
                     "owner": "facebookresearch",
                     "repo": "detectron2",
-                    "stars": 34759,
+                    "stars": 34761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
@@ -2052,7 +2052,7 @@
                     "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38874,
+                    "stars": 38879,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2696,7 +2696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:40:23.468Z",
+    "last_updated": "2026-10-07T01:00:42.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
