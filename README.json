@@ -78,11 +78,11 @@
                     "id": 654608,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-15T05:14:36Z",
+                    "last_commit": "2026-10-16T08:45:34Z",
                     "open_issues": 442,
                     "owner": "joblib",
                     "repo": "joblib",
-                    "stars": 4406,
+                    "stars": 4408,
                     "topics": [
                       "caching",
                       "memoization",
@@ -207,7 +207,7 @@
             "open_issues": 18,
             "owner": "SCI2SUGR",
             "repo": "KEEL",
-            "stars": 130,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:16.204Z"
@@ -498,11 +498,11 @@
                     "id": 843222,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-14T13:00:44Z",
-                    "open_issues": 2155,
+                    "last_commit": "2026-10-16T17:21:46Z",
+                    "open_issues": 2156,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67625,
+                    "stars": 67710,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -639,11 +639,11 @@
                     "id": 843222,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-14T13:00:44Z",
-                    "open_issues": 2155,
+                    "last_commit": "2026-10-16T17:21:46Z",
+                    "open_issues": 2156,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67625,
+                    "stars": 67710,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1099,7 +1099,7 @@
                     "open_issues": 18,
                     "owner": "SCI2SUGR",
                     "repo": "KEEL",
-                    "stars": 130,
+                    "stars": 131,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
@@ -1120,7 +1120,7 @@
                     "open_issues": 18,
                     "owner": "SCI2SUGR",
                     "repo": "KEEL",
-                    "stars": 130,
+                    "stars": 131,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
@@ -1364,7 +1364,7 @@
                     "open_issues": 18,
                     "owner": "SCI2SUGR",
                     "repo": "KEEL",
-                    "stars": 130,
+                    "stars": 131,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
@@ -1465,7 +1465,7 @@
                 "open_issues": 18,
                 "owner": "SCI2SUGR",
                 "repo": "KEEL",
-                "stars": 130,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:16.204Z"
@@ -1486,7 +1486,7 @@
                 "open_issues": 18,
                 "owner": "SCI2SUGR",
                 "repo": "KEEL",
-                "stars": 130,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:16.204Z"
@@ -1507,7 +1507,7 @@
                 "open_issues": 18,
                 "owner": "SCI2SUGR",
                 "repo": "KEEL",
-                "stars": 130,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:16.204Z"
@@ -1695,7 +1695,7 @@
                     "open_issues": 594,
                     "owner": "facebookresearch",
                     "repo": "detectron2",
-                    "stars": 34904,
+                    "stars": 34913,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
@@ -2049,10 +2049,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-15T02:18:00Z",
-                    "open_issues": 2006,
+                    "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38923,
+                    "stars": 38928,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2696,7 +2696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:50:27.484Z",
+    "last_updated": "2026-10-16T23:52:09.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
