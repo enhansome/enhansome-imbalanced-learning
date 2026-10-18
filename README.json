@@ -79,7 +79,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-16T08:45:34Z",
-                    "open_issues": 444,
+                    "open_issues": 445,
                     "owner": "joblib",
                     "repo": "joblib",
                     "stars": 4408,
@@ -498,11 +498,11 @@
                     "id": 843222,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-16T17:21:46Z",
-                    "open_issues": 2165,
+                    "last_commit": "2026-10-18T16:03:44Z",
+                    "open_issues": 2158,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67733,
+                    "stars": 67750,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -639,11 +639,11 @@
                     "id": 843222,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-16T17:21:46Z",
-                    "open_issues": 2165,
+                    "last_commit": "2026-10-18T16:03:44Z",
+                    "open_issues": 2158,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67733,
+                    "stars": 67750,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1695,7 +1695,7 @@
                     "open_issues": 594,
                     "owner": "facebookresearch",
                     "repo": "detectron2",
-                    "stars": 34920,
+                    "stars": 34927,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
@@ -2052,7 +2052,7 @@
                     "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38931,
+                    "stars": 38947,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2609,7 +2609,7 @@
                     "open_issues": 14,
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9414,
+                    "stars": 9419,
                     "topics": [
                       "anomaly-detection",
                       "awesome",
@@ -2696,7 +2696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:24:17.424Z",
+    "last_updated": "2026-10-18T23:38:19.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
