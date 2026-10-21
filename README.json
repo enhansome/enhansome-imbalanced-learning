@@ -19,7 +19,7 @@
             "open_issues": 110,
             "owner": "scikit-learn-contrib",
             "repo": "imbalanced-learn",
-            "stars": 7130,
+            "stars": 7131,
             "topics": [
               "data-analysis",
               "data-science",
@@ -79,7 +79,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-16T08:45:34Z",
-                    "open_issues": 449,
+                    "open_issues": 445,
                     "owner": "joblib",
                     "repo": "joblib",
                     "stars": 4410,
@@ -498,7 +498,7 @@
                     "id": 843222,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-19T14:42:23Z",
+                    "last_commit": "2026-10-20T06:15:29Z",
                     "open_issues": 2163,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
@@ -639,7 +639,7 @@
                     "id": 843222,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-19T14:42:23Z",
+                    "last_commit": "2026-10-20T06:15:29Z",
                     "open_issues": 2163,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
@@ -938,7 +938,7 @@
                     "open_issues": 110,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7130,
+                    "stars": 7131,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -965,7 +965,7 @@
                     "open_issues": 110,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7130,
+                    "stars": 7131,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -992,7 +992,7 @@
                     "open_issues": 110,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7130,
+                    "stars": 7131,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1019,7 +1019,7 @@
                     "open_issues": 110,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7130,
+                    "stars": 7131,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1046,7 +1046,7 @@
                     "open_issues": 110,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7130,
+                    "stars": 7131,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1148,7 +1148,7 @@
                     "open_issues": 110,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7130,
+                    "stars": 7131,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1175,7 +1175,7 @@
                     "open_issues": 110,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7130,
+                    "stars": 7131,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1202,7 +1202,7 @@
                     "open_issues": 110,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7130,
+                    "stars": 7131,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1229,7 +1229,7 @@
                     "open_issues": 110,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7130,
+                    "stars": 7131,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1256,7 +1256,7 @@
                     "open_issues": 110,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7130,
+                    "stars": 7131,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1283,7 +1283,7 @@
                     "open_issues": 110,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7130,
+                    "stars": 7131,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1310,7 +1310,7 @@
                     "open_issues": 110,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7130,
+                    "stars": 7131,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1337,7 +1337,7 @@
                     "open_issues": 110,
                     "owner": "scikit-learn-contrib",
                     "repo": "imbalanced-learn",
-                    "stars": 7130,
+                    "stars": 7131,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1397,7 +1397,7 @@
                         "open_issues": 110,
                         "owner": "scikit-learn-contrib",
                         "repo": "imbalanced-learn",
-                        "stars": 7130,
+                        "stars": 7131,
                         "topics": [
                           "data-analysis",
                           "data-science",
@@ -1424,7 +1424,7 @@
                         "open_issues": 110,
                         "owner": "scikit-learn-contrib",
                         "repo": "imbalanced-learn",
-                        "stars": 7130,
+                        "stars": 7131,
                         "topics": [
                           "data-analysis",
                           "data-science",
@@ -1691,11 +1691,11 @@
                     "id": 206660580,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-30T06:02:30Z",
+                    "last_commit": "2026-10-20T11:05:59Z",
                     "open_issues": 594,
                     "owner": "facebookresearch",
                     "repo": "detectron2",
-                    "stars": 34930,
+                    "stars": 34937,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
@@ -2052,7 +2052,7 @@
                     "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38961,
+                    "stars": 38988,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2609,7 +2609,7 @@
                     "open_issues": 14,
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9418,
+                    "stars": 9419,
                     "topics": [
                       "anomaly-detection",
                       "awesome",
@@ -2696,7 +2696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T00:37:54.845Z",
+    "last_updated": "2026-10-21T00:07:08.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
