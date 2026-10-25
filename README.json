@@ -79,7 +79,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-16T08:45:34Z",
-                    "open_issues": 444,
+                    "open_issues": 446,
                     "owner": "joblib",
                     "repo": "joblib",
                     "stars": 4414,
@@ -498,11 +498,11 @@
                     "id": 843222,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-24T21:40:06Z",
-                    "open_issues": 2171,
+                    "last_commit": "2026-10-25T14:38:20Z",
+                    "open_issues": 2174,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67897,
+                    "stars": 67910,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -639,11 +639,11 @@
                     "id": 843222,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-24T21:40:06Z",
-                    "open_issues": 2171,
+                    "last_commit": "2026-10-25T14:38:20Z",
+                    "open_issues": 2174,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67897,
+                    "stars": 67910,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1695,7 +1695,7 @@
                     "open_issues": 594,
                     "owner": "facebookresearch",
                     "repo": "detectron2",
-                    "stars": 34945,
+                    "stars": 34949,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
@@ -2048,11 +2048,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-23T21:57:07Z",
+                    "last_commit": "2026-10-25T00:00:25Z",
                     "open_issues": 2024,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39016,
+                    "stars": 39025,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2609,7 +2609,7 @@
                     "open_issues": 14,
                     "owner": "yzhao062",
                     "repo": "anomaly-detection-resources",
-                    "stars": 9426,
+                    "stars": 9429,
                     "topics": [
                       "anomaly-detection",
                       "awesome",
@@ -2696,7 +2696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T23:41:44.964Z",
+    "last_updated": "2026-10-25T23:31:54.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
