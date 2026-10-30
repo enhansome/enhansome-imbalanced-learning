@@ -34,7 +34,7 @@
 
 **Class-imbalance (also known as the long-tail problem)** is the fact that the classes are not represented equally in a classification problem, which is quite common in practice. For instance, fraud detection, prediction of rare adverse drug reactions and prediction gene families. Failure to account for the class imbalance often causes inaccurate and decreased predictive performance of many classification algorithms. **Imbalanced learning aims to tackle the class imbalance problem to learn an unbiased model from imbalanced data.**
 
-**Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,687 | 🐛 30 | 🌐 Python | 📅 2026-10-27. In this repository:**
+**Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,689 | 🐛 31 | 🌐 Python | 📅 2026-10-27. In this repository:**
 
 * **Frameworks** and **libraries** are grouped by *programming language*.
 * **Research papers** are grouped by *research field*.
@@ -51,7 +51,7 @@
 </h3>
 
 * Updated section [*Graph Learning*](#graph-learning).
-* Add a package [imbalanced-ensemble](https://github.com/ZhiningLiu1998/imbalanced-ensemble) ⭐ 429 | 🐛 5 | 🌐 Python | 📅 2026-03-05 \[[Github](https://github.com/ZhiningLiu1998/imbalanced-ensemble) ⭐ 429 | 🐛 5 | 🌐 Python | 📅 2026-03-05]\[[Documentation](https://imbalanced-ensemble.readthedocs.io/)].
+* Add a package [imbalanced-ensemble](https://github.com/ZhiningLiu1998/imbalanced-ensemble) ⭐ 429 | 🐛 6 | 🌐 Python | 📅 2026-03-05 \[[Github](https://github.com/ZhiningLiu1998/imbalanced-ensemble) ⭐ 429 | 🐛 6 | 🌐 Python | 📅 2026-03-05]\[[Documentation](https://imbalanced-ensemble.readthedocs.io/)].
 
 <!-- **Disclosure:** Zhining Liu is an author on the following works: **[imbalanced-ensemble](https://github.com/ZhiningLiu1998/imbalanced-ensemble), [Self-paced Ensemble](https://github.com/ZhiningLiu1998/self-paced-ensemble), [MESA](https://github.com/ZhiningLiu1998/mesa)**.  -->
 
@@ -139,7 +139,7 @@
   * Currently (v0.8.0), it includes 21 different re-sampling techniques, including over-sampling, under-sampling and hybrid ones (e.g., *SMOTE, ADASYN, TomekLinks, NearMiss, OneSideSelection*, SMOTETomek, ...)
   * This package also provides many utilities, e.g., *Batch generator for Keras/TensorFlow*, see [API reference](https://imbalanced-learn.org/stable/references/index.html#api).
 * [**smote\_variants**](https://smote-variants.readthedocs.io/en/latest/) \[[**Documentation**](https://smote-variants.readthedocs.io/en/latest/)]\[[**Github**](https://github.com/analyticalmindsltd/smote_variants) ⭐ 691 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2024-01-03] - A collection of 85 minority ***over-sampling*** techniques for imbalanced learning with multi-class oversampling and model selection features (All writen in Python, also support R and Julia).
-* [**imbalanced-ensemble**](https://imbalanced-ensemble.readthedocs.io/) \[[**Github**](https://github.com/ZhiningLiu1998/imbalanced-ensemble) ⭐ 429 | 🐛 5 | 🌐 Python | 📅 2026-03-05]\[[**Documentation**](https://imbalanced-ensemble.readthedocs.io/)]\[[**Gallery**](https://imbalanced-ensemble.readthedocs.io/en/latest/auto_examples/index.html#)]\[[**Paper**](https://arxiv.org/pdf/2111.12776.pdf)]
+* [**imbalanced-ensemble**](https://imbalanced-ensemble.readthedocs.io/) \[[**Github**](https://github.com/ZhiningLiu1998/imbalanced-ensemble) ⭐ 429 | 🐛 6 | 🌐 Python | 📅 2026-03-05]\[[**Documentation**](https://imbalanced-ensemble.readthedocs.io/)]\[[**Gallery**](https://imbalanced-ensemble.readthedocs.io/en/latest/auto_examples/index.html#)]\[[**Paper**](https://arxiv.org/pdf/2111.12776.pdf)]
 
   > **NOTE:** written in python, easy to use.
 
@@ -204,8 +204,8 @@
 
   > **NOTE:** simple but effective solution.
 
-  * EasyEnsemble \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/easy_ensemble.py) ⭐ 429 | 🐛 5 | 🌐 Python | 📅 2026-03-05]
-  * BalanceCascade \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/balance_cascade.py) ⭐ 429 | 🐛 5 | 🌐 Python | 📅 2026-03-05]
+  * EasyEnsemble \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/easy_ensemble.py) ⭐ 429 | 🐛 6 | 🌐 Python | 📅 2026-03-05]
+  * BalanceCascade \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/balance_cascade.py) ⭐ 429 | 🐛 6 | 🌐 Python | 📅 2026-03-05]
 
 * **The Effects of Ensembling on Long-Tailed Data (Neurips 2023 Heavy Tails Workshop) \[[**Paper**](https://openreview.net/pdf?id=l4GYs60kre)]**
 
@@ -219,9 +219,9 @@
 
 <!-- - **Boosting-based** -->
 
-* **AdaBoost (1995, 18700+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1997-JCSS-Schapire-A%20Decision-Theoretic%20Generalization%20of%20On-Line%20Learning%20\(AdaBoost\).pdf)]\[[**Code**](https://github.com/scikit-learn/scikit-learn/blob/95d4f0841/sklearn/ensemble/_weight_boosting.py#L285) ⭐ 67,984 | 🐛 2,157 | 🌐 Python | 📅 2026-10-28]** - Adaptive Boosting with C4.5
-* **SMOTEBoost (2003, 1100+ citations) [\[**Paper**\]](https://sci2s.ugr.es/keel/pdf/algorithm/congreso/2003-PKDD-SMOTEBoost-ChawlaLazarevicHallBowyer.pdf)\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/over_sampling/smote_bagging.py) ⭐ 429 | 🐛 5 | 🌐 Python | 📅 2026-03-05]** - Synthetic Minority Over-sampling TEchnique Boosting
-* **RUSBoost (2009, 850+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/2010-IEEE%20TSMCpartA-RUSBoost%20A%20Hybrid%20Approach%20to%20Alleviating%20Class%20Imbalance.pdf)] \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/rus_boost.py) ⭐ 429 | 🐛 5 | 🌐 Python | 📅 2026-03-05]** - Random Under-Sampling Boosting
+* **AdaBoost (1995, 18700+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1997-JCSS-Schapire-A%20Decision-Theoretic%20Generalization%20of%20On-Line%20Learning%20\(AdaBoost\).pdf)]\[[**Code**](https://github.com/scikit-learn/scikit-learn/blob/95d4f0841/sklearn/ensemble/_weight_boosting.py#L285) ⭐ 67,913 | 🐛 2,160 | 🌐 Python | 📅 2026-10-29]** - Adaptive Boosting with C4.5
+* **SMOTEBoost (2003, 1100+ citations) [\[**Paper**\]](https://sci2s.ugr.es/keel/pdf/algorithm/congreso/2003-PKDD-SMOTEBoost-ChawlaLazarevicHallBowyer.pdf)\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/over_sampling/smote_bagging.py) ⭐ 429 | 🐛 6 | 🌐 Python | 📅 2026-03-05]** - Synthetic Minority Over-sampling TEchnique Boosting
+* **RUSBoost (2009, 850+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/2010-IEEE%20TSMCpartA-RUSBoost%20A%20Hybrid%20Approach%20to%20Alleviating%20Class%20Imbalance.pdf)] \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/rus_boost.py) ⭐ 429 | 🐛 6 | 🌐 Python | 📅 2026-03-05]** - Random Under-Sampling Boosting
 * **RAMOBoost (2010, 140+ citations) \[[**Paper**](https://www.ele.uri.edu/faculty/he/PDFfiles/ramoboost.pdf)] \[[**Code**](https://github.com/dialnd/imbalanced-algorithms/blob/master/ramo.py#L133) ⭐ 240 | 🐛 1 | 🌐 Python | 📅 2022-01-29]** - Ranked Minority Over-sampling in Boosting
 * **DataBoost (2004, 570+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/2004-SIGKDD-GuoViktor.pdf)]** - Boosting with Data Generation for Imbalanced Data
 * **MSMOTEBoost (2011, 1300+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/2011-IEEE%20TSMC%20partC-%20GalarFdezBarrenecheaBustinceHerrera.pdf)]** - Modified Synthetic Minority Over-sampling TEchnique Boosting
@@ -232,20 +232,20 @@
 
 <!-- - **Bagging-based** -->
 
-* **Bagging (1996, 20000+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1996-ML-Breiman-Bagging%20Predictors.pdf)]\[[**Code**](https://github.com/scikit-learn/scikit-learn/blob/95d4f0841/sklearn/ensemble/_bagging.py#L433) ⭐ 67,984 | 🐛 2,157 | 🌐 Python | 📅 2026-10-28]** - Bagging predictor
+* **Bagging (1996, 20000+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1996-ML-Breiman-Bagging%20Predictors.pdf)]\[[**Code**](https://github.com/scikit-learn/scikit-learn/blob/95d4f0841/sklearn/ensemble/_bagging.py#L433) ⭐ 67,913 | 🐛 2,160 | 🌐 Python | 📅 2026-10-29]** - Bagging predictor
 * **Diversity Analysis on Imbalanced Data Sets by Using Ensemble Models (2009, 400+ citations) \[[**Paper**](https://sci2s.ugr.es/keel/pdf/algorithm/congreso/2009-IEEE%20CIDM-WangYao.pdf)]**
 
-  * **UnderBagging** \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/under_bagging.py) ⭐ 429 | 🐛 5 | 🌐 Python | 📅 2026-03-05]
-  * **OverBagging** \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/over_sampling/over_bagging.py) ⭐ 429 | 🐛 5 | 🌐 Python | 📅 2026-03-05]
-  * **SMOTEBagging** \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/over_sampling/smote_bagging.py) ⭐ 429 | 🐛 5 | 🌐 Python | 📅 2026-03-05]
+  * **UnderBagging** \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/under_sampling/under_bagging.py) ⭐ 429 | 🐛 6 | 🌐 Python | 📅 2026-03-05]
+  * **OverBagging** \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/over_sampling/over_bagging.py) ⭐ 429 | 🐛 6 | 🌐 Python | 📅 2026-03-05]
+  * **SMOTEBagging** \[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/over_sampling/smote_bagging.py) ⭐ 429 | 🐛 6 | 🌐 Python | 📅 2026-03-05]
 
 #### 2.2.4 *Cost-sensitive ensemble*
 
 <!-- - **Cost-sensitive ensemble** -->
 
-* **AdaCost (ICML 1999, 800+ citations) \[[**Paper**](https://www.researchgate.net/profile/Salvatore-Stolfo/publication/2628569_AdaCost_Misclassification_Cost-sensitive_Boosting/links/0fcfd50ca581d7016f000000/AdaCost-Misclassification-Cost-sensitive-Boosting.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/reweighting/adacost.py) ⭐ 429 | 🐛 5 | 🌐 Python | 📅 2026-03-05]** - Misclassification Cost-sensitive boosting
-* **AdaUBoost (NIPS 1999, 100+ citations) \[[**Paper**](https://proceedings.neurips.cc/paper/1998/file/df12ecd077efc8c23881028604dbb8cc-Paper.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/reweighting/adauboost.py) ⭐ 429 | 🐛 5 | 🌐 Python | 📅 2026-03-05]** - AdaBoost with Unequal loss functions
-* **AsymBoost (NIPS 2001, 700+ citations) \[[**Paper**](https://www.researchgate.net/profile/Michael-Jones-66/publication/2539888_Fast_and_Robust_Classification_using_Asymmetric_AdaBoost_and_a_Detector_Cascade/links/540731780cf23d9765a83ec1/Fast-and-Robust-Classification-using-Asymmetric-AdaBoost-and-a-Detector-Cascade.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/reweighting/asymmetric_boost.py) ⭐ 429 | 🐛 5 | 🌐 Python | 📅 2026-03-05]** - Asymmetric AdaBoost and detector cascade
+* **AdaCost (ICML 1999, 800+ citations) \[[**Paper**](https://www.researchgate.net/profile/Salvatore-Stolfo/publication/2628569_AdaCost_Misclassification_Cost-sensitive_Boosting/links/0fcfd50ca581d7016f000000/AdaCost-Misclassification-Cost-sensitive-Boosting.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/reweighting/adacost.py) ⭐ 429 | 🐛 6 | 🌐 Python | 📅 2026-03-05]** - Misclassification Cost-sensitive boosting
+* **AdaUBoost (NIPS 1999, 100+ citations) \[[**Paper**](https://proceedings.neurips.cc/paper/1998/file/df12ecd077efc8c23881028604dbb8cc-Paper.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/reweighting/adauboost.py) ⭐ 429 | 🐛 6 | 🌐 Python | 📅 2026-03-05]** - AdaBoost with Unequal loss functions
+* **AsymBoost (NIPS 2001, 700+ citations) \[[**Paper**](https://www.researchgate.net/profile/Michael-Jones-66/publication/2539888_Fast_and_Robust_Classification_using_Asymmetric_AdaBoost_and_a_Detector_Cascade/links/540731780cf23d9765a83ec1/Fast-and-Robust-Classification-using-Asymmetric-AdaBoost-and-a-Detector-Cascade.pdf)]\[[**Code**](https://github.com/ZhiningLiu1998/imbalanced-ensemble/blob/main/imbalanced_ensemble/ensemble/reweighting/asymmetric_boost.py) ⭐ 429 | 🐛 6 | 🌐 Python | 📅 2026-03-05]** - Asymmetric AdaBoost and detector cascade
 
 ## 2.3 Data resampling
 
@@ -333,7 +333,7 @@
 
 <!-- - **Loss function engineering** -->
 
-* Focal loss for dense object detection (ICCV 2017, 2600+ citations) \[[**Paper**](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)]\[[**Code (detectron2)**](https://github.com/facebookresearch/detectron2) ⭐ 34,954 | 🐛 594 | 🌐 Python | 📅 2026-10-27]\[[**Code (unofficial)**](https://github.com/clcarwin/focal_loss_pytorch) ⭐ 990 | 🐛 14 | 🌐 Python | 📅 2019-10-16] - A uniform loss function that focuses training on a sparse set of hard examples to prevents the vast number of easy negatives from overwhelming the detector during training.
+* Focal loss for dense object detection (ICCV 2017, 2600+ citations) \[[**Paper**](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)]\[[**Code (detectron2)**](https://github.com/facebookresearch/detectron2) ⭐ 34,955 | 🐛 594 | 🌐 Python | 📅 2026-10-27]\[[**Code (unofficial)**](https://github.com/clcarwin/focal_loss_pytorch) ⭐ 990 | 🐛 14 | 🌐 Python | 📅 2019-10-16] - A uniform loss function that focuses training on a sparse set of hard examples to prevents the vast number of easy negatives from overwhelming the detector during training.
 
   > **NOTE:** elegant solution, high influence.
 * Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss (NIPS 2019, 10+ citations) \[[**Paper**](https://papers.nips.cc/paper/8435-learning-imbalanced-datasets-with-label-distribution-aware-margin-loss.pdf)]\[[**Code**](https://github.com/kaidic/LDAM-DRW) ⭐ 700 | 🐛 12 | 🌐 Python | 📅 2021-12-25]  - A theoretically-principled label-distribution-aware margin (LDAM) loss motivated by minimizing a margin-based generalization bound.
@@ -377,7 +377,7 @@
 
 <!-- - **Posterior Recalibration** -->
 
-* Long-tail learning via logit adjustment (ICLR 2021) \[[**Paper**](https://arxiv.org/pdf/2007.07314v1.pdf)]\[[**Code**](https://github.com/google-research/google-research/tree/master/logit_adjustment) ⭐ 39,048 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-28]
+* Long-tail learning via logit adjustment (ICLR 2021) \[[**Paper**](https://arxiv.org/pdf/2007.07314v1.pdf)]\[[**Code**](https://github.com/google-research/google-research/tree/master/logit_adjustment) ⭐ 39,059 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-29]
 * Posterior Re-calibration for Imbalanced Datasets (NeurIPS 2020) \[[**Paper**](https://arxiv.org/pdf/2010.11820.pdf)]\[[**Code**](https://github.com/GT-RIPL/UNO-IC) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2020-11-22]
 
 #### 2.5.8 *Semi/Self-supervised Learning*
@@ -543,8 +543,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,111 | 🐛 87 | 🌐 MDX | 📅 2026-10-26 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,111 | 🐛 88 | 🌐 MDX | 📅 2026-10-29 specification. Contributions of any kind welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
