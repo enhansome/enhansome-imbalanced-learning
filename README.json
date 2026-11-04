@@ -79,7 +79,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-11-02T10:52:14Z",
-                    "open_issues": 456,
+                    "open_issues": 458,
                     "owner": "joblib",
                     "repo": "joblib",
                     "stars": 4415,
@@ -150,11 +150,11 @@
             "id": 19862061,
             "language": "R",
             "license": null,
-            "last_commit": "2026-10-22T23:58:43Z",
-            "open_issues": 249,
+            "last_commit": "2026-11-03T17:26:30Z",
+            "open_issues": 247,
             "owner": "topepo",
             "repo": "caret",
-            "stars": 1667,
+            "stars": 1666,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:16.204Z"
@@ -498,11 +498,11 @@
                     "id": 843222,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-03T01:39:52Z",
-                    "open_issues": 2160,
+                    "last_commit": "2026-11-03T18:23:23Z",
+                    "open_issues": 2148,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67985,
+                    "stars": 68000,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -639,11 +639,11 @@
                     "id": 843222,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-03T01:39:52Z",
-                    "open_issues": 2160,
+                    "last_commit": "2026-11-03T18:23:23Z",
+                    "open_issues": 2148,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 67985,
+                    "stars": 68000,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -2052,7 +2052,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39098,
+                    "stars": 39103,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2696,7 +2696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:03:37.341Z",
+    "last_updated": "2026-11-04T01:38:31.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
