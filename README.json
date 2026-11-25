@@ -78,11 +78,11 @@
                     "id": 654608,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-17T12:26:31Z",
-                    "open_issues": 454,
+                    "last_commit": "2026-11-24T13:21:26Z",
+                    "open_issues": 449,
                     "owner": "joblib",
                     "repo": "joblib",
-                    "stars": 4418,
+                    "stars": 4421,
                     "topics": [
                       "caching",
                       "memoization",
@@ -154,7 +154,7 @@
             "open_issues": 240,
             "owner": "topepo",
             "repo": "caret",
-            "stars": 1667,
+            "stars": 1668,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:16.204Z"
@@ -498,11 +498,11 @@
                     "id": 843222,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-23T16:36:07Z",
-                    "open_issues": 2174,
+                    "last_commit": "2026-11-25T00:04:26Z",
+                    "open_issues": 2155,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 68302,
+                    "stars": 68319,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -639,11 +639,11 @@
                     "id": 843222,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-23T16:36:07Z",
-                    "open_issues": 2174,
+                    "last_commit": "2026-11-25T00:04:26Z",
+                    "open_issues": 2155,
                     "owner": "scikit-learn",
                     "repo": "scikit-learn",
-                    "stars": 68302,
+                    "stars": 68319,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -1695,7 +1695,7 @@
                     "open_issues": 599,
                     "owner": "facebookresearch",
                     "repo": "detectron2",
-                    "stars": 35004,
+                    "stars": 35007,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:16.204Z"
@@ -2048,11 +2048,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-24T04:17:47Z",
-                    "open_issues": 2014,
+                    "last_commit": "2026-11-24T22:16:08Z",
+                    "open_issues": 2015,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39269,
+                    "stars": 39282,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2696,7 +2696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T05:29:51.065Z",
+    "last_updated": "2026-11-25T04:33:55.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库",
